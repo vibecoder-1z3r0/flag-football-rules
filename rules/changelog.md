@@ -63,8 +63,9 @@ enforce" progressive enforcement philosophy, timeout-for-rules-clarification mec
   and a full officiating-mechanics section (crew positioning, rules-debate procedure,
   progressive enforcement philosophy).
 - 4th-down go/punt declaration introduced for FR/JV, with Peewee exempted (automatic
-  4-then-4 down progression, no punt option) — 2026 broadens punting to any down without
-  explicitly restating the Peewee exemption (see Open Issue OI-1).
+  4-then-4 down progression, no punt option) — 2026 broadens punting to any down. Confirmed
+  in v2026.2/v2026.3 that the Peewee exemption still holds, and the declaration/decision-clock
+  requirement extends to Varsity as well (FR, JV, and Varsity; Peewee exempt).
 - Clarified illegal-forward-pass includes any part of the passer's (or handoff recipient's) foot
   crossing the LOS.
 - Clarified ball-spotting ("tackle spot") and forward-progress mechanics matching the baseline,
@@ -103,8 +104,8 @@ The 4th-down go/punt decision window is not a separate timer — it rides inside
 is a delay-of-game penalty, at official discretion. The official must announce the time
 remaining in the half when declaring 4th down. See `rulebook.md` §5.3.
 
-**Still open:** whether this applies to all divisions or only FR/JV, given Peewee's 2024 exemption
-from any 4th-down decision at all — see Open Issue OI-1.
+**Division scope confirmed** (see v2026.3 below): applies to Freshman, JV, and Varsity. Peewee
+remains exempt from any 4th-down decision, per the 2024 rule.
 
 ---
 
@@ -125,3 +126,7 @@ the v2026.1 consolidation.
   playoffs alike — not just playoffs as the baseline assumed. Formerly Open Issue OI-7.
 - **2024 officiating mechanics (Officials Manual):** confirmed still current as written — no
   changes needed. Formerly Open Issue OI-5.
+- **4th-down decision clock division scope (Rule 5.3):** applies to Freshman, JV, and Varsity;
+  Peewee remains exempt from any 4th-down decision. Formerly Open Issue OI-1.
+
+All open issues from the initial consolidation (OI-1 through OI-7) are now resolved.

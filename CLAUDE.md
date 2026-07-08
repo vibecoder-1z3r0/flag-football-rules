@@ -74,20 +74,21 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 
 ## Open questions (as of 2026-07-08)
 
-See `rules/rulebook.md` Appendix A for full detail. Current open items:
-- **OI-1** — 4th-down decision clock: mechanic confirmed (rides inside the existing 30-second
-  play clock, starts at the official's "4th down" declaration; missed decision = delay of game at
-  official discretion; official announces half time remaining when declaring 4th down). Still open:
-  does it apply to all divisions, or only FR/JV (Peewee had no 4th-down decision at all in 2024)?
+See `rules/rulebook.md` Appendix A for full detail. Current open items: **none.** All items
+identified during the initial consolidation (OI-1 through OI-7) are resolved.
 
-**Resolved:** OI-2 (illegal-timeout clock runoff — 2026 supersedes 2024 outright, no
-reconciliation needed), OI-3 (failed snap + botched exchange merged into one rule, Rule 7.5),
-OI-5 (2024 officiating mechanics confirmed still current), OI-6 (no roster min/max needed;
-4-player minimum to play, otherwise forfeit), OI-7 (overtime applies to all games, not just
-playoffs). The offensive Unnecessary Roughness sign discrepancy (formerly OI-4) was a plain
-dash typo — corrected to -10 yards, loss of down, directly in `penalty-matrix.md`, no issue
-tracking needed. See `rules/rulebook.md` Appendix A, "Resolved Issues" for full detail on OI-2/
-OI-3/OI-5/OI-6/OI-7.
+**Resolved:** OI-1 (4th-down decision clock: rides inside the existing 30-second play clock,
+starts at the official's "4th down" declaration; missed decision = delay of game at official
+discretion; official announces half time remaining when declaring 4th down; applies to
+Freshman/JV/Varsity, Peewee exempt), OI-2 (illegal-timeout clock runoff — 2026 supersedes
+2024 outright, no reconciliation needed), OI-3 (failed snap + botched exchange merged into one
+rule, Rule 7.5), OI-5 (2024 officiating mechanics confirmed still current), OI-6 (no roster
+min/max needed; 4-player minimum to play, otherwise forfeit), OI-7 (overtime applies to all
+games, not just playoffs). The offensive Unnecessary Roughness sign discrepancy (formerly
+OI-4) was a plain dash typo — corrected to -10 yards, loss of down, directly in
+`penalty-matrix.md`, no issue tracking needed. See `rules/rulebook.md` Appendix A, "Resolved
+Issues" for full detail on OI-1/OI-2/OI-3/OI-5/OI-6/OI-7.
 
-Resolve these with the user, then update `custom-additions.md` / the relevant rule /
-`changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A and this list.
+Resolve new open issues with the user as they arise, then update `custom-additions.md` / the
+relevant rule / `changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A
+and this list.

@@ -380,7 +380,10 @@ the punt election to 4th down only — see Revision History.)
 ### 5.3 Fourth-Down Declaration
 
 **Rule** — On 4th down, before the snap, the offense must declare (by the coach, to the official)
-whether it is going for the line-to-gain/score or electing to punt.
+whether it is going for the line-to-gain/score or electing to punt. This declaration requirement
+(and the decision clock below) applies to **Freshman, JV, and Varsity**. Peewee has no 4th-down
+decision to make — it simply continues automatically through a second set of 4 downs (see Rule
+5.1), with no punt election and no decision clock.
 
 The decision window is **not** a separate timer — it is carried inside the existing 30-second play
 clock (Rule 3.3), which starts the moment the official declares "4th down." The coach must
@@ -394,17 +397,14 @@ of the delay-of-game penalty for a missed 4th-down decision carries the same ref
 as any other delay-of-game situation (see `officials-manual.md`'s "teach then enforce"
 philosophy) — it is not automatic on the first violation of a season.
 
-Under the 2024 document, Peewee had no 4th-down decision at all (it simply continued through a
-second set of 4 downs automatically); the 2026 documents don't explicitly restate this Peewee
-carve-out, and it remains unconfirmed whether this decision-clock mechanic applies to Peewee
-at all — see Open Issue OI-1.
-
 **Revision History**
+- Confirmed — 4th-down decision clock applies to Freshman, JV, and Varsity (not Peewee, which
+  has no 4th-down decision at all, per the 2024 rule). Formerly Open Issue OI-1; see Resolved
+  Issues.
 - v2026.2 (pending formal write-up) — 4th-down decision clock confirmed as part of the existing
   30-second play clock (not a separate timer), starting at the official's declaration of 4th down;
   missed decision = delay of game, at official discretion; official must announce half time
-  remaining when declaring 4th down. Division scope (all divisions vs. FR/JV only) still open —
-  see Open Issue OI-1.
+  remaining when declaring 4th down.
 - v2026.1 — Lancaster 2026 broadened the punt option to any down (Rule 5.2), but a 4th-down
   go/punt declaration is still the operative decision point in practice for FR/JV since the punt
   yardage/possession outcome is defined relative to "4th down" scenarios in the source
@@ -951,18 +951,9 @@ decision from the user. Each open item should be discussed with the league and, 
 folded back into the relevant rule above with an updated Revision History entry (moved to
 "Resolved Issues" below rather than deleted).
 
-### OI-1 — Fourth-Down Decision Clock: Division Scope
-
-Status: mechanic confirmed and in force — see Rule 5.3 (the decision window rides inside the
-existing 30-second play clock, starting at the official's declaration of 4th down; a missed
-decision is a delay-of-game penalty at official discretion; the official must announce time
-remaining in the half when declaring 4th down).
-
-Still open: does this decision-clock mechanic apply to all divisions, or only FR/JV? The 2024
-document gave Peewee no 4th-down decision at all (automatic 4-then-4 down progression, no
-punt election), and the 2026 documents don't explicitly restate that carve-out. Confirm whether
-Peewee still has no decision to make (in which case this mechanic is moot for that division) or
-whether Peewee now also declares on 4th down.
+*No open issues at this time.* All items raised during the initial consolidation (OI-1 through OI-7)
+have been resolved — see "Resolved Issues" below. New ambiguities/contradictions/gaps
+identified in future revisions get logged here, numbered continuing from OI-8.
 
 ---
 
@@ -970,6 +961,12 @@ whether Peewee now also declares on 4th down.
 
 Formerly open, now settled by the user. Kept here (rather than deleted) so the reasoning behind
 the current rule text stays traceable.
+
+### OI-1 (Resolved) — Fourth-Down Decision Clock: Division Scope
+
+Was: unclear whether the 4th-down decision clock (Rule 5.3) applies to all divisions or only some,
+given Peewee's 2024 exemption from any 4th-down decision at all. **Resolution:** applies to
+Freshman, JV, and Varsity. Peewee remains exempt — no 4th-down decision, no decision clock.
 
 ### OI-2 (Resolved) — Illegal-Timeout Clock Runoff
 
