@@ -20,11 +20,11 @@ baseline that everything else layers on top of.
   (JV/Varsity) — Freshman/Peewee blitzer must self-identify with a raised hand.
 - New defensive alignment restriction: Peewee/Freshman/Girls non-blitzing defenders must
   stay 5 yards off the LOS until the snap; only the identified blitzer may line up closer.
-- New "botched exchange" (fumbled handoff) rule with division-specific do-over allowances —
-  see Open Issue OI-3 regarding overlap with the 2024 "failed snap" rule.
+- New "botched exchange" (fumbled handoff) rule with division-specific do-over allowances,
+  later merged with the 2024 "failed snap" rule into one rule (Rule 7.5) — see v2026.3 below.
 - Overtime format completely replaced: shootout-style, both teams attempt from the same
-  distance each round (5 then 10 yards), no coin-toss choice of offense/defense — see Open
-  Issue OI-7 on whether this applies to regular-season games or only playoffs.
+  distance each round (5 then 10 yards), no coin-toss choice of offense/defense. Confirmed to
+  apply to all games, not just playoffs (see v2026.3).
 - PAT/conversion interceptions are now returnable for 2 points (baseline said no return, dead
   immediately).
 - Coach-on-field counts formalized by division (Peewee 2, Freshman/Girls FR/JV 1, JV/Varsity 0).
@@ -39,10 +39,9 @@ baseline that everything else layers on top of.
 - Offensive Unnecessary Roughness penalty: two of three source documents had a "+10 yards"
   typo; corrected to -10 yards, loss of down, consistent with every other offensive penalty.
 
-**Not restated from 2024 (carried forward as still-current, pending confirmation — Open Issue
-OI-5):** 2-puck system, primary/line-judge crew role split, midfield rules-debate procedure,
-"teach then enforce" progressive enforcement philosophy, timeout-for-rules-clarification
-mechanic.
+**Not restated from 2024, confirmed still current by the user (formerly Open Issue OI-5):**
+2-puck system, primary/line-judge crew role split, midfield rules-debate procedure, "teach then
+enforce" progressive enforcement philosophy, timeout-for-rules-clarification mechanic.
 
 ---
 
@@ -106,3 +105,23 @@ remaining in the half when declaring 4th down. See `rulebook.md` §5.3.
 
 **Still open:** whether this applies to all divisions or only FR/JV, given Peewee's 2024 exemption
 from any 4th-down decision at all — see Open Issue OI-1.
+
+---
+
+## v2026.3 — User-Directed Clarifications and Merges
+
+**Sources:** direct decisions from the user (league admin), resolving open issues raised during
+the v2026.1 consolidation.
+
+- **Snap and Exchange Failures (Rule 7.5):** the 2024 "failed snap" rule and the 2026 "botched
+  exchange" rule are merged into a single rule — one unified scenario, one division-based
+  do-over table (2 free redos per half for Peewee/Freshman/Girls Freshman, none for JV/Varsity).
+  Formerly Open Issue OI-3.
+- **Roster size (Rule 1.2):** no league-specified roster minimum/maximum is needed. The
+  operative threshold is a 4-player minimum to play a game; fewer than 4 available players is a
+  forfeit (Rule 4.5). Replaces the baseline's 5–10 roster / drop-to-4-on-injury structure.
+  Formerly Open Issue OI-6.
+- **Overtime scope (Rule 13.1):** confirmed to apply to all games — regular season and
+  playoffs alike — not just playoffs as the baseline assumed. Formerly Open Issue OI-7.
+- **2024 officiating mechanics (Officials Manual):** confirmed still current as written — no
+  changes needed. Formerly Open Issue OI-5.

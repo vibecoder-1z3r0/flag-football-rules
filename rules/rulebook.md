@@ -61,18 +61,19 @@ the team that started the game on defense; teams also change sides at halftime.
 
 ---
 
-### 1.2 Rosters
+### 1.2 Rosters and Minimum to Play
 
-**Rule** — Teams must consist of at least 5 and no more than 10 players. Games start with a
-minimum of 5 players; in the event of injuries leaving a team short, a team may finish a game
-with as few as 4 players on the field, but no fewer.
-
-**Officials Notes** — This rule is carried forward from the USA Football baseline unchanged; no
-Lancaster document specifies a different min/max roster size (only the on-field count of 5-a-side
-is confirmed for 2026 — see Rule 1.2 note below and Open Issue OI-6).
+**Rule** — The league does not specify a full roster minimum/maximum — only the on-field
+format (5-a-side) is defined, and no cap or floor on total roster size is needed. A team must be
+able to field at least 4 players to play a game; a team unable to field 4 players forfeits (see
+Rule 4.5).
 
 **Revision History**
-- v0 (baseline) — USA Football rulebook §5. No Lancaster override exists; baseline fills the gap.
+- Confirmed — the user confirmed no league-specified roster min/max is needed, and set the
+  4-player minimum-to-play/forfeit threshold. Formerly Open Issue OI-6; see Resolved Issues.
+  This replaces the baseline's more elaborate 5–10 roster / start-with-5 / drop-to-4-on-injury
+  structure, which is no longer used to fill this gap.
+- v0 (baseline) — USA Football rulebook §5 previously filled this gap (superseded).
 
 ---
 
@@ -913,8 +914,9 @@ officials, medical personnel, coaches, and players). All trash must go in design
 
 ### 13.1 Overtime Format
 
-**Rule** — Any game tied at the end of regulation goes to overtime. Each team gets one play
-from the 5-yard line to pass for a 1-point conversion.
+**Rule** — Any game tied at the end of regulation goes to overtime — regular season and
+playoffs alike (this league does not restrict overtime to playoff games only). Each team gets one
+play from the 5-yard line to pass for a 1-point conversion.
 
 - If one team succeeds and the other does not, the team that scored wins immediately.
 - If both succeed, or both fail, both teams move to the 10-yard line for another round of
@@ -934,10 +936,10 @@ modification — see Revision History. Do not mix the two formats.
   avoid ties for standings," replacing the baseline format entirely.
 - v0 (baseline) — USA Football rulebook §6.7 used a coin-toss-driven, alternating offense/
   defense-choice format with escalating 1-vs-2-point options starting at the 5-yard line
-  (1-point) and 10-yard line (2-point), and only playoff games used overtime at all. **Fully
-  superseded** for the 2026 season — see Open Issue OI-7 regarding whether overtime is now
-  used in all games or still playoff-only, since the 2026 documents don't restate that
-  restriction.
+  (1-point) and 10-yard line (2-point), and restricted overtime to playoff games only. **Fully
+  superseded** for the 2026 season, including the playoff-only restriction — confirmed by the
+  user that this league always plays overtime, regardless of whether it's a regular-season or
+  playoff game. Formerly Open Issue OI-7; see Resolved Issues.
 
 ---
 
@@ -962,32 +964,6 @@ punt election), and the 2026 documents don't explicitly restate that carve-out. 
 Peewee still has no decision to make (in which case this mechanic is moot for that division) or
 whether Peewee now also declares on 4th down.
 
-### OI-5 — 2024 Officiating Mechanics Not Restated for 2026
-
-The 2024 document's procedural/officiating mechanics — the 2-puck system, the primary
-official / line judge role split in a two-official crew, the midfield rules-debate procedure
-(including named Lancaster Flag Administration contacts), the progressive
-"teach-then-enforce" philosophy, and the timeout-for-rules-clarification mechanic — are not
-repeated in any 2026 document.
-
-Per the user's instruction to preserve 2024 officiating mechanics and interpretations "where
-appropriate," these have been carried forward into `officials-manual.md` as still-current.
-Confirm with the league that none of this was intentionally dropped or changed for 2026.
-
-### OI-6 — Roster Size Not Specified for 2026
-
-No 2026 document states a minimum/maximum roster size — only the on-field count (5-a-side)
-is confirmed. Rule 1.2 currently falls back to the USA Football baseline (5–10 players, minimum
-4 on field in an injury emergency). Confirm this baseline figure is still the league's intent.
-
-### OI-7 — Overtime: All Games, or Playoffs Only?
-
-The USA Football baseline restricts overtime to playoff games only (regular-season ties stand).
-The 2026 Lancaster overtime format doesn't restate or address this restriction — it just says "any
-game tied at the end of regulation" goes to overtime. Confirm whether the league intends
-overtime for all games (regular season included) or only playoffs; Rule 13.1 currently reflects the
-2026 wording literally (all games) but this should be confirmed rather than assumed.
-
 ---
 
 ## Resolved Issues
@@ -1010,3 +986,25 @@ user directed that they be combined into one rule going forward — see Rule 7.5
 Exchange Failures), which now covers both a bad/failed snap and a fumbled handoff exchange
 under a single division-based do-over table (2 free redos per half in the divisions where that has
 been declared to apply — Peewee, Freshman, Girls Freshman; no free redos for JV/Varsity).
+
+### OI-5 (Resolved) — 2024 Officiating Mechanics
+
+Was: the 2024 document's officiating mechanics (2-puck system, primary/line-judge crew role
+split, midfield rules-debate procedure, "teach-then-enforce" philosophy, timeout-for-
+clarification mechanic) weren't restated in any 2026 document — unclear whether they were
+dropped or just carried forward silently. **Resolution:** the user confirmed to keep the 2024
+versions. `officials-manual.md` stands as-is, no changes needed.
+
+### OI-6 (Resolved) — Roster Size
+
+Was: no 2026 document states a roster minimum/maximum, only the on-field format (5-a-side).
+**Resolution:** the user confirmed no roster min/max needs to be specified at all — the relevant
+threshold is a 4-player minimum to play a game, below which the team forfeits. See Rule 1.2 and
+Rule 4.5. This replaces the baseline's 5–10 roster / drop-to-4-on-injury structure, which is no
+longer used to fill this gap.
+
+### OI-7 (Resolved) — Overtime Scope
+
+Was: unclear whether the 2026 shootout overtime format applies to all games, or only playoffs
+(the baseline restricted it to playoffs). **Resolution:** the user confirmed the league always
+plays overtime, regular season and playoffs alike. See Rule 13.1.

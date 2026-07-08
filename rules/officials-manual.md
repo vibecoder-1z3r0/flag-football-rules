@@ -5,9 +5,9 @@ games. This document is mechanics/procedure — the playing rules themselves liv
 `rulebook.md`, and every section here is cross-referenced from the rule it supports.
 
 Most of this manual descends from the 2024 Lancaster document's officiating-mechanics
-content, which was not restated in the 2026 documents. Per **Open Issue OI-5** in
-`rulebook.md`, this content is being carried forward as still-current; confirm with the league
-before relying on it as gospel for a printed 2026+ officials guide.
+content, which was not restated in the 2026 documents. The user has confirmed the 2024
+versions of these mechanics remain current (see `rulebook.md` Appendix A, Resolved Issues,
+OI-5).
 
 ---
 

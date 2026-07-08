@@ -135,5 +135,4 @@ and the other did not.
 Round 2, and the same succeed/fail logic applies each round until exactly one team converts and
 the other doesn't.
 
-**Reference:** `rulebook.md` §13.1; Open Issue OI-7 (whether this format applies to regular-
-season games or only playoffs).
+**Reference:** `rulebook.md` §13.1. Applies to regular-season games and playoffs alike.
