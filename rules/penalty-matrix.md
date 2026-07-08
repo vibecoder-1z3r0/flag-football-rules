@@ -48,14 +48,11 @@ they differ.
 | Screening / Blocking | Spot foul, -10 yards from spot, loss of down | §7.6 |
 | Charging | -10 yards from spot of foul, loss of down | — |
 | Unsportsmanlike Conduct (personal foul) | -10 yards, loss of down | §12.1, §12.2 |
-| Unnecessary Roughness (personal foul) | -10 yards, loss of down ⚠️ | §12.2 |
+| Unnecessary Roughness (personal foul) | -10 yards, loss of down | §12.2 |
 
-⚠️ **See Open Issue OI-4** (`rulebook.md` Appendix A): two of the three 2026 source documents
-state offensive Unnecessary Roughness as "**+10** yards and loss of down," while the Penalty
-Buddy card states "**-10** yards from spot of foul, loss of down." Every other offensive penalty in
-every source is a yardage loss, and -10 is consistent with that pattern and with the USA Football
-baseline — this table uses **-10** as the working value, but the league should confirm which is
-correct before this is treated as final.
+*(Two of the three 2026 source documents transcribed this as "+10 yards and loss of down" for
+an offensive foul; confirmed with the league as a dash typo — every offensive penalty is a
+yardage loss, and -10 is correct here. See `rulebook.md` Appendix A, Resolved Issues, OI-4.)*
 
 ---
 

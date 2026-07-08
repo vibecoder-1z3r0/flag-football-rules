@@ -77,12 +77,8 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 See `rules/rulebook.md` Appendix A for full detail. Current open items:
 - **OI-1** — 4th-down decision clock (~5 sec): concurrent with play clock? default on timeout?
   which divisions?
-- **OI-2** — Illegal-timeout clock runoff: 2026 wording (10 sec, "disadvantageous" trigger) is
-  unclear vs. 2024's cleaner 30-sec/under-2:00 trigger.
 - **OI-3** — "Failed snap" (2024) vs. "botched exchange" (2026): same rule renamed, or two
   distinct rules?
-- **OI-4** — Offensive Unnecessary Roughness: source documents disagree on sign (+10 vs.
-  -10 yards). Rulebook currently uses -10 as the working value pending confirmation.
 - **OI-5** — 2024 officiating mechanics (puck system, crew roles, rules-debate procedure,
   enforcement philosophy) not restated in 2026 docs; carried forward as still-current pending
   confirmation.
@@ -90,6 +86,10 @@ See `rules/rulebook.md` Appendix A for full detail. Current open items:
   an emergency) used as fallback.
 - **OI-7** — Whether the 2026 overtime format applies to all games or only playoffs (baseline
   restricted overtime to playoffs; 2026 docs don't restate that restriction).
+
+**Resolved:** OI-2 (illegal-timeout clock runoff — 2026 supersedes 2024 outright, no
+reconciliation needed) and OI-4 (offensive Unnecessary Roughness sign — confirmed dash typo,
+-10 yards is correct). See `rules/rulebook.md` Appendix A, "Resolved Issues" for the record.
 
 Resolve these with the user, then update `custom-additions.md` / the relevant rule /
 `changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A and this list.

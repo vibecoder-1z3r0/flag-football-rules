@@ -229,8 +229,12 @@ official's original ruling is upheld, the timeout is charged; if the ruling is c
 coach's favor (or it was a legitimate question), the timeout may be refunded at the official's
 discretion.
 
-If a team calls a timeout with none remaining, a delay-of-game penalty is enforced. See Open
-Issue OI-2 regarding the additional clock-runoff consequence in this scenario.
+If a team calls a timeout with none remaining, a delay-of-game penalty is enforced. In addition,
+a 10-second clock runoff is enforced if the loss of time is disadvantageous to the team calling
+the timeout (i.e., the team calling the timeout would win the game if it ended when the runoff
+ended). This replaces the 2024 document's version of this rule, which used a 30-second runoff
+triggered only when the game clock was under 2:00 remaining — 2026 supersedes 2024 here (see
+Resolved Issues, formerly OI-2).
 
 **Officials Notes** — See `officials-manual.md` §OM-4 for the rules-clarification-via-timeout
 procedure and how officials should apply discretion in refunding a timeout.
@@ -917,9 +921,10 @@ modification — see Revision History. Do not mix the two formats.
 ## Appendix A — Open Issues
 
 Unresolved ambiguities, contradictions, and gaps identified while consolidating the source
-documents. **None of these have been resolved by inventing a rule.** Each should be discussed
-with the league and, once settled, folded back into the relevant rule above with an updated
-Revision History entry (and removed from this list).
+documents. **None of these have been resolved by inventing a rule** — only by an explicit
+decision from the user. Each open item should be discussed with the league and, once settled,
+folded back into the relevant rule above with an updated Revision History entry (moved to
+"Resolved Issues" below rather than deleted).
 
 ### OI-1 — Fourth-Down Decision Clock (pending house rule)
 
@@ -932,20 +937,6 @@ Open sub-questions:
    delay-of-game penalty?
 3. Does this apply to all divisions, or only FR/JV — and does Peewee still have no decision to
    make at all (2024 rule), which the 2026 documents don't explicitly restate?
-
-### OI-2 — Illegal-Timeout Clock Runoff: Trigger and Duration Unclear
-
-The 2024 document specified a 30-second clock runoff (plus delay-of-game penalty) when the
-offensive team calls a timeout it doesn't have, **if** the game clock is under 2:00 remaining. The
-2026 General Rules instead describes a 10-second runoff triggered when "the loss of time is
-disadvantageous to the team calling the timeout... (i.e., if the team calling the timeout would win
-the game if the game would end if the 10 second run off would end the game)."
-
-The 2026 wording is internally awkward and its trigger condition is unclear compared to the
-2024 version's clean "under 2:00 remaining" test. Recommend the league re-confirm: (a) is the
-runoff 10 seconds or was 30 seconds intended, and (b) what precisely the trigger condition is.
-Treating 2026 as authoritative per this rulebook's precedence policy, Rule 3.4 currently reflects
-the 2026 language as-is, pending clarification.
 
 ### OI-3 — "Failed Snap" (2024) vs. "Botched Exchange" (2026): Same Rule or Two Rules?
 
@@ -965,16 +956,6 @@ The free-redo-count overlap (2 per half, same divisions) is suspicious enough to
 assume. Recommend the league confirm before the next season's document is drafted.
 Currently, Rule 6.2 (failed snap / ball must contact the ground where spotted) and Rule 7.5
 (botched exchange) are kept as separate rules pending that confirmation.
-
-### OI-4 — Offensive Unnecessary Roughness: Penalty Sign Discrepancy
-
-The 2026 General Rules and Coaches Cheat Sheet both state offensive unnecessary roughness
-is penalized "**+10** yards and loss of down." The 2026 Penalty Buddy card states it is
-"**-10** yards from Spot of Foul, Loss of Down." Every other offensive penalty in every source is a
-yardage **loss**, and the baseline agrees with -10. The "+10" reading is almost certainly a
-transcription error in the source document, but this rulebook does not silently correct it.
-`penalty-matrix.md` flags this entry; confirm the correct sign with the league before the next
-printed cheat sheet.
 
 ### OI-5 — 2024 Officiating Mechanics Not Restated for 2026
 
@@ -1001,3 +982,24 @@ The 2026 Lancaster overtime format doesn't restate or address this restriction �
 game tied at the end of regulation" goes to overtime. Confirm whether the league intends
 overtime for all games (regular season included) or only playoffs; Rule 13.1 currently reflects the
 2026 wording literally (all games) but this should be confirmed rather than assumed.
+
+---
+
+## Resolved Issues
+
+Formerly open, now settled by the user. Kept here (rather than deleted) so the reasoning behind
+the current rule text stays traceable.
+
+### OI-2 (Resolved) — Illegal-Timeout Clock Runoff
+
+Was: 2024 used a 30-second runoff triggered by "under 2:00 remaining"; 2026 uses a 10-second
+runoff triggered by "disadvantageous to the team calling the timeout." **Resolution:** the 2026
+document supersedes the 2024 document outright — no reconciliation needed. Rule 3.4 uses the
+2026 wording/values as-is.
+
+### OI-4 (Resolved) — Offensive Unnecessary Roughness Sign
+
+Was: General Rules/Cheat Sheet said "+10 yards," Penalty Buddy said "-10 yards," for the same
+offensive foul. **Resolution:** confirmed as a typo in the source documents (a dropped/added
+dash) — no substantive rule difference intended. `penalty-matrix.md` uses **-10 yards, loss of
+down**, consistent with every other offensive penalty.

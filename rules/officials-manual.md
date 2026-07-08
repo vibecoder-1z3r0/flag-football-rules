@@ -80,8 +80,8 @@ coach, or it was a legitimate question, the official may award the timeout back 
 discretion. Officials working a multi-person crew should agree on any controversial call before
 it's finalized, so both teams get the full benefit of the call.
 
-See `rulebook.md` §3.4 and Open Issue OI-2 for the separate, currently-ambiguous illegal-timeout
-clock-runoff rule.
+See `rulebook.md` §3.4 for the separate illegal-timeout clock-runoff rule (10-second runoff, per
+the current 2026 wording).
 
 ---
 
