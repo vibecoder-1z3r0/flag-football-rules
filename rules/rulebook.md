@@ -996,10 +996,3 @@ Was: 2024 used a 30-second runoff triggered by "under 2:00 remaining"; 2026 uses
 runoff triggered by "disadvantageous to the team calling the timeout." **Resolution:** the 2026
 document supersedes the 2024 document outright — no reconciliation needed. Rule 3.4 uses the
 2026 wording/values as-is.
-
-### OI-4 (Resolved) — Offensive Unnecessary Roughness Sign
-
-Was: General Rules/Cheat Sheet said "+10 yards," Penalty Buddy said "-10 yards," for the same
-offensive foul. **Resolution:** confirmed as a typo in the source documents (a dropped/added
-dash) — no substantive rule difference intended. `penalty-matrix.md` uses **-10 yards, loss of
-down**, consistent with every other offensive penalty.

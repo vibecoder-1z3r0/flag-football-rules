@@ -88,8 +88,10 @@ See `rules/rulebook.md` Appendix A for full detail. Current open items:
   restricted overtime to playoffs; 2026 docs don't restate that restriction).
 
 **Resolved:** OI-2 (illegal-timeout clock runoff — 2026 supersedes 2024 outright, no
-reconciliation needed) and OI-4 (offensive Unnecessary Roughness sign — confirmed dash typo,
--10 yards is correct). See `rules/rulebook.md` Appendix A, "Resolved Issues" for the record.
+reconciliation needed; see `rules/rulebook.md` Appendix A, "Resolved Issues"). The offensive
+Unnecessary Roughness sign discrepancy (formerly OI-4) was a plain dash typo in two source
+documents — corrected to -10 yards, loss of down, directly in `penalty-matrix.md`, no issue
+tracking needed.
 
 Resolve these with the user, then update `custom-additions.md` / the relevant rule /
 `changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A and this list.

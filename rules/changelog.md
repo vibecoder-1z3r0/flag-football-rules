@@ -36,9 +36,8 @@ baseline that everything else layers on top of.
 - Illegal-timeout clock runoff changed from 2024's 30-second/under-2:00-remaining trigger to a
   10-second/"disadvantageous" trigger. Was flagged as Open Issue OI-2; **resolved** — 2026
   supersedes 2024 outright, use the 2026 wording as-is.
-- Offensive Unnecessary Roughness penalty had a sign discrepancy between source documents
-  (+10 vs. -10). Was flagged as Open Issue OI-4; **resolved as a dash typo** — the correct value
-  is -10 yards, loss of down, consistent with every other offensive penalty.
+- Offensive Unnecessary Roughness penalty: two of three source documents had a "+10 yards"
+  typo; corrected to -10 yards, loss of down, consistent with every other offensive penalty.
 
 **Not restated from 2024 (carried forward as still-current, pending confirmation — Open Issue
 OI-5):** 2-puck system, primary/line-judge crew role split, midfield rules-debate procedure,

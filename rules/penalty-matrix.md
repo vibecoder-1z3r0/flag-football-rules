@@ -50,10 +50,6 @@ they differ.
 | Unsportsmanlike Conduct (personal foul) | -10 yards, loss of down | §12.1, §12.2 |
 | Unnecessary Roughness (personal foul) | -10 yards, loss of down | §12.2 |
 
-*(Two of the three 2026 source documents transcribed this as "+10 yards and loss of down" for
-an offensive foul; confirmed with the league as a dash typo — every offensive penalty is a
-yardage loss, and -10 is correct here. See `rulebook.md` Appendix A, Resolved Issues, OI-4.)*
-
 ---
 
 ## General Enforcement Rules
