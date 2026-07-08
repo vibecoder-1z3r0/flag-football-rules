@@ -5,71 +5,91 @@ open questions change.
 
 ## What this repo is
 
-A personal flag football rule set, built by layering league-specific modifications on top of a
-national base rulebook. The owner (tyraziel) is compiling years of downloaded/scanned league
-documents into one coherent, current ruleset for **Lancaster NY** flag football.
+A version-controlled rulebook for **Lancaster NY** flag football, maintained like a software
+spec/RFC (stable rule numbers, revision history, changelog) rather than a folder of PDFs. The
+owner (tyraziel) supplies source documents (official league PDFs, screenshots, text messages
+describing new house rules); Claude's job is to fold each new source into the structured
+rulebook, keeping `rules/rulebook.md` as the single current source of truth.
 
 ## Layout and precedence
 
 ```
-base-rules/
-  usa-football-flag-rulebook.md          National baseline (USA Football ADM Flag Rulebook)
+rules/
+  rulebook.md            Numbered rules: Rule / Officials Notes / Rationale / Case Plays /
+                          Revision History, per rule. Appendix A: Open Issues at the bottom.
+  officials-manual.md     Crew mechanics and administrative procedure (not playing rules)
+  casebook.md             Play/Ruling case examples, cross-referenced from rulebook.md
+  penalty-matrix.md       The ONLY place penalty yardage/enforcement is stated
+  glossary.md             Term definitions
+  changelog.md            Version history — which document introduced/changed which rule
 
-league-rules/lancaster-ny/
-  2024/                                   Prior season — historical reference only, not authoritative
-    lancaster-ny-flag-rules-2024.md
-  2026/                                   Current season
-    2026-general-rules-and-guidelines.md  Full current league rules (primary source for 2026)
-    2026-coaches-cheat-sheet.md           Condensed version of the same rules
-    2026-penalty-buddy.md                 Penalty-only quick-reference card
-    custom-additions.md                   New house rules not yet in any official league doc
-
-current-rules.md                          MERGED view — the actual answer to "what are the rules"
-README.md                                 Repo orientation for humans
+sources/                 Raw transcriptions of original PDFs — provenance only, never edited
+                          for content, never treated as authoritative if rules/ disagrees.
+  base-rules/             USA Football ADM Flag Rulebook (national baseline)
+  league-rules/lancaster-ny/
+    2024/                 Superseded — historical reference only
+    2026/                 Current season source docs + custom-additions.md for pending
+                          house rules not yet folded into rulebook.md
 ```
 
 **Precedence when rules conflict** (highest wins):
-1. `league-rules/lancaster-ny/2026/custom-additions.md` (pending house rules)
-2. `league-rules/lancaster-ny/2026/2026-general-rules-and-guidelines.md` (current league rules)
-3. `base-rules/usa-football-flag-rulebook.md` (national baseline)
-
-The 2024 Lancaster doc is superseded by the 2026 doc — same league, updated rules — and is
-kept only for historical comparison, not merged into `current-rules.md`.
+1. Pending custom additions (not yet finalized — stay in `custom-additions.md` +
+   Appendix A "Open Issues" in `rulebook.md` until resolved, never silently merged in)
+2. Current-season Lancaster documents (`sources/league-rules/lancaster-ny/2026/`)
+3. Older Lancaster documents (`sources/league-rules/lancaster-ny/2024/`) — used to fill gaps
+   the current season's docs don't address, and to preserve officiating mechanics that were
+   never restated but never contradicted either
+4. USA Football baseline (`sources/base-rules/`) — fills any remaining gap
 
 ## Working conventions
 
-- **`current-rules.md` is the single source of truth for "what do the rules say right now."** Every
-  time a source document changes or a new modification/house rule is added, update
-  `current-rules.md` to reflect it — don't let it drift out of sync with the individual source files.
-- Source documents (base rules, league docs) are transcriptions of PDFs/images the user
-  uploads. Transcribe faithfully — don't editorialize or "fix" the source wording. Reconciliation
-  and interpretation happens only in `current-rules.md`.
+- **`rules/rulebook.md` is the single answer to "what are the rules right now."** Every rule there
+  must state accurate Revision History tracing back to its source(s). If you add/change a rule,
+  update its Revision History, update `rules/changelog.md`, and update `rules/penalty-matrix.md`
+  if it touches a penalty — don't let these drift out of sync.
+- **Never invent a rule to resolve an ambiguity or contradiction.** If two sources disagree in a
+  way that isn't a clean "newer beats older," or a source is internally inconsistent (e.g., a sign
+  error in a penalty table), log it as a new entry in Appendix A ("Open Issues") of
+  `rulebook.md` instead of picking an answer. Only remove an Open Issues entry once the user
+  has actually told you the resolution.
+- `sources/` holds faithful transcriptions of the original documents — don't editorialize or "fix"
+  wording there. All reconciliation/interpretation happens in `rules/`.
 - When a new source document arrives:
-  1. Figure out where it fits (new base rules? new league? update to an existing league-season?
-     a standalone confirmation/condensed copy of something already captured?). Ask the user if
-     the relationship between a new doc and existing docs isn't clear (e.g., "is this the same
-     league updated, or a different league?") rather than guessing.
-  2. Save a transcription under the right `league-rules/<league>/<year>/` (or `base-rules/`) path.
-  3. Re-derive `current-rules.md` from the (possibly new) precedence order.
-  4. Update this file's "Open questions" section and the README if the structure changed.
-- Condensed/cheat-sheet documents that are pure subsets of a fuller document (no new
-  information) don't need their own file if they'd just duplicate content — note them as a
-  cross-check instead (see README "Notes on sources"). Only give them a file if they add
-  detail not present elsewhere (as `2026-coaches-cheat-sheet.md` and `2026-penalty-buddy.md`
-  do).
+  1. Figure out where it fits — new base rules? new league? an update to an existing
+     league-season, superseding the prior one? a pure confirmation/condensed copy adding no
+     new information (skip a separate file, note it as a cross-check instead, per the pattern
+     used for the NFL FLAG condensed one-pager)? Ask the user if the relationship isn't clear
+     rather than guessing (e.g., "is this the same league updated, or a different league?").
+  2. Save a transcription under `sources/<base-rules|league-rules/<league>/<year>>/`.
+  3. Update the affected rule(s) in `rules/rulebook.md`, with a new Revision History line citing
+     the new source and what it changed/overrode.
+  4. Add an entry to `rules/changelog.md` for the new version.
+  5. Update `rules/penalty-matrix.md` and/or `rules/glossary.md` if the new source touches
+     penalties or introduces new terminology.
+  6. If the new source contradicts something without a clean precedence resolution, add it to
+     Appendix A of `rulebook.md` instead of guessing.
 - House rules the user is still workshopping (not yet reflected in an official league document)
-  go in `custom-additions.md` with explicit open questions, and get flagged in the "Open Items"
-  section at the bottom of `current-rules.md` — don't silently pick a default for an undecided
-  rule.
+  live in `custom-additions.md`, get a stub in the relevant rule (marked clearly as "pending, not
+  yet in force"), and get an Open Issues entry — never get merged into the rule as if final.
 
 ## Open questions (as of 2026-07-08)
 
-From `league-rules/lancaster-ny/2026/custom-additions.md` — 4th-down decision clock (~5
-seconds for a coach to declare go-for-it vs. punt on 4th down, FR/JV divisions):
-1. Does the 5-second decision clock run concurrently with, or before, the 30-second play clock?
-2. What happens if the coach doesn't declare in time — default to going for it, or a delay-of-game
-   penalty?
-3. Does this apply to all divisions, or only FR/JV (Peewee has no go/punt decision at all today)?
+See `rules/rulebook.md` Appendix A for full detail. Current open items:
+- **OI-1** — 4th-down decision clock (~5 sec): concurrent with play clock? default on timeout?
+  which divisions?
+- **OI-2** — Illegal-timeout clock runoff: 2026 wording (10 sec, "disadvantageous" trigger) is
+  unclear vs. 2024's cleaner 30-sec/under-2:00 trigger.
+- **OI-3** — "Failed snap" (2024) vs. "botched exchange" (2026): same rule renamed, or two
+  distinct rules?
+- **OI-4** — Offensive Unnecessary Roughness: source documents disagree on sign (+10 vs.
+  -10 yards). Rulebook currently uses -10 as the working value pending confirmation.
+- **OI-5** — 2024 officiating mechanics (puck system, crew roles, rules-debate procedure,
+  enforcement philosophy) not restated in 2026 docs; carried forward as still-current pending
+  confirmation.
+- **OI-6** — Roster min/max size not specified in any 2026 document; baseline (5–10, min 4 in
+  an emergency) used as fallback.
+- **OI-7** — Whether the 2026 overtime format applies to all games or only playoffs (baseline
+  restricted overtime to playoffs; 2026 docs don't restate that restriction).
 
-Resolve these with the user, then update `custom-additions.md`, `current-rules.md`, and remove
-them from this list.
+Resolve these with the user, then update `custom-additions.md` / the relevant rule /
+`changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A and this list.

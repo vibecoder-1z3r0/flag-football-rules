@@ -1,35 +1,49 @@
 # flag-football-rules
 
-Flag football rule set for Lancaster NY, built from the USA Football base rulebook plus
-league-specific modifications.
+A version-controlled rulebook for Lancaster NY Flag Football — built like a software spec/RFC
+rather than a stack of league handouts, with a stable rule-numbering scheme, separated
+officiating guidance, case plays, and a single penalty matrix.
 
 ## Start here
 
-- **[`current-rules.md`](current-rules.md)** — the merged, current-season authoritative ruleset
-  (base rules + 2026 Lancaster modifications + pending house rules). Read this first.
+- **[`rules/rulebook.md`](rules/rulebook.md)** — the numbered, authoritative rule set. Read this
+  first. Every rule states its current text, officiating notes, rationale where useful, and revision
+  history back to its source document. Unresolved contradictions/gaps are logged in its
+  **Appendix A: Open Issues** rather than silently decided.
 
 ## Layout
 
 ```
-base-rules/
-  usa-football-flag-rulebook.md      National baseline rules (USA Football ADM Flag Rulebook)
+rules/
+  rulebook.md            The rulebook — numbered rules (Rule / Officials Notes / Rationale /
+                          Case Plays / Revision History), plus Appendix A: Open Issues
+  officials-manual.md     Officiating mechanics: crew positioning, puck system, penalty
+                          enforcement procedure, rules-debate process
+  casebook.md              Illustrative case plays (Play / Ruling), cross-referenced from rulebook.md
+  penalty-matrix.md        Single canonical penalty enforcement table
+  glossary.md              Term definitions used throughout
+  changelog.md             Version history: which source document introduced/changed each rule
 
-league-rules/lancaster-ny/
-  2024/                              Prior season — historical reference only
-  2026/
-    2026-general-rules-and-guidelines.md   Current season league rules (full)
-    2026-coaches-cheat-sheet.md            Condensed sideline reference
-    2026-penalty-buddy.md                  Penalty quick-reference card
-    custom-additions.md                    New house rules not yet in an official doc
-
-current-rules.md                    Merged view: base rules overridden by current league rules
+sources/                  Raw transcriptions of the original documents — provenance only,
+                          not authoritative. If rules/ and sources/ ever disagree, rules/ wins.
+  base-rules/
+    usa-football-flag-rulebook.md         USA Football ADM Flag Rulebook (national baseline)
+  league-rules/lancaster-ny/
+    2024/                                  2024 league rules (superseded, kept for history)
+    2026/                                  2026 league rules (general rules, cheat sheet,
+                                            penalty card, plus custom-additions.md for
+                                            pending house rules)
 ```
 
-## Notes on sources
+## How rules are resolved
 
-- The NFL FLAG "condensed field rules" one-pager was cross-checked against the full USA
-  Football rulebook and found consistent (no material differences) — it isn't kept as a separate
-  file since it's a subset of `base-rules/usa-football-flag-rulebook.md`.
-- Where Lancaster NY rules conflict with the USA Football base rules, Lancaster rules win.
-- Open questions / not-yet-finalized rules live in `league-rules/lancaster-ny/2026/custom-additions.md`
-  and are flagged at the bottom of `current-rules.md`.
+Precedence (highest wins): pending custom additions → current-season Lancaster documents →
+older Lancaster documents → USA Football baseline. Where the league is silent, the baseline
+fills the gap. See `rules/rulebook.md`'s intro and `rules/changelog.md` for the full reasoning
+behind every override.
+
+## Open questions
+
+Anything ambiguous, contradictory across source documents, or missing an edge case is logged
+in `rules/rulebook.md` Appendix A rather than guessed at. Check there before assuming a rule is
+settled.
