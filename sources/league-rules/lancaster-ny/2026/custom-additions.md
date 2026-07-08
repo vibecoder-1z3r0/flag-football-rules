@@ -7,13 +7,13 @@ official doc.
 
 On 4th down, the coach must declare whether they are going for it or punting (per
 `2026-general-rules-and-guidelines.md`, "Failure to Convert" / Lancaster 2024 "FR and JV" 4th
-down rule). **Addition:** the coach gets approximately 5 seconds after the down is spotted/
-announced to make and communicate that decision to the official before the play clock is
-otherwise in effect.
+down rule).
 
-Open questions to nail down before this goes into an official doc:
-- Does the 5-second decision clock run concurrently with, or before, the 30-second play clock?
-- What happens if the coach doesn't declare within 5 seconds — default to "going for it," or a
-  delay-of-game penalty?
-- Does this apply to all divisions (Peewee/Freshman/JV/Varsity) or only where 4th-down
-  decisions apply (FR/JV, per the 2024 doc distinction between Peewee and FR/JV)?
+**Confirmed mechanic** (folded into `rules/rulebook.md` §5.3): the decision window is not a
+separate timer — it rides inside the existing 30-second play clock, which starts the moment the
+official declares "4th down." The coach must communicate the go/punt decision within that
+same window. A missed decision is a delay-of-game penalty, at the official's discretion. The
+official must also announce the time remaining in the half at the moment of declaring 4th down.
+
+Still open (see `rules/rulebook.md` Appendix A, OI-1): does this apply to all divisions, or only
+FR/JV — and does Peewee still have no 4th-down decision to make at all, per the 2024 rule?

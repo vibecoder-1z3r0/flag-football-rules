@@ -94,10 +94,15 @@ version is not separately versioned here since it added no new information.
 
 ---
 
-## Pending — Not Yet Released
+## v2026.2 (pending formal write-up) — 4th-Down Decision Clock
 
-**4th-Down Decision Clock** (custom house rule, proposed by the league, not yet in an official
-document): coach gets ~5 seconds to declare go-for-it vs. punt on 4th down. See
-`sources/league-rules/lancaster-ny/2026/custom-additions.md`, `rulebook.md` §5.3, and Open
-Issue OI-1. Do not treat as in force until finalized and merged into a `v2026.2` (or `v2027.1`)
-entry here.
+**Sources:** `sources/league-rules/lancaster-ny/2026/custom-additions.md` (custom house rule,
+confirmed by the league, not yet in a printed official document)
+
+The 4th-down go/punt decision window is not a separate timer — it rides inside the existing
+30-second play clock, starting the moment the official declares "4th down." A missed decision
+is a delay-of-game penalty, at official discretion. The official must announce the time
+remaining in the half when declaring 4th down. See `rulebook.md` §5.3.
+
+**Still open:** whether this applies to all divisions or only FR/JV, given Peewee's 2024 exemption
+from any 4th-down decision at all — see Open Issue OI-1.

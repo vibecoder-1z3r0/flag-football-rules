@@ -75,8 +75,10 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 ## Open questions (as of 2026-07-08)
 
 See `rules/rulebook.md` Appendix A for full detail. Current open items:
-- **OI-1** — 4th-down decision clock (~5 sec): concurrent with play clock? default on timeout?
-  which divisions?
+- **OI-1** — 4th-down decision clock: mechanic confirmed (rides inside the existing 30-second
+  play clock, starts at the official's "4th down" declaration; missed decision = delay of game at
+  official discretion; official announces half time remaining when declaring 4th down). Still open:
+  does it apply to all divisions, or only FR/JV (Peewee had no 4th-down decision at all in 2024)?
 - **OI-3** — "Failed snap" (2024) vs. "botched exchange" (2026): same rule renamed, or two
   distinct rules?
 - **OI-5** — 2024 officiating mechanics (puck system, crew roles, rules-debate procedure,

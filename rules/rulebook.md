@@ -381,26 +381,35 @@ the punt election to 4th down only — see Revision History.)
 **Rule** — On 4th down, before the snap, the offense must declare (by the coach, to the official)
 whether it is going for the line-to-gain/score or electing to punt.
 
-> **Pending house rule — not yet finalized (Open Issue OI-1):** the coach would get
-> approximately 5 seconds to make and communicate this declaration. Timing relationship to the
-> 30-second play clock, the consequence of a missed declaration window, and which divisions
-> this applies to are all undecided. Do not enforce this pending rule until it is resolved and this
-> notice is removed.
+The decision window is **not** a separate timer — it is carried inside the existing 30-second play
+clock (Rule 3.3), which starts the moment the official declares "4th down." The coach must
+communicate the go/punt decision to the official within that same 30-second window. If the
+coach has not declared a decision before the play clock runs out, a delay-of-game penalty is
+enforced (see `penalty-matrix.md`), at the official's discretion.
 
-**Officials Notes** — Under the 2024 document, Peewee had no 4th-down decision at all (it
-simply continued through a second set of 4 downs automatically); the 2026 documents don't
-explicitly restate this Peewee carve-out. Treat it as still in force pending confirmation — see Open
-Issue OI-1.
+**Officials Notes** — When declaring 4th down, the official must also announce the time
+remaining in the half at that moment, in the same breath as the down declaration. Enforcement
+of the delay-of-game penalty for a missed 4th-down decision carries the same referee discretion
+as any other delay-of-game situation (see `officials-manual.md`'s "teach then enforce"
+philosophy) — it is not automatic on the first violation of a season.
+
+Under the 2024 document, Peewee had no 4th-down decision at all (it simply continued through a
+second set of 4 downs automatically); the 2026 documents don't explicitly restate this Peewee
+carve-out, and it remains unconfirmed whether this decision-clock mechanic applies to Peewee
+at all — see Open Issue OI-1.
 
 **Revision History**
+- v2026.2 (pending formal write-up) — 4th-down decision clock confirmed as part of the existing
+  30-second play clock (not a separate timer), starting at the official's declaration of 4th down;
+  missed decision = delay of game, at official discretion; official must announce half time
+  remaining when declaring 4th down. Division scope (all divisions vs. FR/JV only) still open —
+  see Open Issue OI-1.
 - v2026.1 — Lancaster 2026 broadened the punt option to any down (Rule 5.2), but a 4th-down
   go/punt declaration is still the operative decision point in practice for FR/JV since the punt
   yardage/possession outcome is defined relative to "4th down" scenarios in the source
   documents.
 - v2024.1 — Lancaster 2024 established the pre-snap declaration requirement for FR/JV, with
   Peewee exempted.
-- Pending — 4th-down decision clock (custom addition, unresolved; see
-  `sources/league-rules/lancaster-ny/2026/custom-additions.md`).
 
 ---
 
@@ -926,17 +935,18 @@ decision from the user. Each open item should be discussed with the league and, 
 folded back into the relevant rule above with an updated Revision History entry (moved to
 "Resolved Issues" below rather than deleted).
 
-### OI-1 — Fourth-Down Decision Clock (pending house rule)
+### OI-1 — Fourth-Down Decision Clock: Division Scope
 
-Status: proposed, not yet in force. See Rule 5.3.
+Status: mechanic confirmed and in force — see Rule 5.3 (the decision window rides inside the
+existing 30-second play clock, starting at the official's declaration of 4th down; a missed
+decision is a delay-of-game penalty at official discretion; the official must announce time
+remaining in the half when declaring 4th down).
 
-Open sub-questions:
-1. Does the ~5-second decision clock run concurrently with, or before, the 30-second play
-   clock?
-2. What happens if the coach doesn't declare within 5 seconds — default to going for it, or a
-   delay-of-game penalty?
-3. Does this apply to all divisions, or only FR/JV — and does Peewee still have no decision to
-   make at all (2024 rule), which the 2026 documents don't explicitly restate?
+Still open: does this decision-clock mechanic apply to all divisions, or only FR/JV? The 2024
+document gave Peewee no 4th-down decision at all (automatic 4-then-4 down progression, no
+punt election), and the 2026 documents don't explicitly restate that carve-out. Confirm whether
+Peewee still has no decision to make (in which case this mechanic is moot for that division) or
+whether Peewee now also declares on 4th down.
 
 ### OI-3 — "Failed Snap" (2024) vs. "Botched Exchange" (2026): Same Rule or Two Rules?
 
