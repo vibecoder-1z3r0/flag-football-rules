@@ -51,6 +51,11 @@ the infraction or change of possession.
 Handled by the primary official (in a two-official crew). Visiting team calls the toss; winner picks
 offense or defense (no deferral); loser picks direction. See `rulebook.md` §1.1.
 
+If the game reaches overtime, the same visiting team calls that toss too — one toss, no re-toss.
+The official picks the end zone for overtime (not a coin-toss decision), and should explain the
+overtime format to both teams and to fans at that end zone before the first attempt. See
+`rulebook.md` §13.1.
+
 ---
 
 ## §OM-3 — Play Clock Administration

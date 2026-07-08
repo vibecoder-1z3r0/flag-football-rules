@@ -125,14 +125,17 @@ just leaving the rush line), that's offside, not illegal rush — see `penalty-m
 
 ### CP-8 — Overtime Shootout Progression
 
-**Play:** Game ends regulation tied. Round 1: Team A converts its 1-point attempt from the
-5-yard line; Team B does not.
+**Play:** Game ends regulation tied. The visiting team (which called the opening coin toss) also
+calls the overtime coin toss and wins it, electing to attempt first. Officials pick an end zone and
+explain the format to both teams and the fans there. Round 1: Team A (visiting) converts its
+1-point attempt from the 5-yard line; Team B does not.
 
 **Ruling:** Team A wins immediately — no further rounds are played, since one team succeeded
 and the other did not.
 
 **Contrast:** If both teams convert (or both fail) in Round 1, both move to the 10-yard line for
 Round 2, and the same succeed/fail logic applies each round until exactly one team converts and
-the other doesn't.
+the other doesn't. Team A stays "first" and Team B stays "second" for every round — the
+first/second order decided at the single overtime coin toss is not re-decided round to round.
 
-**Reference:** `rulebook.md` §13.1. Applies to regular-season games and playoffs alike.
+**Reference:** `rulebook.md` §1.1, §13.1. Applies to regular-season games and playoffs alike.

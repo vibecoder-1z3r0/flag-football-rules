@@ -51,10 +51,15 @@ calls the toss. The winner chooses offense or defense; the loser chooses directi
 choice to the second half is not permitted. Possession changes to start the second half, going to
 the team that started the game on defense; teams also change sides at halftime.
 
+The same team that called the opening coin toss also calls the overtime coin toss, if the game
+goes to overtime — see Rule 13.1.
+
 **Officials Notes** — The primary official (in a two-official system) handles the coin toss. See
 `officials-manual.md` §OM-2.
 
 **Revision History**
+- Confirmed — the visiting team's coin-toss-calling role carries over to overtime, if needed (see
+  Rule 13.1).
 - v2026.1 — Lancaster 2026 General Rules explicitly prohibits deferral ("NO DEFERRALS").
 - v0 (baseline) — USA Football rulebook §1 gave the same coin-toss/possession structure
   without addressing deferral.
@@ -923,15 +928,26 @@ play from the 5-yard line to pass for a 1-point conversion.
   1-point pass attempts, and the process repeats (returning to the 10-yard line each
   subsequent round) until a winner emerges.
 
-There is no coin toss to choose offense/defense order in overtime, and no offense/defense
-choice at all — both teams always attempt a conversion each round.
+**Coin toss.** The same team that called the opening coin toss (Rule 1.1 — the visiting team)
+also calls the overtime coin toss. There is **one toss, no re-toss**. The winner decides whether
+to attempt first or second — for the entire overtime, not re-decided round to round. This is a
+single up-front call, not the alternating offense/defense choice used at the start of regulation.
+
+**End zone and setup.** Officials decide which end zone overtime is played in — there is no coin-
+toss element to this choice. Before the first attempt, officials should explain the overtime
+format to both teams and to fans at that end zone.
 
 **Officials Notes** — This is a full replacement of the baseline overtime format, not a layered
-modification — see Revision History. Do not mix the two formats.
+modification — see Revision History. Do not mix the two formats. Since both teams always
+attempt a conversion each round (no defense on the field for the other team's attempt), the
+overtime coin toss decides attempt order only, not an offense/defense role.
 
 **Case Plays** — See `casebook.md` §CP-8.
 
 **Revision History**
+- Confirmed — overtime coin toss: same team that called the opening toss calls it; one toss, no
+  re-toss; winner picks first or second for the whole overtime. Officials (not a toss) choose the
+  end zone, and must explain the format to both teams and to fans there.
 - v2026.1 — Lancaster 2026 General Rules introduces this shootout-style format explicitly "to
   avoid ties for standings," replacing the baseline format entirely.
 - v0 (baseline) — USA Football rulebook §6.7 used a coin-toss-driven, alternating offense/

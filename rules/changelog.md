@@ -130,3 +130,21 @@ the v2026.1 consolidation.
   Peewee remains exempt from any 4th-down decision. Formerly Open Issue OI-1.
 
 All open issues from the initial consolidation (OI-1 through OI-7) are now resolved.
+
+---
+
+## v2026.4 — Overtime Coin Toss and Setup Mechanics
+
+**Sources:** direct decision from the user (league admin).
+
+- The team that called the opening coin toss (the visiting team, Rule 1.1) also calls the overtime
+  coin toss. One toss, no re-toss.
+- The winner of the overtime coin toss picks first or second **for the entire overtime** — not
+  re-decided round to round. (This is a narrower choice than the offense/defense choice at the
+  start of regulation, since both teams attempt a conversion every round in the 2026 shootout
+  format.)
+- Officials — not a coin toss — decide which end zone hosts overtime.
+- Officials must explain the overtime format to both teams and to the fans at that end zone
+  before the first attempt.
+
+See `rulebook.md` §1.1, §13.1; `officials-manual.md` §OM-2.
