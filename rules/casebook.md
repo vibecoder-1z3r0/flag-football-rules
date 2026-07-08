@@ -54,18 +54,24 @@ ball result (out of bounds, down, or score) exactly as on a regular-play interce
 
 ---
 
-### CP-4 — Bad Snap
+### CP-4 — Bad Snap / Botched Exchange
 
 **Play:** The snap sails over the quarterback's head and hits the ground 3 yards behind the
-original line of scrimmage before anyone recovers it.
+original line of scrimmage before anyone recovers it. Peewee division, first such failure of the
+half.
 
-**Ruling:** The play is dead the instant the ball hits the ground. The ball is placed where it hit
-the ground (not where the QB was standing, and not back at the original line of scrimmage). This
-is a straightforward bad-snap ruling under the baseline rule and is distinct from the division-
-specific "botched exchange" do-over allowance — see Open Issue OI-3 in `rulebook.md` for
-whether these two concepts should in fact be merged.
+**Ruling:** The play is dead the instant the ball hits the ground — no live fumble recovery.
+Because this is a Peewee-division snap/exchange failure and it's the team's first of the half, it's
+a do-over: replay the down from the original line of scrimmage, no loss of down or yardage.
+(The ball would otherwise be placed where it hit the ground, per the general dead-ball rule, but
+the snap/exchange-failure do-over allowance takes precedence for the first two such failures
+per half in Peewee/Freshman/Girls Freshman.)
 
-**Reference:** `rulebook.md` §6.2, §7.5, §11.2; Open Issue OI-3.
+**Contrast:** The same play in JV/Varsity, or a 3rd+ such failure in Peewee/Freshman/Girls
+Freshman in the same half, is a loss of down (no yardage lost) rather than a do-over. If it
+happens in the offense's own end zone in JV/Varsity, it's a safety.
+
+**Reference:** `rulebook.md` §6.2, §7.5, §11.2, §4.3.
 
 ---
 

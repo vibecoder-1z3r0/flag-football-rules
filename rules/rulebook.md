@@ -467,15 +467,19 @@ practice, from on top of the puck marking the line of scrimmage, where a puck is
 **Officials Notes** — See `officials-manual.md` §OM-1 for the 2-puck system (one puck marks
 the line of scrimmage, the other the rush line).
 
-**Case Plays** — See `casebook.md` §CP-4 (a bad/failed snap — ball placed where it hit the
-ground) and Open Issue OI-3 (relationship between "failed snap" and "botched exchange").
+**Case Plays** — See `casebook.md` §CP-4.
+
+**Officials Notes** — A snap that fails this rule (not properly delivered through the legs/side-
+snapped where not permitted, or not taken from ground contact) is treated identically to a
+botched exchange — see Rule 7.5, which now covers both scenarios under one rule.
 
 **Revision History**
 - v2026.1 — Lancaster 2026 carved out the Peewee/Girls Freshman side-snap exception.
-- v2024.1 — Lancaster 2024 established the puck-based snap-from-the-ground requirement and
-  the failed-snap penalty concept.
+- v2024.1 — Lancaster 2024 established the puck-based snap-from-the-ground requirement.
 - v0 (baseline) — USA Football rulebook §15.3 (snap must be a rapid continuous motion between
   the legs, ball must leave the hands).
+- Merged — the separate 2024 "failed snap" penalty concept was folded into Rule 7.5 (Snap and
+  Exchange Failures) as a single rule; see that rule's Revision History.
 
 ---
 
@@ -555,25 +559,35 @@ first down on the same play).
 
 ---
 
-### 7.5 Botched Exchange
+### 7.5 Snap and Exchange Failures
 
-**Rule** — Any botched or fumbled handoff/exchange is treated as follows (there are no live
-fumbles — the ball is dead the instant it hits the ground):
+**Rule** — A single rule now covers both a failed/bad snap (ball not properly delivered per Rule
+6.2 — e.g., not taken from ground contact, or not delivered through the center's legs where
+required) and a botched/fumbled handoff exchange. There are no live fumbles — the ball is dead
+the instant it hits the ground. Both scenarios are enforced identically:
 
-| Division | 1st occurrence | Cap | After cap |
-|---|---|---|---|
-| Peewee, Freshman, Girls Freshman | Do-over, no loss of down/yardage | Up to 2 per team per half | Loss of down, no yardage loss |
-| JV, Varsity | Loss of down, no yardage loss | — | — |
+| Division | 1st–2nd occurrence per half | After cap | 
+|---|---|---|
+| Peewee, Freshman, Girls Freshman | Do-over, no loss of down/yardage (up to 2 per team per half) | Loss of down, no yardage loss |
+| JV, Varsity | Loss of down, no yardage loss (no free redos) | — |
 
-If a botched exchange occurs in the end zone for JV/Varsity, it is a safety (see Rule 4.3).
+If a snap/exchange failure occurs in the end zone for JV/Varsity, it is a safety (see Rule 4.3).
 
-**Officials Notes** — See Open Issue OI-3 for the unresolved relationship between this rule and
-the 2024 "failed snap" rule (Rule 6.2), which may be the same scenario under different
-terminology, or a genuinely separate case.
+**Officials Notes** — The "2 free redos per half" allowance applies only in the divisions where it
+has been declared to apply (Peewee, Freshman, Girls Freshman) — JV/Varsity get no free redos
+for either a bad snap or a botched exchange, straight to loss of down.
+
+**Case Plays** — See `casebook.md` §CP-4.
 
 **Revision History**
-- v2026.1 — New in the 2026 General Rules / Cheat Sheet. No baseline or 2024 equivalent by this
-  name.
+- Merged — the 2024 "failed snap" rule and the 2026 "botched exchange" rule are combined into
+  this single rule at the user's direction: same underlying scenario (a failed ball transfer at the
+  snap or handoff), same division-based 2-per-half allowance, one rule going forward. Formerly
+  tracked as Open Issue OI-3; see Resolved Issues.
+- v2026.1 — 2026 General Rules / Cheat Sheet introduced the "botched exchange" term and the
+  division-based do-over table.
+- v2024.1 — Lancaster 2024 introduced the "failed snap" term and penalty for a poorly-executed
+  snap.
 
 ---
 
@@ -948,25 +962,6 @@ punt election), and the 2026 documents don't explicitly restate that carve-out. 
 Peewee still has no decision to make (in which case this mechanic is moot for that division) or
 whether Peewee now also declares on 4th down.
 
-### OI-3 — "Failed Snap" (2024) vs. "Botched Exchange" (2026): Same Rule or Two Rules?
-
-The 2024 document defines a **failed snap** as a snap not properly delivered (not taken from
-contact with the ground/puck, or not delivered through the center's legs), resulting in a
-failed-snap penalty, with Freshman/Peewee getting 2 free redos per half.
-
-The 2026 documents define a **botched exchange** as a fumbled handoff/exchange, with an
-identical "2 free redos per half" structure for Peewee/Freshman/Girls Freshman.
-
-These may be:
-(a) the same rule, renamed and slightly broadened in scope for 2026, or
-(b) two genuinely distinct scenarios (bad snap mechanics vs. fumbled handoff after a good
-snap) that should both remain independently in force.
-
-The free-redo-count overlap (2 per half, same divisions) is suspicious enough to flag rather than
-assume. Recommend the league confirm before the next season's document is drafted.
-Currently, Rule 6.2 (failed snap / ball must contact the ground where spotted) and Rule 7.5
-(botched exchange) are kept as separate rules pending that confirmation.
-
 ### OI-5 — 2024 Officiating Mechanics Not Restated for 2026
 
 The 2024 document's procedural/officiating mechanics — the 2-puck system, the primary
@@ -1006,3 +1001,12 @@ Was: 2024 used a 30-second runoff triggered by "under 2:00 remaining"; 2026 uses
 runoff triggered by "disadvantageous to the team calling the timeout." **Resolution:** the 2026
 document supersedes the 2024 document outright — no reconciliation needed. Rule 3.4 uses the
 2026 wording/values as-is.
+
+### OI-3 (Resolved) — "Failed Snap" vs. "Botched Exchange"
+
+Was: unclear whether the 2024 "failed snap" rule and the 2026 "botched exchange" rule were the
+same scenario renamed, or two distinct rules that should both stay in force. **Resolution:** the
+user directed that they be combined into one rule going forward — see Rule 7.5 (Snap and
+Exchange Failures), which now covers both a bad/failed snap and a fumbled handoff exchange
+under a single division-based do-over table (2 free redos per half in the divisions where that has
+been declared to apply — Peewee, Freshman, Girls Freshman; no free redos for JV/Varsity).

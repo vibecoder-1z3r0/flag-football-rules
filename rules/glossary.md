@@ -14,27 +14,23 @@ passer. Must be identified before the snap in Freshman/Peewee (raised hand). See
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
 of the end zone lines. Stepping on a boundary line is out of bounds.
 
-**Botched Exchange** — A failed or fumbled handoff/exchange between offensive players. Not a
-fumble in the tackle-football sense — there is no live recovery. See Rule 7.5 and the note under
-**Failed Snap** below regarding a possible overlap that needs resolving (Open Issue OI-3).
+**Botched Exchange** — See **Snap and Exchange Failure**.
 
 **Charging** — Illegal movement of the ball carrier directly at a defender who has established
 position, including lowering the head or initiating contact with a shoulder, forearm, or chest.
 
 **Dead Ball** — The period immediately before or after a play, as opposed to a **Live Ball**.
 
-**Decision Clock** — Proposed (not yet finalized) ~5-second window for a coach to declare a
-go-for-it/punt decision on 4th down. See Rule 5.4 and Open Issues.
+**Decision Clock** — The window, riding inside the existing 30-second play clock (not a separate
+timer), for a coach to declare a go-for-it/punt decision on 4th down. Starts at the official's
+declaration of "4th down." See Rule 5.3.
 
 **Defense** — The team without the ball, attempting to prevent the offense from advancing it.
 
 **Down** — One offensive play attempt. The league runs a 4-down system (see Rule 5), which
 overrides the USA Football baseline's 3-down system.
 
-**Failed Snap** — (2024 Lancaster terminology) A snap not delivered correctly — e.g., not taken
-from contact with the ground/puck, or not delivered through the center's legs — resulting in a
-failed-snap penalty. Possibly the same concept as **Botched Exchange** under a different name,
-possibly a distinct rule. Not yet reconciled — see Open Issue OI-3.
+**Failed Snap** — See **Snap and Exchange Failure**.
 
 **Flag Guarding** — An illegal act by the ball carrier to prevent a defender from pulling their
 flags: stiff-arming, lowering the elbow or head, blocking flag access with a hand or arm, covering
@@ -84,6 +80,12 @@ the ball is released or handed off. Distance from the LOS varies by division —
 
 **Shovel Pass** — A legal pitch attempted beyond the line of scrimmage. Distinct from a lateral
 (behind the LOS), which is prohibited.
+
+**Snap and Exchange Failure** — A single, unified term (merging what were formerly tracked
+separately as "Botched Exchange" and "Failed Snap") covering both a fumbled handoff/exchange
+and a snap not delivered correctly (e.g., not taken from ground contact, or not delivered through
+the center's legs where required). Not a fumble in the tackle-football sense — there is no live
+recovery. See Rule 7.5.
 
 **Spot Foul** — A penalty enforced from the spot of the foul rather than from the line of
 scrimmage.
