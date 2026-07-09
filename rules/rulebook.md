@@ -55,7 +55,7 @@ The same team that called the opening coin toss also calls the overtime coin tos
 goes to overtime — see Rule 13.1.
 
 **Officials Notes** — The primary official (in a two-official system) handles the coin toss. See
-`officials-manual.md` §OM-2.
+`officials-manual.md` §OM-2. See also Rule 1.5 for the equipment briefing given at the coin toss.
 
 **Revision History**
 - Confirmed — the visiting team's coin-toss-calling role carries over to overtime, if needed (see
@@ -138,6 +138,36 @@ play without it, consistent with increasing player independence.
   per division/need, behind the deepest player, no audibles). Superseded by the 2026 table for
   which divisions get coaches at all; the positioning/no-audible constraint still applies where a
   coach is present.
+
+---
+
+### 1.5 Coin Toss Equipment Briefing
+
+**Rule** — At the coin toss, the official explains to whoever is present (team captains) that:
+1. Mouthguards are required to take the field (see Rule 1.3).
+2. Flags must be worn on the hips.
+3. The "third flag" — the excess belt slack beyond the two live flags — must be tucked away and
+   not left hanging loose.
+
+This briefing **is** the flag-guarding warning — it satisfies the "teach then enforce" notice
+requirement for third-flag positioning (see `officials-manual.md`'s enforcement philosophy)
+before the game starts. No separate in-game warning for improperly tucked third-flag slack is
+required.
+
+**Consequence.** If a defender pulls a runner's third flag rather than a live flag, the runner is
+ruled down (same as any legal flag pull), **and** a flag guarding penalty is assessed against the
+offense — the loose third flag being available to pull is itself the flag-guarding violation (Rule
+7.4), since it created confusion about which flag was live.
+
+**Case Plays** — See `casebook.md` §CP-15.
+
+**Revision History**
+- Confirmed — the coin-toss equipment briefing (mouthguards, flag hip position, third-flag
+  tucking) serves as the flag-guarding warning; pulling the third flag downs the runner and
+  draws a flag-guarding penalty.
+- v2024.1 — Lancaster 2024 established the third-flag/belt-slack concept as part of the pregame
+  flag-belt check (see Rule 1.3, `officials-manual.md` §OM-1); this rule adds the coin-toss timing
+  and the specific third-flag-pulled consequence, neither of which was previously specified.
 
 ---
 
@@ -633,9 +663,13 @@ Flag guarding also includes stiff-arming, lowering the elbow or head, blocking f
 hand or arm, or covering the flags with the jersey. All jerseys must be tucked in before the play
 begins; deliberately obstructed flags are flag guarding.
 
+An untucked "third flag" (belt slack) is also flag guarding if a defender pulls it instead of a live
+flag — see Rule 1.5, which is both the pregame warning for this and the rule for the resulting
+down/penalty.
+
 **Case Plays** — See `casebook.md` §CP-5 (flag guarding after the runner has already gained a
-first down on the same play — governed by the general rule at §5.5) and §CP-10 (jump vs. juke
-vs. forward leap).
+first down on the same play — governed by the general rule at §5.5), §CP-10 (jump vs. juke vs.
+forward leap), and §CP-15 (third flag pulled).
 
 **Revision History**
 - Confirmed — "jumping" for flag-guarding purposes requires a predominantly vertical motion;

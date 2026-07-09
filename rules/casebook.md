@@ -293,3 +293,18 @@ of scrimmage (the 3-yard line) does not matter for this determination; only wher
 hit the ground does.
 
 **Reference:** `rulebook.md` §4.3, §7.5, §11.2.
+
+---
+
+### CP-15 — Third Flag Pulled
+
+**Play:** A runner's belt has excess slack (the "third flag") hanging loose instead of tucked away.
+A defender, going for a flag, grabs and pulls the third flag rather than one of the two live flags.
+
+**Ruling:** The runner is ruled down at that spot, same as a legal flag pull — **and** a flag
+guarding penalty is assessed against the offense. Having the third flag untucked and available
+to be pulled is itself the foul, since it's what created the confusion between the third flag and a
+live flag. The official's coin-toss equipment briefing (Rule 1.5) already served as the warning for
+this — no separate in-game warning is required before assessing the penalty.
+
+**Reference:** `rulebook.md` §1.5, §7.4.

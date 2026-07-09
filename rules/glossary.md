@@ -35,8 +35,9 @@ overrides the USA Football baseline's 3-down system.
 **Flag Guarding** — An illegal act by the ball carrier to prevent a defender from pulling their
 flags: stiff-arming, lowering the elbow or head, blocking flag access with a hand or arm, covering
 the flags with the jersey, diving to avoid a pull, jumping (a predominantly vertical motion — not
-juking or leaping forward, which are predominantly horizontal and don't count) to avoid a pull, or
-spinning out of control to avoid a pull. See Rule 7.4.
+juking or leaping forward, which are predominantly horizontal and don't count) to avoid a pull,
+spinning out of control to avoid a pull, or having an untucked third flag available to be pulled.
+See Rule 7.4, Rule 1.5.
 
 **Forward Progress** — The ball carrier's frontmost foot at the moment the flag is pulled (not the
 position of the ball). If the runner is downed by a body part other than feet/hands touching the
@@ -90,6 +91,10 @@ recovery. See Rule 7.5.
 
 **Spot Foul** — A penalty enforced from the spot of the foul rather than from the line of
 scrimmage.
+
+**Third Flag** — The excess belt slack on a flag belt, beyond the two live flags. Must be tucked
+away; leaving it loose and available to be pulled is flag guarding. Checked pregame and
+explained at the coin toss. See Rule 1.5, `officials-manual.md` §OM-1.
 
 **Unsportsmanlike Conduct** — Rude, confrontational, or offensive behavior or language, by
 a player, coach, or fan.

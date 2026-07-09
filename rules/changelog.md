@@ -240,3 +240,19 @@ All items raised during the v2026.6 discussion are now resolved.
   actually applies to any division once the failure is enforced (loss of down) rather than a
   do-over. It's automatic for JV/Varsity (no free redos) and also applies to Peewee/Freshman/
   Girls Freshman once their 2-per-half do-over cap is used up.
+
+---
+
+## v2026.10 — Coin Toss Equipment Briefing (New Rule 1.5)
+
+**Sources:** direct decision from the user (league admin), resolving the mouthguard/flag-
+position item parked earlier for later discussion.
+
+- At the coin toss, the official explains to whoever is present that mouthguards are required,
+  flags must be worn on the hips, and the "third flag" (belt slack) must be tucked away.
+- This briefing **is** the flag-guarding warning for third-flag positioning — no separate in-game
+  warning is required.
+- If a defender pulls a player's third flag instead of a live flag, the runner is ruled down **and**
+  a flag guarding penalty is assessed against the offense.
+
+See `rulebook.md` §1.5, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.

@@ -35,6 +35,11 @@ timeout-for-clarification mechanic below in §OM-4.)
 hip) and that the "third flag" (belt slack) is secured so it can't be mistaken for one of the two live
 flags. See `rulebook.md` §1.3.
 
+**Coin toss equipment briefing.** In addition to the equipment check, the official verbally
+explains at the coin toss that mouthguards are required, flags must be worn on the hips, and the
+third flag must be tucked — this briefing is the flag-guarding warning for third-flag positioning,
+so no separate in-game warning is needed before enforcing it. See `rulebook.md` §1.5.
+
 **2-puck system.** Two physical pucks mark the field during play: one for the line of scrimmage,
 one for the rush line (distance from the LOS depends on division — see `rulebook.md` §10.1).
 The ball must be snapped from on top of the LOS puck, or from a position of ground contact if no
@@ -49,7 +54,9 @@ the infraction or change of possession.
 ## §OM-2 — Coin Toss and Pregame
 
 Handled by the primary official (in a two-official crew). Visiting team calls the toss; winner picks
-offense or defense (no deferral); loser picks direction. See `rulebook.md` §1.1.
+offense or defense (no deferral); loser picks direction. See `rulebook.md` §1.1. The official also
+delivers the equipment briefing (mouthguards, flag position, third flag) at this time — see §OM-1
+above and `rulebook.md` §1.5.
 
 If the game reaches overtime, the same visiting team calls that toss too — one toss, no re-toss.
 The official picks the end zone for overtime (not a coin-toss decision), and should explain the
