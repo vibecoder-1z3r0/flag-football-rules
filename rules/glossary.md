@@ -7,10 +7,7 @@ noted for contrast.
 
 ---
 
-**Blitzer** — Any defender rushing the passer from behind the rush line. Not limited to one player
-— any number of defenders may blitz on a given play, in every division that has a rush line
-(Freshman, JV, Varsity). Peewee has no rush line and no blitzers at all — no pass rush is allowed.
-See Rule 10.1.
+**Blitzer** — See **Rusher**.
 
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
 of the end zone lines. Stepping on a boundary line is out of bounds.
@@ -93,7 +90,10 @@ the ball is released or handed off. Distance from the LOS varies by division: 10
 (Freshman), 7 yards (JV/Varsity). Peewee has no rush line — no pass rush is allowed at all. See
 Rule 10.1.
 
-**Rusher** — The defensive player rushing the passer. None in Peewee.
+**Rusher** (also called a **Blitzer**) — Any defender rushing the passer from behind the rush
+line. Not limited to one player — any number of defenders may rush on a given play, in every
+division that has a rush line (Freshman, JV, Varsity). Peewee has no rush line and no rushers at
+all — no pass rush is allowed. See Rule 10.1.
 
 **Shovel Pass** — A legal pitch attempted beyond the line of scrimmage. Distinct from a lateral
 (behind the LOS), which is prohibited.

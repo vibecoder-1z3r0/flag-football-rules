@@ -358,3 +358,14 @@ Peewee defender is a non-blitzing defender by definition, and none may cross the
 handoff or a ball carrier themselves crossing back behind it.
 
 See `rulebook.md` §10.1, §10.2.
+
+---
+
+## v2026.16 — Glossary Cleanup: Blitzer and Rusher Consolidated
+
+**Sources:** direct correction from the user (league admin), found during a glossary review.
+
+"Blitzer" and "Rusher" were two separate glossary entries describing the same concept. Merged
+into one entry under **Rusher** (matching the USA Football baseline's original term), with
+**Blitzer** as a redirect — same pattern already used for Botched Exchange/Failed Snap →
+Snap and Exchange Failure.
