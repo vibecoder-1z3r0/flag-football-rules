@@ -189,12 +189,17 @@ play without it, consistent with increasing player independence.
 
 ### 2.1 Field Dimensions
 
+> **Unconfirmed.** The dimensions below are the USA Football baseline, not a Lancaster-
+> confirmed figure — see Open Issue OI-12.
+
 **Rule** — Field is 30 yards by 53⅓ yards, with two 10-yard end zones and a midfield
 line-to-gain. Smaller fields may be used where space or tournament scheduling requires it.
 Stepping on a boundary line is out of bounds.
 
 **Revision History**
-- v0 (baseline) — USA Football rulebook §4. No league override.
+- Flagged for discussion — actual Lancaster field dimensions not yet confirmed; rule text
+  currently reflects the unconfirmed USA Football baseline. See Open Issue OI-12.
+- v0 (baseline) — USA Football rulebook §4. No league override confirmed yet.
 
 ---
 
@@ -1249,6 +1254,14 @@ layers of open question:
    (Snapping/Formations, Running, Passing, Receiving, Rushing the Passer, Flag Pulling/Dead
    Ball). If adopted, this could be a significant reorganization affecting where several existing
    rules live, not just substitutions. Discuss before restructuring.
+
+### OI-12 — Actual Field Dimensions Not Confirmed
+
+Rule 2.1 currently states the USA Football baseline's field dimensions (30 yards by 53⅓ yards,
+two 10-yard end zones) — no Lancaster document confirms these are the actual dimensions used
+by this league. The user has real field dimensions but they aren't in hand yet. Confirm and
+update Rule 2.1 once available; note whether dimensions are uniform across all fields/divisions
+or vary.
 
 ---
 

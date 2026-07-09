@@ -450,3 +450,14 @@ instructions for the scorekeeper/timekeeper role:
   conversion attempt, and gives the finalized score sheet to the winning coach at game end.
 
 This resolves **Open Issue OI-11** — see `rulebook.md` Appendix A, Resolved Issues.
+
+---
+
+## v2026.22 — New Open Issue: Field Dimensions Unconfirmed
+
+**Sources:** raised by the user (league admin) during the Chapter 2 rulebook review.
+
+Rule 2.1's field dimensions (30 × 53⅓ yards, two 10-yard end zones) are the USA Football
+baseline figure — no Lancaster document confirms these are the actual dimensions used. The
+user has real field dimensions on hand but not readily available yet. Tracked as **Open Issue
+OI-12**; update Rule 2.1 once confirmed.

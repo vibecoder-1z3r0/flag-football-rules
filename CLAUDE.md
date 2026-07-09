@@ -82,6 +82,8 @@ See `rules/rulebook.md` Appendix A for full detail. Current open items:
   whether the rulebook should have dedicated Offense/Defense chapters — closer to the 2026
   source document's own structure — rather than the current split across Chapters 6–11. No
   substitution rule exists in the rulebook at all right now; nothing to enforce.
+- **OI-12** — Rule 2.1's field dimensions (30 × 53⅓ yards) are the unconfirmed USA Football
+  baseline; actual Lancaster field dimensions not yet in hand.
 
 **Resolved:** OI-11 (scorekeeper/timekeeper — score sheet's printed instructions: not an
 official, clock management negotiated pregame with the referee, tracks/reports timeouts and
