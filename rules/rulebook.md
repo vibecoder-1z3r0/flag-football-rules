@@ -158,19 +158,36 @@ Stepping on a boundary line is out of bounds.
 
 **Rule** — A no-run zone exists 5 yards before midfield and 5 yards before each end zone. All
 plays run inside a no-run zone must be pass plays — a handoff followed by a run in the zone is
-not permitted, even if the handoff itself is legal. A penalty is enforced for running in the no-run
-zone (see `penalty-matrix.md`).
+not permitted, even if the handoff itself is legal (this includes an RPO where the ball ends up
+handed off/run rather than thrown). A no-run zone violation is a **loss of down** — see
+`penalty-matrix.md`. No yardage is assessed; the ball stays at the spot.
 
 Each offensive drive encounters exactly two live no-run zones: one before midfield (to gain the
-first down) and one before the target end zone (to score).
+first down) and one before the target end zone (to score). Once the offense's spot enters a
+no-run zone, the pass-only requirement is **sticky for the remainder of that set of downs**: it
+stays in effect until the offense achieves the first down, scores, or turns the ball over — even if
+an intervening penalty (e.g., delay of game) happens to move the resulting spot back outside
+the zone's yard-line boundary. The restriction is tied to having entered the zone this set of
+downs, not to the exact yard line of the current snap.
 
 **Rationale** — Prevents short-yardage power-running situations near the line-to-gain/goal line,
-keeping the game pass-oriented.
+keeping the game pass-oriented. The penalty for violating it is a loss of down specifically (rather
+than a replay-of-down penalty like Illegal Procedure) so a team can't deliberately eat a no-run-
+zone violation as a free do-over and simply try the run again on the next snap. The "sticky"
+treatment mirrors the existing PAT rule (Rule 4.2), where a penalty that moves the spot doesn't
+change a conversion attempt's already-declared type (1-point vs. 2-point) — here too, a penalty
+doesn't undo the fact that the drive is inside the no-run zone.
 
 **Case Plays** — See `casebook.md` §CP-2 (change of possession spot when a drive stalls inside
-the no-run zone).
+the no-run zone) and §CP-12 (no-run zone violation via RPO, and the zone's stickiness across
+downs and penalties).
 
 **Revision History**
+- Confirmed — no-run zone violation is its own foul: loss of down, no yardage. Previously the
+  penalty for this foul was undefined in `penalty-matrix.md` despite the rule requiring one.
+  Also confirmed the pass-only requirement is sticky for the set of downs once the zone is
+  entered — it survives an intervening penalty even if that penalty's yardage happens to move
+  the resulting spot outside the zone's yard-line boundary.
 - v2026.1 — Lancaster 2026 restates the same 5-yard zones (General Rules, Cheat Sheet).
 - v0 (baseline) — USA Football rulebook §4, §10.5. No material change; carried forward.
 
@@ -261,12 +278,23 @@ procedure and how officials should apply discretion in refunding a timeout.
 touchdown, the conversion attempt does not run the clock). The same restart-at-next-snap
 principle applies to any other clock stoppage, and to the start of each half.
 
+If a timeout is called after a touchdown (making the PAT an untimed down), the next timed
+down is the receiving team's first offensive snap — described as **"1st and half way"**: a first
+down where the line-to-gain is midfield, same as the standard structure in Rule 5.1. This applies
+regardless of exactly where in their own half that team's possession starts (their own 5-yard
+line, per the normal post-score restart spot, or any other spot in their own half per another rule)
+— as long as the spot is on their side of midfield, the line-to-gain is midfield, and the clock
+starts at that snap.
+
 The clock is not stopped for penalty enforcement unless a timeout was separately called.
 
 In the event of an injury, the clock stops and restarts once the injured player has left the field
 and both teams are lined up and ready.
 
 **Revision History**
+- Confirmed — "1st and half way": after a timeout following a touchdown, the clock starts at the
+  snap of the receiving team's next possession, which is a first down with the line-to-gain at
+  midfield regardless of the exact starting spot within their own half.
 - v2026.1 — Lancaster 2026 General Rules clarifies the untimed-down treatment of PATs after a
   timeout.
 - v2024.1 — Lancaster 2024 established the stop/restart-at-next-snap mechanic and the penalty
@@ -1037,16 +1065,6 @@ folded back into the relevant rule above with an updated Revision History entry 
 *No open issues at this time* — see "Resolved Issues" below for the full history. New
 ambiguities/contradictions/gaps identified in future revisions get logged here, numbered
 continuing from OI-9.
-
-> **Two items are currently under discussion with the user but not yet ready to write down as
-> either a rule or a formal open issue:**
-> 1. **Clock start after a timeout following a touchdown** — the extra point is confirmed as an
->    untimed down (Rule 3.5); still nailing down the exact next-play field-position phrasing
->    ("1st and half way") before this gets folded into a rule.
-> 2. **RPO / handoff plays run from the no-run zone** — the no-run zone requires all plays to be
->    pass plays (Rule 2.2), but `penalty-matrix.md` currently has no specific penalty entry for a
->    no-run-zone violation at all. Whether this should be Illegal Procedure or a more specific
->    foul is being worked out.
 
 ---
 

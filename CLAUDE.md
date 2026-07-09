@@ -92,12 +92,6 @@ spot, next line-to-gain is the goal line, next play is first down and goal; see 
 resolved. See `rules/rulebook.md` Appendix A, "Resolved Issues" for full detail on OI-1/OI-2/
 OI-3/OI-5/OI-6/OI-7/OI-8.
 
-**Under discussion, not yet ready to write into a rule:**
-- Clock start after a timeout following a touchdown / exact next-possession field position
-  ("1st and half way") — needs the phrasing clarified with the user.
-- Whether an RPO/handoff run from the no-run zone is Illegal Procedure or a more specific foul
-  — `penalty-matrix.md` has no dedicated no-run-zone-violation entry at all today.
-
 Resolve new open issues with the user as they arise, then update `custom-additions.md` / the
 relevant rule / `changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A
 and this list.

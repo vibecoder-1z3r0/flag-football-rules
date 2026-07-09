@@ -187,10 +187,24 @@ yardage is assessed from the spot, the next line-to-gain becomes the goal line (
 yards before the goal line), and the next play is first down and goal. Formerly Open Issue OI-8;
 now resolved.
 
-**Two items raised but intentionally left undecided pending further discussion:**
-- Clock start after a timeout following a touchdown, and the exact next-possession field
-  position ("1st and half way") — the untimed-down status of the PAT itself is already settled
-  (Rule 3.5); the field-position phrasing needs clarification before it's written into a rule.
-- Whether an RPO/handoff play run from the no-run zone should be penalized as Illegal
-  Procedure or a more specific foul — `penalty-matrix.md` currently has no dedicated no-run-
-  zone-violation entry at all.
+---
+
+## v2026.7 — No-Run Zone Penalty and "1st and Half Way" Resolved
+
+**Sources:** direct decisions from the user (league admin).
+
+- **No-run zone violation (Rule 2.2):** now its own foul — loss of down, no yardage — closing
+  the gap where `penalty-matrix.md` previously had no entry for this at all, despite the rule
+  requiring a penalty. Deliberately a loss of down (not a replay-of-down penalty like Illegal
+  Procedure) so a team can't eat the penalty as a free do-over and just try the run again.
+- **No-run zone stickiness:** the pass-only requirement is sticky for the set of downs once the
+  offense's spot has entered the zone — it persists down after down until first down, score, or
+  turnover, even if an intervening penalty (e.g., delay of game) moves the resulting spot back
+  past the zone's yard-line boundary. This mirrors the existing PAT rule (Rule 4.2), where a
+  penalty that moves the spot doesn't undo an already-declared 1-point-vs-2-point conversion
+  type.
+- **"1st and half way" (Rule 3.5):** clarified — after a timeout following a touchdown, the clock
+  starts at the snap of the receiving team's next possession, which is a first down with the
+  line-to-gain at midfield, regardless of the exact starting spot within their own half.
+
+All items raised during the v2026.6 discussion are now resolved.

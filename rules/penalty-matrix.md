@@ -49,6 +49,11 @@ they differ.
 | Charging | -10 yards from spot of foul, loss of down | — |
 | Unsportsmanlike Conduct (personal foul) | -10 yards, loss of down | §12.1, §12.2 |
 | Unnecessary Roughness (personal foul) | -10 yards, loss of down | §12.2 |
+| No-Run Zone Violation | No yardage, loss of down | §2.2 |
+
+No-Run Zone Violation is deliberately a loss of down rather than a replay-of-down penalty
+(unlike Illegal Procedure) — otherwise a team could treat the penalty as a free do-over and keep
+attempting the run.
 
 ---
 
