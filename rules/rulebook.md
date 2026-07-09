@@ -271,19 +271,24 @@ the referee. The clock stops only for timeouts, and at the official's discretion
 ### 3.3 Play Clock and Delay of Game
 
 **Rule** — A 30-second play clock starts when the official spots the ball, or after a "return to
-play" whistle following a stoppage. The offense must snap the ball within that window. A team
-receives one warning before a delay-of-game penalty is enforced; see `penalty-matrix.md` for
-enforcement.
+play" whistle following a stoppage. The offense must snap the ball within that window. Whether
+a delay-of-game penalty is enforced is at the official's discretion — there is no guaranteed
+one-time warning. See `penalty-matrix.md` for enforcement once called.
 
 **Officials Notes** — The official is responsible for marking off the rush line as part of spotting
 the ball, and should give a verbal reminder/countdown around the 20-second mark. Officials
-should use discretion with younger divisions who may need more time to line up. See
-`officials-manual.md` §OM-3.
+should use discretion with younger divisions who may need more time to line up. Consistent with
+the league's general enforcement philosophy (`officials-manual.md`), officials tend to be lax on
+delay of game early in the season and tighten up enforcement as the season progresses — this is
+judgment, not a scripted one-warning-then-enforce rule. See `officials-manual.md` §OM-3.
 
 **Case Plays** — See `casebook.md` §CP-1 (play starting after a clock stoppage — offense must
 wait for the "return to play" whistle before starting its cadence).
 
 **Revision History**
+- Corrected — removed the guaranteed one-time warning before a delay-of-game penalty; this
+  is pure official discretion, consistent with the general "lax early season, tighten up later"
+  enforcement philosophy, not a scripted mechanic.
 - v2026.1 — Lancaster 2026 restates the 30-second play clock (General Rules, Cheat Sheet).
 - v2024.1 — Lancaster 2024 added the countdown/warning mechanic and the "return to play"
   whistle requirement.

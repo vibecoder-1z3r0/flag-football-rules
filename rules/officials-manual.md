@@ -70,10 +70,11 @@ overtime format to both teams and to fans at that end zone before the first atte
 The 30-second play clock starts when the official spots the ball, or after a "return to play"
 whistle. The official is responsible for marking off the rush line as part of spotting the ball.
 
-Give a verbal reminder/countdown around the 20-second mark. On the first delay-of-game
-violation by a team, issue a warning rather than a penalty; from then on, enforce it straight. If a
-delay-of-game penalty is enforced with under 2 minutes remaining, stop the clock as if a timeout
-had been called.
+Give a verbal reminder/countdown around the 20-second mark. Whether to enforce delay of game
+is at the official's discretion — there's no guaranteed one-time warning before it's called.
+Consistent with the league's general enforcement philosophy, officials tend to be lax on delay of
+game early in the season and tighten up as the season progresses. If a delay-of-game penalty is
+enforced with under 2 minutes remaining, stop the clock as if a timeout had been called.
 
 At the start of a play following any clock stoppage (including halftime), direct the offense to wait
 for the "return to play" whistle before starting its cadence — don't let them snap immediately off

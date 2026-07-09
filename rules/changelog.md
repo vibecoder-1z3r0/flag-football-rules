@@ -479,3 +479,16 @@ Ball). Tracked as **Open Issue OI-13**.
 not the zone's basic definition or its chapter placement, which stays in Chapter 2 as-is. The
 enforcement detail may belong broken out into `penalty-matrix.md` instead of living inline in
 Rule 2.2.
+
+---
+
+## v2026.24 — Correction: Delay of Game Has No Guaranteed Warning (Rule 3.3)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 3 rulebook
+review.
+
+Removed the guaranteed one-time warning before a delay-of-game penalty is enforced — it's
+purely official discretion. Consistent with the league's general enforcement philosophy, officials
+tend to be lax on delay of game early in the season and tighten up as the season progresses,
+rather than following a scripted "warn once, then enforce" mechanic. See `rulebook.md` §3.3;
+`officials-manual.md` §OM-3.
