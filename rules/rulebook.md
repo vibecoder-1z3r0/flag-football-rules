@@ -536,32 +536,54 @@ flag is pulled. If the runner is downed by a body part other than feet or hands 
 ground, forward progress is the furthest-upfield downed body part (including feet, but not
 hands). **The position of the ball never determines forward progress.**
 
+**Diving.** If a runner dives forward, the ball is spotted where the dive **started**, not where the
+runner lands — a dive earns no additional forward progress beyond the takeoff point. See Rule
+7.4 for when diving is also a flag-guarding foul.
+
 **Officials Notes** — The ball is spotted where the runner's feet were when the flag was pulled,
 not where the ball itself is. See `officials-manual.md` §OM-5 (tackle-spot mechanics).
 
+**Case Plays** — See `casebook.md` §CP-9.
+
 **Revision History**
-- v2026.1 / v2024.1 — Both Lancaster documents restate this identically.
+- Confirmed — a forward dive is spotted at its starting point, not the landing point.
+- v2026.1 / v2024.1 — Both Lancaster documents restate the general forward-progress rule
+  identically.
 - v0 (baseline) — USA Football rulebook §10.1.
 
 ---
 
 ### 7.4 Leaving Feet and Flag Guarding by Runners
 
-**Rule** — Runners may not leave their feet to advance the ball. Diving, leaping, or jumping to
-avoid a flag pull is flag guarding. Spinning is legal, but spinning out of control to avoid a pull is
-flag guarding. A runner may leave their feet without penalty if clearly doing so to avoid a
-collision with another player, rather than to avoid a flag pull.
+**Rule** — Runners may not leave their feet to advance the ball. Diving or jumping to avoid a flag
+pull is flag guarding. Spinning is legal, but spinning out of control to avoid a pull is flag
+guarding. A runner may leave their feet without penalty if clearly doing so to avoid a collision
+with another player, rather than to avoid a flag pull.
+
+**What counts as "jumping."** To be judged illegal jumping under this rule, the motion must be
+**more vertical than horizontal**. A juke (lateral evasive footwork) is not jumping. Leaping
+forward (a predominantly horizontal motion) is not considered jumping either. This
+determination is left to official discretion on a play-by-play basis — there is no hard-and-fast
+angle threshold.
+
+Diving is addressed separately and is still flag guarding when done to avoid a flag pull,
+regardless of the vertical/horizontal test above (see also Rule 7.3 for the diving forward-
+progress spot rule).
 
 Flag guarding also includes stiff-arming, lowering the elbow or head, blocking flag access with a
 hand or arm, or covering the flags with the jersey. All jerseys must be tucked in before the play
 begins; deliberately obstructed flags are flag guarding.
 
 **Case Plays** — See `casebook.md` §CP-5 (flag guarding after the runner has already gained a
-first down on the same play).
+first down on the same play) and §CP-10 (jump vs. juke vs. forward leap).
 
 **Revision History**
-- v0 (baseline) — USA Football rulebook §10.8–10.13, §14. Unchanged by any league document
-  in substance (see `penalty-matrix.md` for the league's revised yardage on this foul).
+- Confirmed — "jumping" for flag-guarding purposes requires a predominantly vertical motion;
+  juking and forward leaping don't count as jumping under this rule. Official discretion governs
+  close calls.
+- v0 (baseline) — USA Football rulebook §10.8–10.13, §14 originally listed diving, leaping, and
+  jumping together as flag-guarding triggers with no vertical/horizontal distinction; refined as
+  above. See `penalty-matrix.md` for the league's revised yardage on this foul.
 
 ---
 
@@ -622,6 +644,8 @@ avoid a sack, but the throwaway must still cross the line of scrimmage to be leg
 that don't reach the line of scrimmage as long as the passer made an honest effort.
 
 **Revision History**
+- Confirmed — the ball itself (not just the passer's release point) must travel beyond the line of
+  scrimmage for the pass to be legal; reaffirmed as still the operative rule.
 - v0 (baseline) — USA Football rulebook §11.1. Unchanged in substance by any league
   document; see `penalty-matrix.md` for the league's current yardage on this foul.
 
@@ -658,14 +682,23 @@ any other forward pass.
 
 ### 8.4 Illegal Forward Pass
 
-**Rule** — Any pass that does not cross the line of scrimmage (received or not), or any pass
-thrown after the passer's foot has crossed the line of scrimmage, is an illegal forward pass. See
-`penalty-matrix.md`.
+**Rule** — A forward pass is illegal in either of these cases:
+1. The pass does not cross the line of scrimmage (received or not) — see Rule 8.1.
+2. The passer's foot has crossed the line of scrimmage at release. **Any part of the passer's toe
+   touching the line of scrimmage counts as having gone over it** — contact with the line itself is
+   enough to make the pass illegal; the foot does not need to be fully past the line.
+
+This applies equally to a player who received a handoff and then throws — their foot must stay
+strictly behind the line of scrimmage (not touching it) at release.
+
+See `penalty-matrix.md` for enforcement.
 
 **Case Plays** — See `casebook.md` §CP-6 (passer's foot crossing the LOS during a passing play,
 including a player who received a handoff and then throws).
 
 **Revision History**
+- Confirmed — the passer's toe merely touching the line of scrimmage counts as crossing it, not
+  just fully passing over it.
 - v2024.1 — Lancaster 2024 clarified that this includes any part of the passer's (or a
   handoff-recipient's) foot crossing the line of scrimmage during the pass attempt.
 - v0 (baseline) — USA Football rulebook §11.1.a.
@@ -714,13 +747,23 @@ returned for a score).
 
 ### 9.4 Successful Reception / Inbounds
 
-**Rule** — A player who gains possession of the ball in the air is considered inbounds as long as
-the first foot down is inbounds. This also applies if a player completes a catch with at least one
-foot inbounds before going out of bounds.
+**Rule** — For a receiver catching the ball in the air, the result depends on the first foot down:
+
+- **First foot lands out of bounds** — incomplete pass.
+- **First foot lands inbounds** — complete pass (regardless of what the other foot does next).
+- **Both feet touch the ground simultaneously** — complete pass.
+
+This also applies if a player completes a catch and has at least one foot inbounds before
+subsequently going out of bounds.
+
+**Case Plays** — See `casebook.md` §CP-11.
 
 **Revision History**
-- v0 (baseline) — USA Football rulebook §9.3, §12.3. Restated identically by Lancaster 2026;
-  no substantive change.
+- Confirmed — explicit first-foot-down logic for in-air catches: first foot out of bounds is
+  incomplete; first foot inbounds is complete; simultaneous two-foot landing is complete.
+- v0 (baseline) — USA Football rulebook §9.3, §12.3 established the general "at least one foot
+  inbounds" principle; the first-foot-down and simultaneous-landing detail above refines it
+  rather than contradicting it. Restated identically by Lancaster 2026.
 
 ---
 
@@ -967,9 +1010,27 @@ decision from the user. Each open item should be discussed with the league and, 
 folded back into the relevant rule above with an updated Revision History entry (moved to
 "Resolved Issues" below rather than deleted).
 
-*No open issues at this time.* All items raised during the initial consolidation (OI-1 through OI-7)
-have been resolved — see "Resolved Issues" below. New ambiguities/contradictions/gaps
-identified in future revisions get logged here, numbered continuing from OI-8.
+### OI-8 — Spot Foul on Offense After the Line to Gain Is Already Made
+
+The existing rule (Rule 7.4, illustrated in `casebook.md` CP-5) covers one specific case: flag
+guarding committed by the runner *after* they've already crossed the line-to-gain on the same
+play. That resolution is: the first down still counts, penalty yardage is assessed from the spot of
+the foul, and the next play is "first down" (or "first down and goal," if applicable) — the offense
+just loses ground it otherwise would have kept.
+
+The user has flagged that this needs further discussion — it isn't clear this same treatment
+should generalize to **every** offensive spot foul that could occur after the line to gain has
+already been made (e.g., charging, screening/blocking), not just flag guarding specifically. Open
+questions to work through:
+1. Does the "first down still counts, yardage assessed from the spot" resolution apply
+   uniformly to any offensive spot foul committed after the line to gain, or is flag guarding a
+   special case?
+2. Is there a scenario where a spot foul after the line to gain should instead cost the offense the
+   first down itself (not just yardage)?
+3. Does the answer differ depending on how far past the line to gain the foul occurs, or how
+   severe the foul is?
+
+Do not extend the CP-5 treatment to other spot fouls until this is resolved.
 
 ---
 

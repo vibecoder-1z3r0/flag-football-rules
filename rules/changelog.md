@@ -148,3 +148,29 @@ All open issues from the initial consolidation (OI-1 through OI-7) are now resol
   before the first attempt.
 
 See `rulebook.md` §1.1, §13.1; `officials-manual.md` §OM-2.
+
+---
+
+## v2026.5 — Passing, Receiving, and Forward-Progress Clarifications
+
+**Sources:** direct decisions from the user (league admin).
+
+- **Illegal forward pass (Rule 8.4):** the passer's toe merely touching the line of scrimmage
+  counts as having crossed it — the foot doesn't need to be fully past the line for the pass to be
+  illegal.
+- **Forward pass requirement (Rule 8.1):** reaffirmed — the ball itself must travel beyond the
+  line of scrimmage for the pass to be legal.
+- **Reception in/out of bounds (Rule 9.4):** explicit first-foot-down logic added — first foot out
+  of bounds is incomplete; first foot inbounds is complete; a simultaneous two-foot landing is
+  complete.
+- **Diving (Rule 7.3):** a forward dive is spotted at its starting point, not its landing point — no
+  forward-progress credit for distance covered while diving.
+- **Jumping vs. juking vs. leaping (Rule 7.4):** "jumping" for flag-guarding purposes requires a
+  predominantly vertical motion. Juking (lateral footwork) and leaping forward (predominantly
+  horizontal) don't count as jumping. Left to official discretion on close calls. Diving remains
+  separately banned regardless of this vertical/horizontal test.
+
+**New open issue raised — OI-8:** whether the existing flag-guarding-after-line-to-gain
+treatment (Rule 7.4, `casebook.md` CP-5 — first down still counts, penalty yardage assessed
+from the spot) generalizes to other offensive spot fouls in the same situation, or is specific to
+flag guarding. Not yet resolved — see `rulebook.md` Appendix A.

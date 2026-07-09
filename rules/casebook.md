@@ -102,7 +102,11 @@ during a passing play makes the pass illegal, regardless of whether it's complet
 applies to a player who received a handoff and then throws — their foot must stay behind the
 LOS at release.
 
-**Reference:** `rulebook.md` §8.4.
+**Contrast:** Same scenario, but the QB's plant foot lands with just the toe touching the line of
+scrimmage itself (not fully past it). Still an illegal forward pass — touching the line counts as
+having gone over it. The foot must be strictly behind the line, not merely not-yet-past it.
+
+**Reference:** `rulebook.md` §8.1, §8.4.
 
 ---
 
@@ -139,3 +143,67 @@ the other doesn't. Team A stays "first" and Team B stays "second" for every roun
 first/second order decided at the single overtime coin toss is not re-decided round to round.
 
 **Reference:** `rulebook.md` §1.1, §13.1. Applies to regular-season games and playoffs alike.
+
+---
+
+### CP-9 — Diving Forward
+
+**Play:** A ball carrier, still onside and not yet touched, dives forward from the 20-yard line and
+lands at the 23-yard line before a defender pulls the flag.
+
+**Ruling:** The ball is spotted at the 20-yard line — where the dive started — not the 23-yard
+line where the runner landed. A dive earns no forward-progress credit for the distance covered
+in the air.
+
+**Contrast:** If the same runner instead stays on their feet and is flag-pulled at the 23-yard
+line, forward progress is the full 23 yards (per the normal front-foot-at-flag-pull rule).
+
+**Reference:** `rulebook.md` §7.3.
+
+---
+
+### CP-10 — Jump vs. Juke vs. Forward Leap
+
+**Play A:** A ball carrier, defender closing in for a flag pull, hops straight up off both feet to
+avoid the pull attempt.
+
+**Ruling A:** Flag guarding. This is a predominantly vertical motion — a genuine jump — done to
+avoid a flag pull.
+
+**Play B:** Same situation, but instead of jumping, the runner plants and cuts laterally (a juke) to
+avoid the defender's angle.
+
+**Ruling B:** Not flag guarding. A juke is lateral evasive footwork, not a jump, regardless of
+whether it succeeds in avoiding the pull.
+
+**Play C:** Same situation, but the runner leaps forward (a predominantly horizontal motion —
+more like an extended stride than a hop) to gain a step on the defender.
+
+**Ruling C:** Not "jumping" under this rule, since the motion is predominantly horizontal rather
+than vertical. This determination is left to official discretion on a play-by-play basis; a leap that
+looks close to vertical may still be judged flag guarding at the official's discretion.
+
+**Reference:** `rulebook.md` §7.4.
+
+---
+
+### CP-11 — Reception In/Out of Bounds
+
+**Play A:** A receiver catches a pass in the air along the sideline. Their first foot comes down
+out of bounds; the second foot comes down inbounds a moment later.
+
+**Ruling A:** Incomplete pass. The first foot down governs — since it landed out of bounds, the
+catch is incomplete regardless of the second foot.
+
+**Play B:** Same play, but the first foot comes down inbounds, with the second foot landing out
+of bounds.
+
+**Ruling B:** Complete pass — the first foot down was inbounds.
+
+**Play C:** Same play, but both feet touch the ground at the exact same instant, straddling the
+sideline such that neither foot is clearly "first."
+
+**Ruling C:** If both feet touch simultaneously, the catch is ruled complete (this is the specific
+tiebreak for a simultaneous landing, distinct from the ordinary first-foot-down test).
+
+**Reference:** `rulebook.md` §9.4.

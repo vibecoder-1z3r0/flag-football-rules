@@ -74,8 +74,12 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 
 ## Open questions (as of 2026-07-08)
 
-See `rules/rulebook.md` Appendix A for full detail. Current open items: **none.** All items
-identified during the initial consolidation (OI-1 through OI-7) are resolved.
+See `rules/rulebook.md` Appendix A for full detail. Current open items: **OI-8** — whether the
+"first down still counts, penalty yardage assessed from the spot" treatment of flag guarding
+committed after the line to gain (Rule 7.4, `casebook.md` CP-5) generalizes to other offensive
+spot fouls in the same situation (charging, screening/blocking), or is flag-guarding-specific.
+User flagged this needs more discussion — do not extend CP-5's treatment to other fouls until
+resolved.
 
 **Resolved:** OI-1 (4th-down decision clock: rides inside the existing 30-second play clock,
 starts at the official's "4th down" declaration; missed decision = delay of game at official
