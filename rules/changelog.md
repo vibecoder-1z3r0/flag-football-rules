@@ -174,3 +174,23 @@ See `rulebook.md` §1.1, §13.1; `officials-manual.md` §OM-2.
 treatment (Rule 7.4, `casebook.md` CP-5 — first down still counts, penalty yardage assessed
 from the spot) generalizes to other offensive spot fouls in the same situation, or is specific to
 flag guarding. Not yet resolved — see `rulebook.md` Appendix A.
+
+---
+
+## v2026.6 — OI-8 Resolved: Spot Fouls After the Line to Gain
+
+**Sources:** direct decision from the user (league admin).
+
+Generalized the flag-guarding-after-line-to-gain ruling to all offensive spot fouls in the same
+situation (new Rule 5.5): first down is awarded regardless of which spot foul occurs, penalty
+yardage is assessed from the spot, the next line-to-gain becomes the goal line (no-run zone = 5
+yards before the goal line), and the next play is first down and goal. Formerly Open Issue OI-8;
+now resolved.
+
+**Two items raised but intentionally left undecided pending further discussion:**
+- Clock start after a timeout following a touchdown, and the exact next-possession field
+  position ("1st and half way") — the untimed-down status of the PAT itself is already settled
+  (Rule 3.5); the field-position phrasing needs clarification before it's written into a rule.
+- Whether an RPO/handoff play run from the no-run zone should be penalized as Illegal
+  Procedure or a more specific foul — `penalty-matrix.md` currently has no dedicated no-run-
+  zone-violation entry at all.

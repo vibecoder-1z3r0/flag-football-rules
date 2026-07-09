@@ -441,6 +441,29 @@ failure-to-convert spot is defined above, that spot governs.
 
 ---
 
+### 5.5 Offensive Spot Foul After the Line to Gain Is Already Made
+
+**Rule** — If the offense commits any spot foul (flag guarding, charging, screening/blocking, or
+any other offensive spot foul — see `penalty-matrix.md`) after the ball carrier has already
+crossed the line-to-gain on that same play, the first down still stands. The foul's penalty
+yardage is assessed from the spot of the foul, same as it would be anywhere else, but it does not
+take away the first down already earned.
+
+The next line-to-gain becomes the goal line, and the no-run zone that applies is the 5-yard zone
+before the goal line. The next play is "first down and goal."
+
+This is not limited to flag guarding — it applies uniformly to any offensive spot foul in this
+situation. (Formerly Open Issue OI-8; see Resolved Issues.)
+
+**Case Plays** — See `casebook.md` §CP-5.
+
+**Revision History**
+- Confirmed — generalized from the flag-guarding-specific ruling to all offensive spot fouls: the
+  first down is awarded regardless of foul, the next line-to-gain is the goal line, the no-run zone
+  is the 5 yards before the goal line, and the next play is first down and goal.
+
+---
+
 ## Chapter 6 — Snapping and Formations
 
 ### 6.1 Formations and Motion
@@ -575,7 +598,8 @@ hand or arm, or covering the flags with the jersey. All jerseys must be tucked i
 begins; deliberately obstructed flags are flag guarding.
 
 **Case Plays** — See `casebook.md` §CP-5 (flag guarding after the runner has already gained a
-first down on the same play) and §CP-10 (jump vs. juke vs. forward leap).
+first down on the same play — governed by the general rule at §5.5) and §CP-10 (jump vs. juke
+vs. forward leap).
 
 **Revision History**
 - Confirmed — "jumping" for flag-guarding purposes requires a predominantly vertical motion;
@@ -1010,27 +1034,19 @@ decision from the user. Each open item should be discussed with the league and, 
 folded back into the relevant rule above with an updated Revision History entry (moved to
 "Resolved Issues" below rather than deleted).
 
-### OI-8 — Spot Foul on Offense After the Line to Gain Is Already Made
+*No open issues at this time* — see "Resolved Issues" below for the full history. New
+ambiguities/contradictions/gaps identified in future revisions get logged here, numbered
+continuing from OI-9.
 
-The existing rule (Rule 7.4, illustrated in `casebook.md` CP-5) covers one specific case: flag
-guarding committed by the runner *after* they've already crossed the line-to-gain on the same
-play. That resolution is: the first down still counts, penalty yardage is assessed from the spot of
-the foul, and the next play is "first down" (or "first down and goal," if applicable) — the offense
-just loses ground it otherwise would have kept.
-
-The user has flagged that this needs further discussion — it isn't clear this same treatment
-should generalize to **every** offensive spot foul that could occur after the line to gain has
-already been made (e.g., charging, screening/blocking), not just flag guarding specifically. Open
-questions to work through:
-1. Does the "first down still counts, yardage assessed from the spot" resolution apply
-   uniformly to any offensive spot foul committed after the line to gain, or is flag guarding a
-   special case?
-2. Is there a scenario where a spot foul after the line to gain should instead cost the offense the
-   first down itself (not just yardage)?
-3. Does the answer differ depending on how far past the line to gain the foul occurs, or how
-   severe the foul is?
-
-Do not extend the CP-5 treatment to other spot fouls until this is resolved.
+> **Two items are currently under discussion with the user but not yet ready to write down as
+> either a rule or a formal open issue:**
+> 1. **Clock start after a timeout following a touchdown** — the extra point is confirmed as an
+>    untimed down (Rule 3.5); still nailing down the exact next-play field-position phrasing
+>    ("1st and half way") before this gets folded into a rule.
+> 2. **RPO / handoff plays run from the no-run zone** — the no-run zone requires all plays to be
+>    pass plays (Rule 2.2), but `penalty-matrix.md` currently has no specific penalty entry for a
+>    no-run-zone violation at all. Whether this should be Illegal Procedure or a more specific
+>    foul is being worked out.
 
 ---
 
@@ -1038,6 +1054,16 @@ Do not extend the CP-5 treatment to other spot fouls until this is resolved.
 
 Formerly open, now settled by the user. Kept here (rather than deleted) so the reasoning behind
 the current rule text stays traceable.
+
+### OI-8 (Resolved) — Spot Foul on Offense After the Line to Gain Is Already Made
+
+Was: unclear whether the flag-guarding-specific ruling (first down stands, penalty yardage
+assessed from the spot, next play is first down and goal) generalizes to any offensive spot foul
+in the same situation, or is unique to flag guarding. **Resolution:** it generalizes — see Rule 5.5.
+Any offensive spot foul (flag guarding, charging, screening/blocking, etc.) committed after the
+ball carrier has already crossed the line-to-gain on that play gets the same treatment: first down
+awarded, penalty yardage assessed from the spot, next line-to-gain is the goal line (no-run zone
+= 5 yards before the goal line), next play is first down and goal.
 
 ### OI-1 (Resolved) — Fourth-Down Decision Clock: Division Scope
 

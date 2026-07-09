@@ -75,20 +75,23 @@ happens in the offense's own end zone in JV/Varsity, it's a safety.
 
 ---
 
-### CP-5 — Flag Guarding After Already Gaining the First Down
+### CP-5 — Offensive Spot Foul After Already Gaining the First Down
 
 **Play:** JV division. The ball carrier crosses the line-to-gain by 5 yards (first down easily
 gained) but then, still on the same play, stiff-arms a defender reaching for the flags 5 yards past
-the line-to-gain.
+the line-to-gain (flag guarding).
 
-**Ruling:** This is an edge case explicitly addressed in the 2026 source rules. The first down is
-still awarded — the offense's drive continues and that team cannot gain another first down on
-the current drive (i.e., if the no-run zone before the end zone is reached, it behaves as the last
-zone of the drive). The flag-guarding penalty yardage is assessed from the spot of the foul on
-top of that. The next legal play is "first down and goal" (or "first down," if not yet inside the
-no-run zone before the end zone).
+**Ruling:** The first down is still awarded. The flag-guarding penalty yardage is assessed from
+the spot of the foul on top of that. The next line-to-gain becomes the goal line (with the no-run
+zone now being the 5 yards before the goal line), and the next play is "first down and goal."
 
-**Reference:** `rulebook.md` §7.4; `penalty-matrix.md` (Flag Guarding).
+**Contrast:** Same play, but instead of flag guarding, the ball carrier commits some other
+offensive spot foul after the line-to-gain (e.g., charging into a defender who'd established
+position). Same ruling — this isn't a flag-guarding-specific treatment. Any offensive spot foul
+committed after the line-to-gain is already made gets the same result: first down stands,
+penalty yardage assessed from the spot, next play is first down and goal.
+
+**Reference:** `rulebook.md` §5.5, §7.4; `penalty-matrix.md`.
 
 ---
 

@@ -74,12 +74,8 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 
 ## Open questions (as of 2026-07-08)
 
-See `rules/rulebook.md` Appendix A for full detail. Current open items: **OI-8** — whether the
-"first down still counts, penalty yardage assessed from the spot" treatment of flag guarding
-committed after the line to gain (Rule 7.4, `casebook.md` CP-5) generalizes to other offensive
-spot fouls in the same situation (charging, screening/blocking), or is flag-guarding-specific.
-User flagged this needs more discussion — do not extend CP-5's treatment to other fouls until
-resolved.
+See `rules/rulebook.md` Appendix A for full detail. Current open items: **none.** All items
+identified during the initial consolidation (OI-1 through OI-7) are resolved.
 
 **Resolved:** OI-1 (4th-down decision clock: rides inside the existing 30-second play clock,
 starts at the official's "4th down" declaration; missed decision = delay of game at official
@@ -90,8 +86,17 @@ rule, Rule 7.5), OI-5 (2024 officiating mechanics confirmed still current), OI-6
 min/max needed; 4-player minimum to play, otherwise forfeit), OI-7 (overtime applies to all
 games, not just playoffs). The offensive Unnecessary Roughness sign discrepancy (formerly
 OI-4) was a plain dash typo — corrected to -10 yards, loss of down, directly in
-`penalty-matrix.md`, no issue tracking needed. See `rules/rulebook.md` Appendix A, "Resolved
-Issues" for full detail on OI-1/OI-2/OI-3/OI-5/OI-6/OI-7.
+`penalty-matrix.md`, no issue tracking needed. OI-8 (spot foul after the line to gain — generalized
+the flag-guarding ruling to all offensive spot fouls: first down stands, penalty yardage from the
+spot, next line-to-gain is the goal line, next play is first down and goal; see Rule 5.5) is also
+resolved. See `rules/rulebook.md` Appendix A, "Resolved Issues" for full detail on OI-1/OI-2/
+OI-3/OI-5/OI-6/OI-7/OI-8.
+
+**Under discussion, not yet ready to write into a rule:**
+- Clock start after a timeout following a touchdown / exact next-possession field position
+  ("1st and half way") — needs the phrasing clarified with the user.
+- Whether an RPO/handoff run from the no-run zone is Illegal Procedure or a more specific foul
+  — `penalty-matrix.md` has no dedicated no-run-zone-violation entry at all today.
 
 Resolve new open issues with the user as they arise, then update `custom-additions.md` / the
 relevant rule / `changelog.md`, and remove the resolved item from both `rulebook.md` Appendix A
