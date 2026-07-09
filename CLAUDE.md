@@ -72,10 +72,16 @@ sources/                 Raw transcriptions of original PDFs — provenance only
   live in `custom-additions.md`, get a stub in the relevant rule (marked clearly as "pending, not
   yet in force"), and get an Open Issues entry — never get merged into the rule as if final.
 
-## Open questions (as of 2026-07-08)
+## Open questions (as of 2026-07-08, updated during Chapter 1 rulebook review)
 
-See `rules/rulebook.md` Appendix A for full detail. Current open items: **none.** All items
-identified during the initial consolidation (OI-1 through OI-7) are resolved.
+See `rules/rulebook.md` Appendix A for full detail. Current open items:
+- **OI-9** — Rule 1.5's "no audibles" restriction on coaches is sourced entirely from the USA
+  Football baseline; not confirmed as actual league practice.
+- **OI-10** — Substitutions: (1) the substitution rule itself (baseline allows any dead ball; user
+  wants a "no substitutions once the huddle breaks" restriction, scope undecided), and (2)
+  whether the rulebook should have dedicated Offense/Defense chapters — closer to the 2026
+  source document's own structure — rather than the current split across Chapters 6–11. No
+  substitution rule exists in the rulebook at all right now; nothing to enforce.
 
 **Resolved:** OI-1 (4th-down decision clock: rides inside the existing 30-second play clock,
 starts at the official's "4th down" declaration; missed decision = delay of game at official

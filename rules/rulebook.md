@@ -185,29 +185,6 @@ play without it, consistent with increasing player independence.
 
 ---
 
-### 1.6 Substitutions
-
-> **Under discussion — not finalized.** The baseline rule (substitutions allowed on any dead
-> ball) had never been captured in this rulebook until now. The user wants to add a restriction —
-> no substitutions once the huddle breaks — but the scope isn't settled; see Open Issue OI-10.
-> Do not enforce the "no substitutions after the huddle breaks" clause until it's resolved.
-
-**Rule** — Substitutions may be made on any dead ball.
-
-> **Pending addition:** substitutions are not allowed once the huddle has broken, even though
-> the ball is still dead at that point. Scope not yet settled — see Open Issue OI-10.
-
-**Case Plays** — None yet.
-
-**Revision History**
-- Flagged for discussion — added a proposed restriction on substitutions after the huddle
-  breaks; scope (which team(s), penalty, precise trigger) not yet resolved. See Open Issue OI-10.
-- Confirmed — the baseline "substitutions on any dead ball" rule had never been captured in
-  the consolidated rulebook; added to close the gap.
-- v0 (baseline) — USA Football rulebook §9.5.
-
----
-
 ## Chapter 2 — The Field
 
 ### 2.1 Field Dimensions
@@ -1249,16 +1226,26 @@ broken" is sourced entirely from the USA Football baseline (§8) — no Lancaste
 confirms or contradicts it. Flagged during the Chapter 1 reorder/review; not yet confirmed as
 actual league practice. Discuss whether to keep, loosen, or drop this restriction.
 
-### OI-10 — Substitutions: Scope of "No Substitutions Once the Huddle Breaks"
+### OI-10 — Substitutions
 
-See Rule 1.6 (new, still being drafted). The baseline allows substitutions on any dead ball; the
-user wants to add a restriction that substitutions aren't allowed once the huddle breaks, but the
-exact scope isn't settled yet:
-1. Does this apply to both offense and defense, or just the offense (whose huddle is the one
-   that "breaks" in the traditional sense)?
-2. What's the penalty/consequence if a team substitutes after the huddle has broken?
-3. Does "huddle breaks" have a precise trigger (e.g., the moment players start moving to their
-   pre-snap positions), or is it left to official judgment?
+Not yet in the rulebook at all — removed from a draft Rule 1.6 pending this discussion. Two
+layers of open question:
+
+1. **The substitution rule itself.** The USA Football baseline allows substitutions on any dead
+   ball; the user wants to add a restriction that substitutions aren't allowed once the huddle
+   breaks. Not yet settled:
+   - Does this apply to both offense and defense, or just the offense (whose huddle is the one
+     that "breaks" in the traditional sense)?
+   - What's the penalty/consequence if a team substitutes after the huddle has broken?
+   - Does "huddle breaks" have a precise trigger (e.g., the moment players start moving to their
+     pre-snap positions), or is it left to official judgment?
+2. **Where substitution rules (and possibly other rules) should live structurally.** The user
+   raised whether the rulebook should have dedicated **Offense** and **Defense** sections/
+   chapters — closer to how the 2026 source document itself was organized (it had top-level
+   "Offense" and "Defense" headings) — rather than the current split across Chapters 6–11
+   (Snapping/Formations, Running, Passing, Receiving, Rushing the Passer, Flag Pulling/Dead
+   Ball). If adopted, this could be a significant reorganization affecting where several existing
+   rules live, not just substitutions. Discuss before restructuring.
 
 ---
 

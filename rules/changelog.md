@@ -394,3 +394,26 @@ review.
 Removed the USA Football baseline's "shorts/pants with pockets or belt loops must be taped"
 requirement — the user confirmed this is not enforced by the league in actual practice. See
 `rulebook.md` §1.2.
+
+---
+
+## v2026.19 — Chapter 1 Reordered; Coaches and Substitutions Flagged for Discussion
+
+**Sources:** direct direction from the user (league admin).
+
+**Chapter 1 reordered:** 1.1 Rosters and Minimum to Play, 1.2 Equipment and Uniforms, 1.3
+Pregame and Coin Toss, 1.4 Coin Toss Equipment Briefing, 1.5 Coaches on the Field. All
+cross-references throughout `rulebook.md`, `officials-manual.md`, `casebook.md`, and
+`glossary.md` updated to the new numbering.
+
+**Coaches on the Field (Rule 1.5):** the "no audibles" restriction is sourced entirely from the
+USA Football baseline, with no Lancaster document confirming it as actual practice. Flagged as
+**Open Issue OI-9** for discussion rather than treated as settled.
+
+**Substitutions:** a draft Rule 1.6 was added (baseline's "substitutions on any dead ball," plus a
+proposed "no substitutions once the huddle breaks" restriction) and then **removed** — the user
+wants this worked through as an open issue first, including a broader question raised alongside
+it: should the rulebook have dedicated **Offense** and **Defense** chapters/sections, closer to
+how the 2026 source document itself was organized, rather than the current split across
+Chapters 6–11? Tracked as **Open Issue OI-10**, covering both the substitution rule's scope and
+the structural question. Not yet enforced or adopted.
