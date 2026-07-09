@@ -383,3 +383,14 @@ confirmed actual league practice is more flexible: the **winner** picks *either*
 *or* direction (whichever category they want), with no deferring to the second half, and the
 **loser** picks from whichever category is left over. This corrects both source documents, not
 just one. See `rulebook.md` §1.1; `officials-manual.md` §OM-2.
+
+---
+
+## v2026.18 — Correction: Taped Pockets Not Enforced (Rule 1.3)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 1 rulebook
+review.
+
+Removed the USA Football baseline's "shorts/pants with pockets or belt loops must be taped"
+requirement — the user confirmed this is not enforced by the league in actual practice. See
+`rulebook.md` §1.3.
