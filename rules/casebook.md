@@ -330,3 +330,24 @@ ball off to a runner before the defender crosses the LOS.
 defender, blitzing or not, may cross the LOS to pursue the ball carrier (Rule 7.1).
 
 **Reference:** `rulebook.md` §7.1, §10.2.
+
+---
+
+### CP-17 — Deflected Snap Treated as a Handoff
+
+**Play:** The snap is off-target and deflects off the intended QB's hands to a nearby offensive
+player, who scoops it up and takes off running, as if it had been a designed handoff.
+
+**Ruling:** Illegal. There was no clean, direct handoff — the ball reached that player via a
+deflected snap, not a controlled exchange from the quarterback. That player is deemed to have
+received the snap directly, making them the quarterback for the play by definition. Since the
+quarterback cannot run the ball, this is a foul on the offense: -5 yards from the line of
+scrimmage, replay of down (the same enforcement whether it's called illegal rush, illegal
+procedure, or another label — see `penalty-matrix.md`).
+
+**Contrast:** If the same deflected snap is instead caught by the *intended* QB (just off-target,
+not landing with a different player), normal play continues — a deflection that's still corralled
+by the actual QB doesn't trigger this rule; it's simply a slightly bobbled but otherwise legal
+snap.
+
+**Reference:** `rulebook.md` §6.1, §7.1.

@@ -288,3 +288,24 @@ Rule 7.1.
 
 This is a good example of why the cheat sheet is treated as a condensed restatement of the
 General Rules doc rather than an independent source — see README "Notes on sources."
+
+---
+
+## v2026.12 — Deflected Snap / Clean Exchange Required (Rule 7.1)
+
+**Sources:** direct decision from the user (league admin), from a real game ruling last season.
+
+A handoff must be a direct, controlled exchange from the quarterback to the ball carrier. If a
+snap is deflected and ends up with a player other than the intended recipient — with no clean
+handoff having occurred — that player is deemed to have received the snap directly, making
+them the quarterback for the play (per the existing glossary definition: "the offensive player who
+receives the snap"). Since the quarterback cannot run the ball, that player running with a
+deflected snap is an illegal play by the offense.
+
+**Enforcement:** a standard -5 yards from the line of scrimmage, replay of down — confirmed
+consistent with the 2026 Penalty Buddy card, which bundles "Illegal Forward Pass / Illegal Rush"
+as a single line item at this same enforcement, alongside Illegal Procedure. The specific label
+used by officials in the moment (illegal rush, illegal procedure, etc.) doesn't change the
+enforcement.
+
+See `rulebook.md` §7.1; `casebook.md` CP-17.

@@ -604,7 +604,24 @@ the line of scrimmage — not just the players who were rushing before the hando
 Rule 10.2 pre-handoff crossing restriction (which limits LOS-crossing to blitzing defenders only,
 in PW/Freshman/Girls) and the Rule 10.1 rush-line distance restriction alike.
 
+**Clean exchange required.** A handoff must be a direct, controlled exchange from the
+quarterback to the ball carrier. If the snap is deflected and ends up with a player other than the
+intended recipient — with no clean handoff having actually occurred — that player is deemed to
+have received the snap directly, making them the quarterback for that play (see the Quarterback
+definition in the glossary: "the offensive player who receives the snap"). The quarterback cannot
+run the ball (Rule 6.1), so if that player runs with the deflected snap, it's an illegal play by the
+offense. Enforce as a standard -5-yards-from-LOS, replay-of-down foul — the 2026 Penalty
+Buddy card itself bundles "Illegal Forward Pass / Illegal Rush" as a single line item at this
+enforcement, alongside Illegal Procedure and similar offensive fouls (see `penalty-matrix.md`);
+the specific label used doesn't change the enforcement.
+
+**Case Plays** — See `casebook.md` §CP-17.
+
 **Revision History**
+- Confirmed — a deflected snap that lands with an unintended player is not a handoff; that
+  player is the quarterback by definition and cannot legally run. Enforced as a standard -5
+  yards/replay-of-down offensive foul, consistent with the 2026 Penalty Buddy card's own
+  "Illegal Forward Pass / Illegal Rush" bundled line item.
 - Confirmed — this baseline provision had not been carried into the consolidated rulebook; now
   captured explicitly and cross-referenced from Rule 10.1/10.2 to close the gap.
 - v0 (baseline) — USA Football rulebook §10.7. Unchanged by any league document.

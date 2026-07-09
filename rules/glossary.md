@@ -79,7 +79,9 @@ puck marks the line of scrimmage, the other marks the rush line. See Rule 6.2 an
 Manual.
 
 **Quarterback (QB)** — The offensive player who receives the snap. Cannot run the ball (league
-rule; the USA Football baseline states the same restriction).
+rule; the USA Football baseline states the same restriction). If a snap is deflected and ends up
+with a player other than the intended recipient with no clean handoff having occurred, that
+player is the quarterback for the play by this definition — see Rule 7.1.
 
 **Rush Line** — The imaginary line, parallel to the LOS, that pass rushers must stay behind until
 the ball is released or handed off. Distance from the LOS varies by division — see Rule 10.
