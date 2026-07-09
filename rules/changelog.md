@@ -338,3 +338,23 @@ glossary review.
 - Crossing the LOS without a permitted trigger is enforced as Illegal Rush.
 
 See `rulebook.md` §10.2; `casebook.md` CP-16, CP-18.
+
+---
+
+## v2026.15 — Correction: Peewee Has No Pass Rush at All
+
+**Sources:** direct correction from the user (league admin).
+
+The 2026 General Rules doc groups "Freshmen and Peewee Pass Rushers" together under one
+10-yard rush-line heading, which had been read as Peewee having a 10-yard rush line like
+Freshman. The user confirmed this is wrong: **Peewee has no rushers and no rush line at all** —
+consistent with the USA Football baseline's junior-level recommendation to eliminate pass
+rushers entirely so the passer gets the full 7-second pass clock unpressured. Only Freshman (10
+yards) and JV/Varsity (7 yards) have an actual rush line.
+
+The Rule 10.2 alignment restriction (non-blitzing defenders 5+ yards back pre-snap, to let
+running plays develop) still applies in Peewee — since there are no blitzers there at all, every
+Peewee defender is a non-blitzing defender by definition, and none may cross the LOS before a
+handoff or a ball carrier themselves crossing back behind it.
+
+See `rulebook.md` §10.1, §10.2.

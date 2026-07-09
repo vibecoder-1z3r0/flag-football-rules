@@ -917,35 +917,44 @@ subsequently going out of bounds.
 
 ### 10.1 Rush Line Distances by Division
 
-**Rule** — Pass rushers must stay behind a rush line whose distance from the line of scrimmage
+**Rule** — A defender is only eligible to rush the passer if positioned behind the rush line — this
+is what makes them a "blitzer" (Rule 10.2). Rush line distance from the line of scrimmage
 depends on division:
 
 | Division | Rush line distance |
 |---|---|
-| Peewee, Freshman (and Girls Freshman, by extension) | 10 yards |
+| Peewee | No rushers — Peewee has no pass rush at all |
+| Freshman (and Girls Freshman, by extension) | 10 yards |
 | JV, Varsity | 7 yards |
 
 The rusher must keep both feet behind the rush-line puck until the ball is released or handed
-off. Any number of defenders may rush from behind the applicable rush line, in every division —
-there is no cap on how many rushers a defense sends, and no pre-snap self-identification
-requirement for rushers in any division.
+off. Any number of defenders may rush from behind the applicable rush line, in every division
+that has one — there is no cap on how many rushers a defense sends, and no pre-snap
+self-identification requirement for rushers in any division.
 
-**Officials Notes** — In Peewee/Freshman/Girls, non-blitzing defenders must additionally stay at
-least 5 yards back from the line of scrimmage until the snap (see Rule 10.2) — the rush-line
-restriction applies to whichever defenders are actually rushing.
+**Officials Notes** — In Freshman/Girls, non-blitzing defenders must additionally stay at least 5
+yards back from the line of scrimmage until the snap (see Rule 10.2) — the rush-line restriction
+applies to whichever defenders are actually rushing. Peewee has no rush line and no blitzers at
+all, consistent with the baseline's junior-level recommendation to eliminate pass rushers
+entirely so the passer gets the full 7-second pass clock unpressured.
 
 **Case Plays** — See `casebook.md` §CP-7.
 
 **Revision History**
+- Corrected — Peewee has no pass rush at all, not a 10-yard rush line. Only Freshman (10 yards)
+  and JV/Varsity (7 yards) have rushers. This corrects the earlier reading of the 2026 General
+  Rules doc, which grouped "Freshmen and Peewee" together under one 10-yard rush-line
+  heading; the user confirmed Peewee has no rushers in actual practice.
 - Corrected — removed a raised-hand blitzer self-identification requirement that had been
   pulled from the 2026 Coaches Cheat Sheet. That requirement doesn't appear in the 2026
   General Rules & Guidelines doc (the primary source), which instead confirms any number of
-  defenders may rush in every division. The cheat sheet's addition doesn't reflect actual league
-  practice; not adopted.
+  defenders may rush in every division that has a rush. The cheat sheet's addition doesn't
+  reflect actual league practice; not adopted.
 - v2026.1 / v2024.1 — Both Lancaster documents independently specify 7 yards for JV and 10
-  yards for Freshman/Peewee, overriding the baseline's uniform 7-yard rule across all divisions.
+  yards for Freshman, overriding the baseline's uniform 7-yard rule across all divisions.
 - v0 (baseline) — USA Football rulebook §13.1 specified a uniform 7-yard rush line for all
-  divisions (superseded for Freshman/Peewee).
+  divisions (superseded for Freshman); §13.1's junior-level recommendation to eliminate pass
+  rushers entirely is what the league actually adopted for Peewee.
 
 ---
 
@@ -968,9 +977,22 @@ A non-blitzing defender **may** cross the line of scrimmage only when:
 
 In JV and Varsity, defensive players may line up anywhere, with no such crossing restriction.
 
+**Rationale** — The 5-yards-back requirement exists to let offensive running plays develop in
+the lower divisions and girls divisions, rather than letting defenders crowd the line of
+scrimmage immediately.
+
+**Officials Notes** — In Peewee specifically, there is no rush line and no blitzers at all (Rule
+10.1) — every defender is a non-blitzing defender by definition. In practice, this means no
+Peewee defender may cross the line of scrimmage before a handoff or before a ball carrier
+themselves crosses back behind it; there is no "blitzer" who gets an earlier crossing allowance.
+
 **Case Plays** — See `casebook.md` §CP-16, §CP-18.
 
 **Revision History**
+- Confirmed — the 5-yards-back rule exists to let offensive running plays develop, and applies
+  in Peewee too even though Peewee has no rush line/blitzers (Rule 10.1) — in Peewee, this
+  means no defender may cross the LOS before a handoff or a ball carrier crossing back behind
+  it themselves.
 - Corrected — redefined "non-blitzing defender" by position (not behind the rush line) rather
   than by role, and added the second crossing exception: pursuit of a ball carrier (e.g., a
   receiver after the catch) who has themselves retreated behind the LOS. Previously only the

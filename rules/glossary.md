@@ -8,7 +8,9 @@ noted for contrast.
 ---
 
 **Blitzer** — Any defender rushing the passer from behind the rush line. Not limited to one player
-— any number of defenders may blitz on a given play, in every division. See Rule 10.1.
+— any number of defenders may blitz on a given play, in every division that has a rush line
+(Freshman, JV, Varsity). Peewee has no rush line and no blitzers at all — no pass rush is allowed.
+See Rule 10.1.
 
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
 of the end zone lines. Stepping on a boundary line is out of bounds.
@@ -66,10 +68,12 @@ All plays in a no-run zone must be pass plays (a handoff followed by a run is no
 
 **Non-Blitzing Defender** — In divisions with restricted defensive alignment (Peewee, Freshman,
 Girls), any defender not positioned behind the rush line (i.e., not a rusher). Must line up at
-least 5 yards back from the LOS pre-snap, and may advance up to (but not cross) the LOS at the
-snap — crossing it is an Illegal Rush foul unless (1) the ball has been handed off, or (2) the
-defender is in pursuit of a ball carrier (e.g., a receiver after the catch) who has themselves gone
-behind the LOS trying to evade defenders. See Rule 7.1, Rule 10.2.
+least 5 yards back from the LOS pre-snap — to let offensive running plays develop — and may
+advance up to (but not cross) the LOS at the snap. Crossing it is an Illegal Rush foul unless (1)
+the ball has been handed off, or (2) the defender is in pursuit of a ball carrier (e.g., a receiver
+after the catch) who has themselves gone behind the LOS trying to evade defenders. In Peewee,
+which has no rush line and no blitzers at all, every defender is a non-blitzing defender by this
+definition. See Rule 7.1, Rule 10.2.
 
 **Offense** — The team in possession of the ball.
 
@@ -85,9 +89,11 @@ with a player other than the intended recipient with no clean handoff having occ
 player is the quarterback for the play by this definition — see Rule 7.1.
 
 **Rush Line** — The imaginary line, parallel to the LOS, that pass rushers must stay behind until
-the ball is released or handed off. Distance from the LOS varies by division — see Rule 10.
+the ball is released or handed off. Distance from the LOS varies by division: 10 yards
+(Freshman), 7 yards (JV/Varsity). Peewee has no rush line — no pass rush is allowed at all. See
+Rule 10.1.
 
-**Rusher** — The defensive player rushing the passer.
+**Rusher** — The defensive player rushing the passer. None in Peewee.
 
 **Shovel Pass** — A legal pitch attempted beyond the line of scrimmage. Distinct from a lateral
 (behind the LOS), which is prohibited.
