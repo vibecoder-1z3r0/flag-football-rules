@@ -502,3 +502,13 @@ re-review.
 
 Removed the USA Football baseline's requirement to remove hats/do-rags. Headgear is allowed —
 the only equipment-removal requirement is hazardous jewelry. See `rulebook.md` §1.2.
+
+---
+
+## v2026.26 — Correction: No Flag-Belt-Color Rule (Rule 1.2)
+
+**Sources:** direct correction from the user (league admin), found during the full-text Chapter 1
+re-review.
+
+Removed the USA Football baseline's requirement that flag belts not match the player's shorts/
+pants color. Not enforced by this league. See `rulebook.md` §1.2.
