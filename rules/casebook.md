@@ -68,8 +68,9 @@ the snap/exchange-failure do-over allowance takes precedence for the first two s
 per half in Peewee/Freshman/Girls Freshman.)
 
 **Contrast:** The same play in JV/Varsity, or a 3rd+ such failure in Peewee/Freshman/Girls
-Freshman in the same half, is a loss of down (no yardage lost) rather than a do-over. If it
-happens in the offense's own end zone in JV/Varsity, it's a safety.
+Freshman in the same half, is enforced rather than a do-over: loss of down, and the ball is
+spotted where it first hit the ground — 3 yards behind the original line of scrimmage in this
+example, not back at the original spot. See CP-14 for the end-zone/safety version of this.
 
 **Reference:** `rulebook.md` §6.2, §7.5, §11.2, §4.3.
 
@@ -269,3 +270,26 @@ inside the no-run zone. Interceptions are excluded from that treatment entirely 
 interceptions are always spotted at the end of the return.
 
 **Reference:** `rulebook.md` §5.4, §9.3.
+
+---
+
+### CP-14 — Enforced Snap/Exchange Failure Ending in the End Zone (Safety)
+
+**Play:** JV division (no free redos). The offense is backed up to 1st down at their own 3-yard
+line. The shotgun snap sails high over the QB's head and hits the ground at the 1-yard line — a
+yard deep into their own territory but still short of the goal line — before rolling backward and
+coming to rest in the end zone.
+
+**Ruling:** The ball is spotted where it first hit the ground: the 1-yard line, not the end zone
+where it came to rest after rolling. Since the 1-yard line is still in the field of play (not the end
+zone itself), this is **not** a safety — it's an enforced loss of down, ball spotted at the 1-yard
+line.
+
+**Contrast (actual safety):** Same play, but the errant snap's first point of ground contact is
+already inside the end zone (e.g., it sails over the QB's head and the first bounce is beyond the
+goal line). Because the *first* ground contact — not the final resting spot — is inside the
+offense's own end zone, this is a safety: 2 points and the ball to the defense. The original line
+of scrimmage (the 3-yard line) does not matter for this determination; only where the ball first
+hit the ground does.
+
+**Reference:** `rulebook.md` §4.3, §7.5, §11.2.

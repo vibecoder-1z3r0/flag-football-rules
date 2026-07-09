@@ -223,3 +223,20 @@ All items raised during the v2026.6 discussion are now resolved.
   interception point if the ball was advanced, and **never pushed out to a 5-yard-line floor**,
   even if the return ends deep inside the intercepting team's own territory. This is a deliberate
   contrast with the no-run-zone turnover-on-downs treatment above.
+
+---
+
+## v2026.9 — Snap/Exchange Failure Spot and Safety Scope
+
+**Sources:** direct decisions from the user (league admin).
+
+- **Spot on an enforced snap/exchange failure (Rule 7.5):** the ball is spotted where it first
+  touched the ground (Rule 11.2's general dead-ball spotting rule) — not wherever it
+  subsequently rolled or bounced to, and not reset to the original line of scrimmage. A do-over
+  (within the PW/Freshman/Girls Freshman free-redo cap) is unaffected by this — it always
+  replays from the original line of scrimmage since the down is erased entirely.
+- **Safety scope (Rule 4.3):** an enforced snap/exchange failure that comes to rest in the
+  offense's own end zone is a safety — this was previously stated as JV/Varsity-specific, but
+  actually applies to any division once the failure is enforced (loss of down) rather than a
+  do-over. It's automatic for JV/Varsity (no free redos) and also applies to Peewee/Freshman/
+  Girls Freshman once their 2-per-half do-over cap is used up.
