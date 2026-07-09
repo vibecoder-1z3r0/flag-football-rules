@@ -455,11 +455,11 @@ whether it is going for the line-to-gain/score or electing to punt. This declara
 decision to make — it simply continues automatically through a second set of 4 downs (see Rule
 5.1), with no punt election and no decision clock.
 
-The decision window is **not** a separate timer — it is carried inside the existing 30-second play
-clock (Rule 3.3), which starts the moment the official declares "4th down." The coach must
-communicate the go/punt decision to the official within that same 30-second window. If the
-coach has not declared a decision before the play clock runs out, a delay-of-game penalty is
-enforced (see `penalty-matrix.md`), at the official's discretion.
+The decision window is **not** a separate timer — it is a **5-second** window carried inside the
+existing 30-second play clock (Rule 3.3), which starts the moment the official declares "4th
+down." The coach must communicate the go/punt decision to the official within those first 5
+seconds. If the coach has not declared a decision within the 5-second window, a delay-of-game
+penalty is enforced (see `penalty-matrix.md`), at the official's discretion.
 
 **Officials Notes** — When declaring 4th down, the official must also announce the time
 remaining in the half at that moment, in the same breath as the down declaration. Enforcement
@@ -471,6 +471,8 @@ philosophy) — it is not automatic on the first violation of a season.
 - Confirmed — 4th-down decision clock applies to Freshman, JV, and Varsity (not Peewee, which
   has no 4th-down decision at all, per the 2024 rule). Formerly Open Issue OI-1; see Resolved
   Issues.
+- Confirmed — the decision window is specifically **5 seconds**, not the full 30-second play
+  clock, still carried inside it starting at the official's "4th down" declaration.
 - v2026.2 (pending formal write-up) — 4th-down decision clock confirmed as part of the existing
   30-second play clock (not a separate timer), starting at the official's declaration of 4th down;
   missed decision = delay of game, at official discretion; official must announce half time
@@ -669,9 +671,9 @@ not where the ball itself is. See `officials-manual.md` §OM-5 (tackle-spot mech
 ### 7.4 Leaving Feet and Flag Guarding by Runners
 
 **Rule** — Runners may not leave their feet to advance the ball. Diving or jumping to avoid a flag
-pull is flag guarding. Spinning is legal, but spinning out of control to avoid a pull is flag
-guarding. A runner may leave their feet without penalty if clearly doing so to avoid a collision
-with another player, rather than to avoid a flag pull.
+pull is flag guarding. Spinning is legal — there is no "out of control" exception; spin moves are
+not flag guarding regardless of how they look. A runner may leave their feet without penalty if
+clearly doing so to avoid a collision with another player, rather than to avoid a flag pull.
 
 **What counts as "jumping."** To be judged illegal jumping under this rule, the motion must be
 **more vertical than horizontal**. A juke (lateral evasive footwork) is not jumping. Leaping
@@ -696,6 +698,8 @@ first down on the same play — governed by the general rule at §5.5), §CP-10 
 forward leap), and §CP-15 (third flag pulled).
 
 **Revision History**
+- Corrected — removed "spinning out of control" as a flag-guarding trigger. It's too subjective a
+  standard to officiate consistently; spinning is simply legal, full stop.
 - Confirmed — "jumping" for flag-guarding purposes requires a predominantly vertical motion;
   juking and forward leaping don't count as jumping under this rule. Official discretion governs
   close calls.

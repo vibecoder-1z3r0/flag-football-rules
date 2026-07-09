@@ -20,9 +20,10 @@ position, including lowering the head or initiating contact with a shoulder, for
 
 **Dead Ball** — The period immediately before or after a play, as opposed to a **Live Ball**.
 
-**Decision Clock** — The window, riding inside the existing 30-second play clock (not a separate
-timer), for a coach to declare a go-for-it/punt decision on 4th down. Starts at the official's
-declaration of "4th down." See Rule 5.3.
+**Decision Clock** — The 5-second window, riding inside the existing 30-second play clock (not a
+separate timer), for a coach to declare a go-for-it/punt decision on 4th down. Starts at the
+official's declaration of "4th down." Applies to Freshman, JV, and Varsity; Peewee is exempt. See
+Rule 5.3.
 
 **Defense** — The team without the ball, attempting to prevent the offense from advancing it.
 
@@ -34,9 +35,9 @@ overrides the USA Football baseline's 3-down system.
 **Flag Guarding** — An illegal act by the ball carrier to prevent a defender from pulling their
 flags: stiff-arming, lowering the elbow or head, blocking flag access with a hand or arm, covering
 the flags with the jersey, diving to avoid a pull, jumping (a predominantly vertical motion — not
-juking or leaping forward, which are predominantly horizontal and don't count) to avoid a pull,
-spinning out of control to avoid a pull, or having an untucked third flag available to be pulled.
-See Rule 7.4, Rule 1.5.
+juking or leaping forward, which are predominantly horizontal and don't count) to avoid a pull, or
+having an untucked third flag available to be pulled. Spinning is not flag guarding, regardless of
+how it looks — no "out of control" exception. See Rule 7.4, Rule 1.5.
 
 **Forward Progress** — The ball carrier's frontmost foot at the moment the flag is pulled (not the
 position of the ball). If the runner is downed by a body part other than feet/hands touching the

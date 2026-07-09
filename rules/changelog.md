@@ -309,3 +309,15 @@ used by officials in the moment (illegal rush, illegal procedure, etc.) doesn't 
 enforcement.
 
 See `rulebook.md` §7.1; `casebook.md` CP-17.
+
+---
+
+## v2026.13 — Glossary Review Corrections (Batch 2)
+
+**Sources:** direct corrections from the user (league admin), found during a term-by-term
+glossary review.
+
+- **Flag guarding — removed "spinning out of control" (Rule 7.4):** too subjective a standard
+  to officiate consistently. Spinning is simply legal, full stop, with no "out of control" carve-out.
+- **Decision clock is specifically 5 seconds (Rule 5.3):** clarified that the 4th-down decision
+  window is a 5-second window carried inside the 30-second play clock, not the full 30 seconds.
