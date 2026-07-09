@@ -599,8 +599,15 @@ or to the side of the ball carrier. Multiple handoffs on a single play are allow
 remain behind the line of scrimmage. A "center sneak" is not allowed — the QB may not hand off
 to the center on the first handoff of a play.
 
+Once the ball has been handed off, **all** defensive players are eligible to rush and may cross
+the line of scrimmage — not just the players who were rushing before the handoff. This lifts the
+Rule 10.2 pre-handoff crossing restriction (which limits LOS-crossing to blitzing defenders only,
+in PW/Freshman/Girls) and the Rule 10.1 rush-line distance restriction alike.
+
 **Revision History**
-- v0 (baseline) — USA Football rulebook §10.3. Unchanged by any league document.
+- Confirmed — this baseline provision had not been carried into the consolidated rulebook; now
+  captured explicitly and cross-referenced from Rule 10.1/10.2 to close the gap.
+- v0 (baseline) — USA Football rulebook §10.7. Unchanged by any league document.
 
 ---
 
@@ -924,17 +931,23 @@ restriction applies to whichever defenders are actually rushing.
 ### 10.2 Defensive Alignment Restrictions
 
 **Rule** — In Peewee, Freshman, and Girls divisions, all non-blitzing defenders must line up at
-least 5 yards back from the line of scrimmage. They may advance to the line of scrimmage at the
-snap but may not cross it before the snap. Only blitzing defenders — any number of them, per
-Rule 10.1 — are permitted behind the line of scrimmage before the ball is released or handed
-off.
+least 5 yards back from the line of scrimmage pre-snap. At the snap, they may advance up to the
+line of scrimmage but may not cross it — **while the ball hasn't yet been released or handed
+off, only blitzing defenders (any number of them, per Rule 10.1) may cross the line of scrimmage**
+in pursuit of the passer.
 
-In JV and Varsity, defensive players may line up anywhere.
+**Once the ball is handed off** (i.e., it's a run rather than a pass), this restriction lifts entirely —
+any defender, blitzing or not, may then cross the line of scrimmage to pursue the ball carrier.
+
+In JV and Varsity, defensive players may line up anywhere, with no such crossing restriction.
 
 **Revision History**
-- Corrected — "the blitzer" is not limited to a single designated player; any number of
-  defenders rushing from behind the rush line are all "blitzers" for purposes of this alignment
-  rule. See Rule 10.1.
+- Corrected — clarified that the LOS-crossing restriction is specific to passing plays that
+  haven't yet resulted in a handoff. Once the ball is handed off, any defender may cross the LOS
+  to pursue, not just the blitzers — see Rule 7.1, a baseline provision that had been missing
+  from the consolidated rulebook entirely until this review. Also corrected "the blitzer" to reflect
+  that it's not limited to a single designated player — any number of defenders rushing from
+  behind the rush line are all "blitzers" for purposes of this rule. See Rule 10.1.
 - v2026.1 — New in the 2026 General Rules / Cheat Sheet. No baseline or 2024 equivalent; the
   baseline's alignment rules did not distinguish blitzers from other defenders in this way.
 

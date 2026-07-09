@@ -274,9 +274,17 @@ requirement doesn't reflect actual league practice.
 
 **Corrected:** "Blitzer" means any defender rushing from behind the rush line — not a single
 designated player. Any number of defenders may blitz, in every division, with no pre-snap
-self-identification requirement. The PW/Freshman/Girls alignment restriction (non-blitzing
-defenders 5 yards back) applies to whichever defenders are actually rushing, however many
-there are.
+self-identification requirement.
+
+**Also clarified during the same review:** the PW/Freshman/Girls "only the blitzer is allowed
+behind the LOS" language (Rule 10.2) was ambiguous between a pre-snap depth restriction and
+a crossing restriction. Confirmed as a mix: non-blitzing defenders must line up 5+ yards back
+pre-snap and may not cross the LOS at all while the ball is still unreleased/unhanded-off — only
+blitzing defenders may cross it in pursuit of the passer. Once the ball is handed off, this
+restriction lifts entirely and any defender may cross the LOS to pursue the ball carrier. That
+handed-off-lifts-the-restriction provision turned out to be a USA Football baseline rule
+(§10.7) that had never actually been carried into the consolidated rulebook at all — added as
+Rule 7.1.
 
 This is a good example of why the cheat sheet is treated as a condensed restatement of the
 General Rules doc rather than an independent source — see README "Notes on sources."

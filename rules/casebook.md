@@ -308,3 +308,25 @@ live flag. The official's coin-toss equipment briefing (Rule 1.5) already served
 this — no separate in-game warning is required before assessing the penalty.
 
 **Reference:** `rulebook.md` §1.5, §7.4.
+
+---
+
+### CP-16 — Non-Blitzing Defender Crossing the LOS
+
+**Play A (still a passing play):** Freshman division. The QB is still in the pocket looking to pass.
+A non-blitzing defender, positioned 5 yards off the LOS as required, surges forward and crosses
+the LOS trying to get a jump on a receiver, even though they were never identified/positioned as
+a rusher.
+
+**Ruling A:** Illegal — while the ball hasn't been released or handed off, only blitzing defenders
+may cross the LOS in pursuit of the passer. A non-blitzing defender crossing the LOS during a
+still-developing passing play violates Rule 10.2; enforce as Illegal Rush (`penalty-matrix.md`),
+consistent with how an unauthorized defender crossing the LOS early is otherwise penalized.
+
+**Play B (after a handoff):** Same defender, same alignment — but this time the QB hands the
+ball off to a runner before the defender crosses the LOS.
+
+**Ruling B:** Legal. Once the ball is handed off, the crossing restriction lifts entirely — any
+defender, blitzing or not, may cross the LOS to pursue the ball carrier (Rule 7.1).
+
+**Reference:** `rulebook.md` §7.1, §10.2.
