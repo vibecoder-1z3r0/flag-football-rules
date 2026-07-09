@@ -146,7 +146,7 @@ Round 2, and the same succeed/fail logic applies each round until exactly one te
 the other doesn't. Team A stays "first" and Team B stays "second" for every round — the
 first/second order decided at the single overtime coin toss is not re-decided round to round.
 
-**Reference:** `rulebook.md` §1.1, §13.1. Applies to regular-season games and playoffs alike.
+**Reference:** `rulebook.md` §1.3, §13.1. Applies to regular-season games and playoffs alike.
 
 ---
 
@@ -304,10 +304,10 @@ A defender, going for a flag, grabs and pulls the third flag rather than one of 
 **Ruling:** The runner is ruled down at that spot, same as a legal flag pull — **and** a flag
 guarding penalty is assessed against the offense. Having the third flag untucked and available
 to be pulled is itself the foul, since it's what created the confusion between the third flag and a
-live flag. The official's coin-toss equipment briefing (Rule 1.5) already served as the warning for
+live flag. The official's coin-toss equipment briefing (Rule 1.4) already served as the warning for
 this — no separate in-game warning is required before assessing the penalty.
 
-**Reference:** `rulebook.md` §1.5, §7.4.
+**Reference:** `rulebook.md` §1.4, §7.4.
 
 ---
 

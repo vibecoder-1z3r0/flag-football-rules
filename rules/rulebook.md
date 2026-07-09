@@ -19,7 +19,7 @@ the source).
 
 **Precedence when sources conflict:** the most recent Lancaster league document beats an
 older Lancaster document, which beats the USA Football baseline. Where the league is silent on
-a topic, the USA Football baseline fills the gap (e.g., roster size — see Rule 1.2). Every rule below
+a topic, the USA Football baseline fills the gap (e.g., roster size — see Rule 1.1). Every rule below
 states its Revision History so you can see which source it came from and whether it has been
 overridden.
 
@@ -44,36 +44,7 @@ document rather than silently decided.
 
 ## Chapter 1 — Game Administration
 
-### 1.1 Pregame and Coin Toss
-
-**Rule** — Team captains meet at midfield for a coin toss before the game. The visiting team
-calls the toss. The winner picks **either** offense/defense **or** direction to attack — their choice
-of which category to pick from — with no deferring the choice to the second half. The loser then
-picks from whichever category is left over. Possession changes to start the second half, going to
-the team that started the game on defense; teams also change sides at halftime.
-
-The same team that called the opening coin toss also calls the overtime coin toss, if the game
-goes to overtime — see Rule 13.1.
-
-**Officials Notes** — The primary official (in a two-official system) handles the coin toss. See
-`officials-manual.md` §OM-2. See also Rule 1.5 for the equipment briefing given at the coin toss.
-
-**Revision History**
-- Corrected — the coin-toss winner picks *either* offense/defense *or* direction (their choice of
-  category), and the loser picks from the remaining category — not a fixed
-  winner-always-gets-offense/defense structure. This corrects the source documents (both the
-  USA Football baseline and the 2026 Lancaster rules), which describe a fixed "winner picks
-  offense/defense, loser picks direction" structure; the user confirmed the flexible version is
-  actual league practice.
-- Confirmed — the visiting team's coin-toss-calling role carries over to overtime, if needed (see
-  Rule 13.1).
-- v2026.1 — Lancaster 2026 General Rules explicitly prohibits deferral ("NO DEFERRALS").
-- v0 (baseline) — USA Football rulebook §1 gave the fixed winner-picks-offense/defense
-  structure without addressing deferral.
-
----
-
-### 1.2 Rosters and Minimum to Play
+### 1.1 Rosters and Minimum to Play
 
 **Rule** — The league does not specify a full roster minimum/maximum — only the on-field
 format (5-a-side) is defined, and no cap or floor on total roster size is needed. A team must be
@@ -89,7 +60,7 @@ Rule 4.5).
 
 ---
 
-### 1.3 Equipment and Uniforms
+### 1.2 Equipment and Uniforms
 
 **Rule**
 - All players must wear a mouthguard at all times on the field (2026 tightens the baseline's
@@ -119,40 +90,39 @@ see `officials-manual.md` §OM-1.
 
 ---
 
-### 1.4 Coaches on the Field
+### 1.3 Pregame and Coin Toss
 
-**Rule** — The number of coaches permitted on the field and in the huddle is division-specific:
+**Rule** — Team captains meet at midfield for a coin toss before the game. The visiting team
+calls the toss. The winner picks **either** offense/defense **or** direction to attack — their choice
+of which category to pick from — with no deferring the choice to the second half. The loser then
+picks from whichever category is left over. Possession changes to start the second half, going to
+the team that started the game on defense; teams also change sides at halftime.
 
-| Division | Coaches on field / in huddle |
-|---|---|
-| Peewee | 2 |
-| Freshman | 1 |
-| Girls Freshman | 1 |
-| Girls JV | 1 |
-| JV | 0 |
-| Varsity | 0 |
+The same team that called the opening coin toss also calls the overtime coin toss, if the game
+goes to overtime — see Rule 13.1.
 
-Where permitted, coaches must be behind the deepest offensive and defensive players at the
-snap and out of the action. Coaches may assist with pre-snap alignment to keep the game
-moving but may not give additional instruction or call audibles once the huddle has broken.
-
-**Rationale** — Younger/developmental divisions get more on-field coaching support; JV/Varsity
-play without it, consistent with increasing player independence.
+**Officials Notes** — The primary official (in a two-official system) handles the coin toss. See
+`officials-manual.md` §OM-2. See also Rule 1.4 for the equipment briefing given at the coin toss.
 
 **Revision History**
-- v2026.1 — Lancaster 2026 introduced the division-specific coach counts (General Rules /
-  Cheat Sheet).
-- v0 (baseline) — USA Football rulebook §8 gave a single undifferentiated rule (coaches allowed
-  per division/need, behind the deepest player, no audibles). Superseded by the 2026 table for
-  which divisions get coaches at all; the positioning/no-audible constraint still applies where a
-  coach is present.
+- Corrected — the coin-toss winner picks *either* offense/defense *or* direction (their choice of
+  category), and the loser picks from the remaining category — not a fixed
+  winner-always-gets-offense/defense structure. This corrects the source documents (both the
+  USA Football baseline and the 2026 Lancaster rules), which describe a fixed "winner picks
+  offense/defense, loser picks direction" structure; the user confirmed the flexible version is
+  actual league practice.
+- Confirmed — the visiting team's coin-toss-calling role carries over to overtime, if needed (see
+  Rule 13.1).
+- v2026.1 — Lancaster 2026 General Rules explicitly prohibits deferral ("NO DEFERRALS").
+- v0 (baseline) — USA Football rulebook §1 gave the fixed winner-picks-offense/defense
+  structure without addressing deferral.
 
 ---
 
-### 1.5 Coin Toss Equipment Briefing
+### 1.4 Coin Toss Equipment Briefing
 
 **Rule** — At the coin toss, the official explains to whoever is present (team captains) that:
-1. Mouthguards are required to take the field (see Rule 1.3).
+1. Mouthguards are required to take the field (see Rule 1.2).
 2. Flags must be worn on the hips.
 3. The "third flag" — the excess belt slack beyond the two live flags — must be tucked away and
    not left hanging loose.
@@ -174,8 +144,67 @@ offense — the loose third flag being available to pull is itself the flag-guar
   tucking) serves as the flag-guarding warning; pulling the third flag downs the runner and
   draws a flag-guarding penalty.
 - v2024.1 — Lancaster 2024 established the third-flag/belt-slack concept as part of the pregame
-  flag-belt check (see Rule 1.3, `officials-manual.md` §OM-1); this rule adds the coin-toss timing
+  flag-belt check (see Rule 1.2, `officials-manual.md` §OM-1); this rule adds the coin-toss timing
   and the specific third-flag-pulled consequence, neither of which was previously specified.
+
+---
+
+### 1.5 Coaches on the Field
+
+> **Under discussion — not finalized.** The "no audibles" restriction below is sourced from the
+> USA Football baseline (coaches may not call in play changes once the huddle breaks) and
+> hasn't been confirmed as actual league practice. Revisit this rule before treating it as settled.
+
+**Rule** — The number of coaches permitted on the field and in the huddle is division-specific:
+
+| Division | Coaches on field / in huddle |
+|---|---|
+| Peewee | 2 |
+| Freshman | 1 |
+| Girls Freshman | 1 |
+| Girls JV | 1 |
+| JV | 0 |
+| Varsity | 0 |
+
+Where permitted, coaches must be behind the deepest offensive and defensive players at the
+snap and out of the action. Coaches may assist with pre-snap alignment to keep the game
+moving but may not give additional instruction or call audibles once the huddle has broken.
+
+**Rationale** — Younger/developmental divisions get more on-field coaching support; JV/Varsity
+play without it, consistent with increasing player independence.
+
+**Revision History**
+- Flagged for discussion — the "no audibles" clause is sourced from the USA Football baseline
+  (§8) and hasn't been confirmed as reflecting actual league practice; revisit before finalizing.
+- v2026.1 — Lancaster 2026 introduced the division-specific coach counts (General Rules /
+  Cheat Sheet).
+- v0 (baseline) — USA Football rulebook §8 gave a single undifferentiated rule (coaches allowed
+  per division/need, behind the deepest player, no audibles). Superseded by the 2026 table for
+  which divisions get coaches at all; the positioning/no-audible constraint still applies where a
+  coach is present.
+
+---
+
+### 1.6 Substitutions
+
+> **Under discussion — not finalized.** The baseline rule (substitutions allowed on any dead
+> ball) had never been captured in this rulebook until now. The user wants to add a restriction —
+> no substitutions once the huddle breaks — but the scope isn't settled; see Open Issue OI-10.
+> Do not enforce the "no substitutions after the huddle breaks" clause until it's resolved.
+
+**Rule** — Substitutions may be made on any dead ball.
+
+> **Pending addition:** substitutions are not allowed once the huddle has broken, even though
+> the ball is still dead at that point. Scope not yet settled — see Open Issue OI-10.
+
+**Case Plays** — None yet.
+
+**Revision History**
+- Flagged for discussion — added a proposed restriction on substitutions after the huddle
+  breaks; scope (which team(s), penalty, precise trigger) not yet resolved. See Open Issue OI-10.
+- Confirmed — the baseline "substitutions on any dead ball" rule had never been captured in
+  the consolidated rulebook; added to close the gap.
+- v0 (baseline) — USA Football rulebook §9.5.
 
 ---
 
@@ -698,7 +727,7 @@ hand or arm, or covering the flags with the jersey. All jerseys must be tucked i
 begins; deliberately obstructed flags are flag guarding.
 
 An untucked "third flag" (belt slack) is also flag guarding if a defender pulls it instead of a live
-flag — see Rule 1.5, which is both the pregame warning for this and the rule for the resulting
+flag — see Rule 1.4, which is both the pregame warning for this and the rule for the resulting
 down/penalty.
 
 **Case Plays** — See `casebook.md` §CP-5 (flag guarding after the runner has already gained a
@@ -1174,7 +1203,7 @@ play from the 5-yard line to pass for a 1-point conversion.
   1-point pass attempts, and the process repeats (returning to the 10-yard line each
   subsequent round) until a winner emerges.
 
-**Coin toss.** The same team that called the opening coin toss (Rule 1.1 — the visiting team)
+**Coin toss.** The same team that called the opening coin toss (Rule 1.3 — the visiting team)
 also calls the overtime coin toss. There is **one toss, no re-toss**. The winner decides whether
 to attempt first or second — for the entire overtime, not re-decided round to round. This is a
 single up-front call, not the alternating offense/defense choice used at the start of regulation.
@@ -1213,9 +1242,23 @@ decision from the user. Each open item should be discussed with the league and, 
 folded back into the relevant rule above with an updated Revision History entry (moved to
 "Resolved Issues" below rather than deleted).
 
-*No open issues at this time* — see "Resolved Issues" below for the full history. New
-ambiguities/contradictions/gaps identified in future revisions get logged here, numbered
-continuing from OI-9.
+### OI-9 — Coaches on the Field: "No Audibles" Restriction
+
+Rule 1.5's "coaches may not give additional instruction or call audibles once the huddle has
+broken" is sourced entirely from the USA Football baseline (§8) — no Lancaster document
+confirms or contradicts it. Flagged during the Chapter 1 reorder/review; not yet confirmed as
+actual league practice. Discuss whether to keep, loosen, or drop this restriction.
+
+### OI-10 — Substitutions: Scope of "No Substitutions Once the Huddle Breaks"
+
+See Rule 1.6 (new, still being drafted). The baseline allows substitutions on any dead ball; the
+user wants to add a restriction that substitutions aren't allowed once the huddle breaks, but the
+exact scope isn't settled yet:
+1. Does this apply to both offense and defense, or just the offense (whose huddle is the one
+   that "breaks" in the traditional sense)?
+2. What's the penalty/consequence if a team substitutes after the huddle has broken?
+3. Does "huddle breaks" have a precise trigger (e.g., the moment players start moving to their
+   pre-snap positions), or is it left to official judgment?
 
 ---
 
@@ -1268,7 +1311,7 @@ versions. `officials-manual.md` stands as-is, no changes needed.
 
 Was: no 2026 document states a roster minimum/maximum, only the on-field format (5-a-side).
 **Resolution:** the user confirmed no roster min/max needs to be specified at all — the relevant
-threshold is a 4-player minimum to play a game, below which the team forfeits. See Rule 1.2 and
+threshold is a 4-player minimum to play a game, below which the team forfeits. See Rule 1.1 and
 Rule 4.5. This replaces the baseline's 5–10 roster / drop-to-4-on-injury structure, which is no
 longer used to fill this gap.
 

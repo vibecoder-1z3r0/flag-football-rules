@@ -119,7 +119,7 @@ the v2026.1 consolidation.
   exchange" rule are merged into a single rule — one unified scenario, one division-based
   do-over table (2 free redos per half for Peewee/Freshman/Girls Freshman, none for JV/Varsity).
   Formerly Open Issue OI-3.
-- **Roster size (Rule 1.2):** no league-specified roster minimum/maximum is needed. The
+- **Roster size (Rule 1.1):** no league-specified roster minimum/maximum is needed. The
   operative threshold is a 4-player minimum to play a game; fewer than 4 available players is a
   forfeit (Rule 4.5). Replaces the baseline's 5–10 roster / drop-to-4-on-injury structure.
   Formerly Open Issue OI-6.
@@ -138,7 +138,7 @@ All open issues from the initial consolidation (OI-1 through OI-7) are now resol
 
 **Sources:** direct decision from the user (league admin).
 
-- The team that called the opening coin toss (the visiting team, Rule 1.1) also calls the overtime
+- The team that called the opening coin toss (the visiting team, Rule 1.3) also calls the overtime
   coin toss. One toss, no re-toss.
 - The winner of the overtime coin toss picks first or second **for the entire overtime** — not
   re-decided round to round. (This is a narrower choice than the offense/defense choice at the
@@ -148,7 +148,7 @@ All open issues from the initial consolidation (OI-1 through OI-7) are now resol
 - Officials must explain the overtime format to both teams and to the fans at that end zone
   before the first attempt.
 
-See `rulebook.md` §1.1, §13.1; `officials-manual.md` §OM-2.
+See `rulebook.md` §1.3, §13.1; `officials-manual.md` §OM-2.
 
 ---
 
@@ -244,7 +244,7 @@ All items raised during the v2026.6 discussion are now resolved.
 
 ---
 
-## v2026.10 — Coin Toss Equipment Briefing (New Rule 1.5)
+## v2026.10 — Coin Toss Equipment Briefing (New Rule 1.4)
 
 **Sources:** direct decision from the user (league admin), resolving the mouthguard/flag-
 position item parked earlier for later discussion.
@@ -256,7 +256,7 @@ position item parked earlier for later discussion.
 - If a defender pulls a player's third flag instead of a live flag, the runner is ruled down **and**
   a flag guarding penalty is assessed against the offense.
 
-See `rulebook.md` §1.5, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.
+See `rulebook.md` §1.4, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.
 
 ---
 
@@ -372,7 +372,7 @@ Snap and Exchange Failure.
 
 ---
 
-## v2026.17 — Correction: Coin Toss Winner Picks Either Category (Rule 1.1)
+## v2026.17 — Correction: Coin Toss Winner Picks Either Category (Rule 1.3)
 
 **Sources:** direct correction from the user (league admin), found during the Chapter 1 rulebook
 review.
@@ -382,15 +382,15 @@ coin-toss winner always picks offense/defense, and the loser always picks direct
 confirmed actual league practice is more flexible: the **winner** picks *either* offense/defense
 *or* direction (whichever category they want), with no deferring to the second half, and the
 **loser** picks from whichever category is left over. This corrects both source documents, not
-just one. See `rulebook.md` §1.1; `officials-manual.md` §OM-2.
+just one. See `rulebook.md` §1.3; `officials-manual.md` §OM-2.
 
 ---
 
-## v2026.18 — Correction: Taped Pockets Not Enforced (Rule 1.3)
+## v2026.18 — Correction: Taped Pockets Not Enforced (Rule 1.2)
 
 **Sources:** direct correction from the user (league admin), found during the Chapter 1 rulebook
 review.
 
 Removed the USA Football baseline's "shorts/pants with pockets or belt loops must be taped"
 requirement — the user confirmed this is not enforced by the league in actual practice. See
-`rulebook.md` §1.3.
+`rulebook.md` §1.2.
