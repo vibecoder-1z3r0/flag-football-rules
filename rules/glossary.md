@@ -47,7 +47,7 @@ ground, forward progress is the furthest-upfield downed body part.
 passer, including a moving offensive player disrupting the rusher's path, or any contact with the
 rusher when the offensive player doesn't move after the snap.
 
-**Inadvertent Whistle** — An official's whistle blown in error. See Rule 11.7 for the offense's
+**Inadvertent Whistle** — An official's whistle blown in error. See Rule 11.4 for the offense's
 options afterward.
 
 **Lateral** — A backward or sideways toss of the ball by the ball carrier. **Prohibited entirely**
