@@ -71,8 +71,8 @@ Rule 4.5).
   - Teams post which jersey they'll wear for a given game on SportsEngine.
 - Jerseys must be tucked in at all times.
 - Shoes required; cleats allowed, but cleats with exposed metal are prohibited.
-- Players must remove all jewelry deemed hazardous by officials, and all hats/do-rags (winter
-  beanies allowed).
+- Players must remove all jewelry deemed hazardous by officials. Headgear (hats, do-rags, winter
+  beanies, etc.) is allowed — no headgear restriction.
 - Flag belts must not be the same color as the player's shorts or pants.
 
 **Officials Notes** — Flag belts should be checked pregame for legal positioning (front side of
@@ -80,13 +80,16 @@ the hip) and that the "third flag" / belt slack is secured so it can't be confus
 see `officials-manual.md` §OM-1.
 
 **Revision History**
+- Corrected — removed the baseline's hats/do-rags removal requirement. Headgear is allowed;
+  only hazardous jewelry must be removed.
 - Corrected — removed the baseline's "shorts/pants with pockets or belt loops must be taped"
   requirement. Not enforced by this league in actual practice.
 - v2026.1 — Lancaster 2026 sets specific jersey colors by division and makes mouthguards
   mandatory (Coaches Cheat Sheet / General Rules).
 - v2024.1 — Lancaster 2024 added the flag-belt pregame check and third-flag/slack guidance.
 - v0 (baseline) — USA Football rulebook §3 (generic home-dark/away-light, cleat/jewelry/tuck
-  rules, flag-belt color rule, and the taped-pockets requirement — not adopted by this league).
+  rules, flag-belt color rule, hats/do-rags removal, and the taped-pockets requirement — the
+  headgear and taped-pockets restrictions are not adopted by this league).
 
 ---
 

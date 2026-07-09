@@ -492,3 +492,13 @@ purely official discretion. Consistent with the league's general enforcement phi
 tend to be lax on delay of game early in the season and tighten up as the season progresses,
 rather than following a scripted "warn once, then enforce" mechanic. See `rulebook.md` §3.3;
 `officials-manual.md` §OM-3.
+
+---
+
+## v2026.25 — Correction: Headgear Is Allowed (Rule 1.2)
+
+**Sources:** direct correction from the user (league admin), found during the full-text Chapter 1
+re-review.
+
+Removed the USA Football baseline's requirement to remove hats/do-rags. Headgear is allowed —
+the only equipment-removal requirement is hazardous jewelry. See `rulebook.md` §1.2.
