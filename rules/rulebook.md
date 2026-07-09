@@ -1263,14 +1263,25 @@ by this league. The user has real field dimensions but they aren't in hand yet. 
 update Rule 2.1 once available; note whether dimensions are uniform across all fields/divisions
 or vary.
 
-### OI-13 — No-Run Zones (Rule 2.2): Placement Under "The Field"
+### OI-13 — No-Run Zones (Rule 2.2): Placement and Enforcement Details Feel Out of Place
 
-The user flagged that Rule 2.2 (No-Run Zones) feels out of place in Chapter 2 ("The Field") — it's
-fundamentally a restriction on what offensive plays are allowed (pass-only) rather than a
-physical characteristic of the field itself, unlike Rule 2.1 (Field Dimensions). This is a narrower,
-separate question from OI-10's broader offense/defense chapter question — it's specifically
-about whether Rule 2.2 belongs somewhere else (e.g., folded into Chapter 5, Series of Downs, or
-Chapter 7, Running the Ball) rather than under "The Field." Discuss and relocate if warranted.
+The user flagged Rule 2.2 (No-Run Zones) as out of place in Chapter 2 ("The Field") — two
+distinct things, confirmed by the user, both need to be addressed:
+
+1. **The zone's basic definition** (the 5-yard zones before midfield and before each end zone,
+   and the pass-only requirement inside them) is fine as substance — the only question is
+   whether it belongs under "The Field" or somewhere else (e.g., Chapter 5, Series of Downs, or
+   Chapter 7, Running the Ball), since it's really an offensive play-type restriction, not a physical
+   field characteristic like Rule 2.1.
+2. **The enforcement/penalty mechanics bundled into the same rule** — loss of down, no
+   yardage, and the "sticky" behavior surviving an intervening penalty — feel out of place
+   specifically, independent of the placement question above. These read as penalty
+   administration detail more than a field-definition rule, and may belong broken out into
+   `penalty-matrix.md` and/or wherever Rule 2.2's core definition ends up relocating, rather than
+   living inline in the same rule as the zone's definition.
+
+This is a narrower, separate question from OI-10's broader offense/defense chapter question.
+Discuss and restructure once settled.
 
 ---
 

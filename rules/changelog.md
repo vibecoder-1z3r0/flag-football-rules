@@ -473,3 +473,10 @@ what offensive plays are allowed (pass-only), not a physical characteristic of t
 Rule 2.1. Distinct from OI-10's broader offense/defense chapter question — this is specifically
 about whether Rule 2.2 should relocate to Chapter 5 (Series of Downs) or Chapter 7 (Running the
 Ball). Tracked as **Open Issue OI-13**.
+
+**Sharpened:** the user confirmed the zone's basic definition (5-yard zones, pass-only
+requirement) is fine as substance — only its chapter placement is in question. Separately, the
+enforcement/penalty mechanics bundled into the same rule (loss of down, no yardage, the
+"sticky" behavior surviving an intervening penalty) feel out of place too, independent of the
+placement question — these read as penalty administration detail and may belong broken out
+into `penalty-matrix.md` and/or wherever the rule's core definition ends up relocating.
