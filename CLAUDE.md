@@ -82,6 +82,8 @@ See `rules/rulebook.md` Appendix A for full detail. Current open items:
   whether the rulebook should have dedicated Offense/Defense chapters — closer to the 2026
   source document's own structure — rather than the current split across Chapters 6–11. No
   substitution rule exists in the rulebook at all right now; nothing to enforce.
+- **OI-11** — Scorekeeper/timekeeper roles: is there a non-official scorekeeper, do they also
+  keep time, and which time governs if it disagrees with the officials' own running time?
 
 **Resolved:** OI-1 (4th-down decision clock: rides inside the existing 30-second play clock,
 starts at the official's "4th down" declaration; missed decision = delay of game at official

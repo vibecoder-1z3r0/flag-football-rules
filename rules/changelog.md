@@ -417,3 +417,15 @@ it: should the rulebook have dedicated **Offense** and **Defense** chapters/sect
 how the 2026 source document itself was organized, rather than the current split across
 Chapters 6–11? Tracked as **Open Issue OI-10**, covering both the substitution rule's scope and
 the structural question. Not yet enforced or adopted.
+
+---
+
+## v2026.20 — New Open Issue: Scorekeeper and Timekeeper Roles
+
+**Sources:** raised by the user (league admin) during the Chapter 1 rulebook review.
+
+No source document addresses who keeps official score, or how a (non-official) scorekeeper's
+role relates to game timing — `officials-manual.md` §OM-6 only covers the line judge's internal
+clock-keeping duty within a two-official crew. Tracked as **Open Issue OI-11**: whether there's a
+separate non-official scorekeeper, whether they also keep time, which time governs in a
+disagreement, and how officials decide pregame who's running the scoreboard/scorebook.

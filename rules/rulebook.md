@@ -1247,6 +1247,21 @@ layers of open question:
    Ball). If adopted, this could be a significant reorganization affecting where several existing
    rules live, not just substitutions. Discuss before restructuring.
 
+### OI-11 — Scorekeeper and Timekeeper Roles
+
+No source document or existing rule addresses who keeps official score, or the relationship
+between a (non-official) scorekeeper and game timing. `officials-manual.md` §OM-6 already
+assigns the line judge to maintain the game clock internally in a two-official crew, but doesn't
+address:
+1. Is there a separate scorekeeper (not an official — e.g., a parent/volunteer running a
+   sideline scoreboard), and if so, do they also keep time, or is timing strictly the officials'
+   responsibility?
+2. If a non-official scorekeeper/scoreboard clock disagrees with the officials' own running time
+   (e.g., the line judge's watch/count), which governs? Is the scoreboard merely informational,
+   or can it be treated as authoritative?
+3. How do officials decide, pregame, who (if anyone outside the crew) is running the
+   scoreboard/scorebook, and what's expected of that person procedurally?
+
 ---
 
 ## Resolved Issues
