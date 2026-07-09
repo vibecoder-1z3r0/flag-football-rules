@@ -458,7 +458,8 @@ All possession changes other than interceptions start on the new offense's 5-yar
 change happens via a stalled drive that began from a kickoff-equivalent spot; where a specific
 failure-to-convert spot is defined above, that spot governs.
 
-**Case Plays** — See `casebook.md` §CP-2.
+**Case Plays** — See `casebook.md` §CP-2 and §CP-13 (contrast with the interception spot rule,
+Rule 9.3, which is never pushed out to the 5-yard line).
 
 **Revision History**
 - v2026.1 / v2024.1 — Both Lancaster documents independently state the same "placed at the
@@ -786,11 +787,21 @@ during regular play, for 6 points if returned to the end zone; on a PAT/conversi
 points if returned to the end zone (see Rule 4.2 for the league's override of the baseline's
 no-return conversion rule).
 
-Interceptions are the only change of possession that does not restart at the 5-yard line — the
-new offense starts from the spot of the interception (or the touchdown/2-point result, if
-returned for a score).
+Interceptions are the only change of possession that does not restart at the 5-yard line. If the
+interception is not returned for a score, the new offense starts wherever the return's forward
+progress ends (Rule 7.3) — not at the original interception spot if the ball was advanced, and
+**not artificially moved out to the 5-yard line even if that spot is inside the intercepting team's
+own 5-yard line.** This is a deliberate contrast with Rule 5.4's no-run-zone turnover-on-downs
+treatment, which does push the ball out to the 5-yard line — that adjustment applies specifically
+to a turnover on downs inside the no-run zone, not to interceptions.
+
+**Case Plays** — See `casebook.md` §CP-13.
 
 **Revision History**
+- Confirmed — an interception's return, if not scored, is spotted at the end of the return's
+  forward progress, with no 5-yard-line floor, even deep in the intercepting team's own territory.
+  Corrected imprecise earlier wording that described this as "the spot of the interception,"
+  which doesn't account for a returned interception advancing past the original catch point.
 - v2026.1 — Lancaster 2026 makes conversion-attempt interceptions returnable (see Rule 4.2).
 - v0 (baseline) — USA Football rulebook §12.5–12.6 (interception spot rule unchanged; the
   no-return conversion rule is superseded).

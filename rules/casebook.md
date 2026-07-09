@@ -241,3 +241,31 @@ already-declared 1-point-vs-2-point conversion type.
 
 **Reference:** `rulebook.md` §2.2, §3.3, §4.2; `penalty-matrix.md` (No-Run Zone Violation, Delay of
 Game).
+
+---
+
+### CP-13 — Turnover on Downs in the No-Run Zone vs. a Short Interception Return
+
+**Play A (turnover on downs):** The offense fails to convert 4th down at the defense's 3-yard
+line — inside the no-run zone before the defense's goal line.
+
+**Ruling A:** Turnover on downs. Per Rule 5.4, because the spot falls within the no-run zone
+nearest the defending team's end zone, the ball is placed at the 5-yard line before possession
+changes — the new offense (the team that had been on defense) starts at their own 5-yard line,
+not the 3-yard line where the previous drive stalled.
+
+**Play B (interception):** The defense intercepts a pass at their own 25-yard line and returns it
+before being flag-pulled at their own 2-yard line.
+
+**Ruling B:** The new offense (the intercepting team) starts at the 2-yard line — exactly where
+the return's forward progress ended. Unlike Play A, there is **no 5-yard-line floor** for an
+interception return. Even though the 2-yard line is deep in the intercepting team's own
+territory (closer to their goal line than the no-run zone's own 5-yard boundary would be), the
+ball is spotted exactly at the end of the return, per Rule 9.3.
+
+**Why the difference:** Rule 5.4's 5-yard-line placement is specific to a turnover on downs
+inside the no-run zone. Interceptions are excluded from that treatment entirely — the general
+"all possession changes start on the 5-yard line, except interceptions" principle governs, and
+interceptions are always spotted at the end of the return.
+
+**Reference:** `rulebook.md` §5.4, §9.3.

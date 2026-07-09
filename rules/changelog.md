@@ -208,3 +208,18 @@ now resolved.
   line-to-gain at midfield, regardless of the exact starting spot within their own half.
 
 All items raised during the v2026.6 discussion are now resolved.
+
+---
+
+## v2026.8 — Turnover Spot Clarifications
+
+**Sources:** direct decisions from the user (league admin).
+
+- **Turnover on downs in the no-run zone (Rule 5.4):** confirmed as already stated — the ball
+  is placed at the 5-yard line when a turnover on downs occurs inside the no-run zone nearest
+  the defending team's end zone. No rule change; added `casebook.md` CP-13 for clarity.
+- **Interception spot (Rule 9.3):** corrected imprecise wording. An interception's return, if not
+  returned for a score, is spotted at the end of the return's forward progress — not the original
+  interception point if the ball was advanced, and **never pushed out to a 5-yard-line floor**,
+  even if the return ends deep inside the intercepting team's own territory. This is a deliberate
+  contrast with the no-run-zone turnover-on-downs treatment above.
