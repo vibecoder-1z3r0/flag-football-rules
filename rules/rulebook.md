@@ -898,19 +898,24 @@ depends on division:
 | JV, Varsity | 7 yards |
 
 The rusher must keep both feet behind the rush-line puck until the ball is released or handed
-off. Any number of defenders may rush, as long as they stay behind the applicable rush line.
+off. Any number of defenders may rush from behind the applicable rush line, in every division —
+there is no cap on how many rushers a defense sends, and no pre-snap self-identification
+requirement for rushers in any division.
 
-**Officials Notes** — In Peewee/Freshman, the blitzer must raise a hand and identify themselves
-as the rusher before the play. In these divisions, non-blitzing defenders must additionally stay at
+**Officials Notes** — In Peewee/Freshman/Girls, non-blitzing defenders must additionally stay at
 least 5 yards back from the line of scrimmage until the snap (see Rule 10.2) — the rush-line
-restriction applies specifically to the identified blitzer.
+restriction applies to whichever defenders are actually rushing.
 
 **Case Plays** — See `casebook.md` §CP-7.
 
 **Revision History**
+- Corrected — removed a raised-hand blitzer self-identification requirement that had been
+  pulled from the 2026 Coaches Cheat Sheet. That requirement doesn't appear in the 2026
+  General Rules & Guidelines doc (the primary source), which instead confirms any number of
+  defenders may rush in every division. The cheat sheet's addition doesn't reflect actual league
+  practice; not adopted.
 - v2026.1 / v2024.1 — Both Lancaster documents independently specify 7 yards for JV and 10
   yards for Freshman/Peewee, overriding the baseline's uniform 7-yard rule across all divisions.
-  2026 additionally requires the Freshman/Peewee blitzer to self-identify.
 - v0 (baseline) — USA Football rulebook §13.1 specified a uniform 7-yard rush line for all
   divisions (superseded for Freshman/Peewee).
 
@@ -920,12 +925,16 @@ restriction applies specifically to the identified blitzer.
 
 **Rule** — In Peewee, Freshman, and Girls divisions, all non-blitzing defenders must line up at
 least 5 yards back from the line of scrimmage. They may advance to the line of scrimmage at the
-snap but may not cross it before the snap. Only the designated blitzer is permitted behind the
-line of scrimmage before the ball is released or handed off.
+snap but may not cross it before the snap. Only blitzing defenders — any number of them, per
+Rule 10.1 — are permitted behind the line of scrimmage before the ball is released or handed
+off.
 
 In JV and Varsity, defensive players may line up anywhere.
 
 **Revision History**
+- Corrected — "the blitzer" is not limited to a single designated player; any number of
+  defenders rushing from behind the rush line are all "blitzers" for purposes of this alignment
+  rule. See Rule 10.1.
 - v2026.1 — New in the 2026 General Rules / Cheat Sheet. No baseline or 2024 equivalent; the
   baseline's alignment rules did not distinguish blitzers from other defenders in this way.
 

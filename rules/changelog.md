@@ -17,9 +17,10 @@ baseline that everything else layers on top of.
 **Summary of changes from v2024.1 / v0:**
 - Halftime lengthened from 2 minutes (2024) to 5 minutes.
 - Rush-line distances formalized as division-specific: 10 yards (Peewee/Freshman), 7 yards
-  (JV/Varsity) — Freshman/Peewee blitzer must self-identify with a raised hand.
+  (JV/Varsity).
 - New defensive alignment restriction: Peewee/Freshman/Girls non-blitzing defenders must
-  stay 5 yards off the LOS until the snap; only the identified blitzer may line up closer.
+  stay 5 yards off the LOS until the snap; only blitzing defenders may line up closer (any number
+  of them — see v2026.11 below for a correction to an over-broad reading of this).
 - New "botched exchange" (fumbled handoff) rule with division-specific do-over allowances,
   later merged with the 2024 "failed snap" rule into one rule (Rule 7.5) — see v2026.3 below.
 - Overtime format completely replaced: shootout-style, both teams attempt from the same
@@ -256,3 +257,26 @@ position item parked earlier for later discussion.
   a flag guarding penalty is assessed against the offense.
 
 See `rulebook.md` §1.5, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.
+
+---
+
+## v2026.11 — Correction: Blitzer Is Not a Single Designated Player
+
+**Sources:** direct correction from the user (league admin), found during a glossary review pass.
+
+Rule 10.1/10.2 and the glossary previously stated that Peewee/Freshman rushers must raise a
+hand and self-identify as "the blitzer" before the play, and that only one designated blitzer could
+line up behind the LOS in PW/Freshman/Girls divisions. This was pulled from the 2026 Coaches
+Cheat Sheet, which is the *only* source that mentions a raised-hand requirement — the primary
+2026 General Rules & Guidelines document has no such requirement, and instead confirms any
+number of defenders may rush in every division. The user confirmed the raised-hand
+requirement doesn't reflect actual league practice.
+
+**Corrected:** "Blitzer" means any defender rushing from behind the rush line — not a single
+designated player. Any number of defenders may blitz, in every division, with no pre-snap
+self-identification requirement. The PW/Freshman/Girls alignment restriction (non-blitzing
+defenders 5 yards back) applies to whichever defenders are actually rushing, however many
+there are.
+
+This is a good example of why the cheat sheet is treated as a condensed restatement of the
+General Rules doc rather than an independent source — see README "Notes on sources."

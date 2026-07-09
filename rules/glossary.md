@@ -7,9 +7,11 @@ noted for contrast.
 
 ---
 
-**Blitzer** — In divisions with restricted defensive alignment (Peewee, Freshman, Girls), the one
-designated defender permitted to line up behind the line of scrimmage / rush line to rush the
-passer. Must be identified before the snap in Freshman/Peewee (raised hand). See Rule 10.
+**Blitzer** — Any defender rushing the passer from behind the rush line. Not limited to one player
+— any number of defenders may blitz on a given play, in every division. In divisions with
+restricted defensive alignment (Peewee, Freshman, Girls), only blitzing defenders (however many
+there are) may line up behind the line of scrimmage; non-blitzing defenders must stay 5 yards
+back. See Rule 10.1, Rule 10.2.
 
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
 of the end zone lines. Stepping on a boundary line is out of bounds.
