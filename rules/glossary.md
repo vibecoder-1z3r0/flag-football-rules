@@ -36,7 +36,7 @@ flags: stiff-arming, lowering the elbow or head, blocking flag access with a han
 the flags with the jersey, diving to avoid a pull, jumping (a predominantly vertical motion — not
 juking or leaping forward, which are predominantly horizontal and don't count) to avoid a pull, or
 having an untucked third flag available to be pulled. Spinning is not flag guarding, regardless of
-how it looks — no "out of control" exception. See Rule 7.4, Rule 1.4.
+how it looks — no "out of control" exception. See Rule 7.4, Rule 1.3.1.
 
 **Forward Progress** — The ball carrier's frontmost foot at the moment the flag is pulled (not the
 position of the ball). If the runner is downed by a body part other than feet/hands touching the
@@ -109,7 +109,7 @@ scrimmage.
 
 **Third Flag** — The excess belt slack on a flag belt, beyond the two live flags. Must be tucked
 away; leaving it loose and available to be pulled is flag guarding. Checked pregame and
-explained at the coin toss. See Rule 1.4, `officials-manual.md` §OM-1.
+explained at the coin toss. See Rule 1.3.1, `officials-manual.md` §OM-1.
 
 **Unsportsmanlike Conduct** — Rude, confrontational, or offensive behavior or language, by
 a player, coach, or fan.

@@ -75,7 +75,7 @@ sources/                 Raw transcriptions of original PDFs — provenance only
 ## Open questions (as of 2026-07-08, updated during Chapter 1 rulebook review)
 
 See `rules/rulebook.md` Appendix A for full detail. Current open items:
-- **OI-9** — Rule 1.5's "no audibles" restriction on coaches is sourced entirely from the USA
+- **OI-9** — Rule 1.4's "no audibles" restriction on coaches is sourced entirely from the USA
   Football baseline; not confirmed as actual league practice.
 - **OI-10** — Substitutions: (1) the substitution rule itself (baseline allows any dead ball; user
   wants a "no substitutions once the huddle breaks" restriction, scope undecided), and (2)

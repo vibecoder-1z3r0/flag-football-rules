@@ -94,7 +94,50 @@ see `officials-manual.md` §OM-1.
 
 ---
 
-### 1.3 Pregame and Coin Toss
+### 1.3 Coin Toss Procedures
+
+#### 1.3.1 Pregame Briefing
+
+**Rule** — Before the coin toss, the official conducts a pregame briefing covering:
+1. **Sportsmanship handshake** — captains and coaches from both teams. Any/all players may
+   serve as captains for this purpose; it isn't limited to one or two designated individuals per
+   team.
+2. **Equipment briefing** — mouthguards are required to take the field (Rule 1.2), flags must be
+   worn on the hips, and the "third flag" (excess belt slack beyond the two live flags) must be
+   tucked away and not left hanging loose.
+3. **Ground rules** — reminders of standing procedural rules and any field/day-specific items:
+   the 30-second play clock (Rule 3.3), waiting for the "return to play" whistle after a stoppage
+   (Rule 3.3), the puck system (`officials-manual.md` §OM-1), and anything else specific to that
+   field officials need to flag.
+4. **Season-stage rules reminders** — a reminder that enforcement discretion (e.g., delay of
+   game, Rule 3.3) tends to be lax early in the season and tightens up as it progresses.
+
+The equipment briefing **is** the flag-guarding warning — it satisfies the "teach then enforce"
+notice requirement for third-flag positioning (see `officials-manual.md`'s enforcement
+philosophy) before the game starts. No separate in-game warning for improperly tucked
+third-flag slack is required.
+
+**Consequence** (equipment briefing). If a defender pulls a runner's third flag rather than a live
+flag, the runner is ruled down (same as any legal flag pull), **and** a flag guarding penalty is
+assessed against the offense — the loose third flag being available to pull is itself the
+flag-guarding violation (Rule 7.4), since it created confusion about which flag was live.
+
+**Case Plays** — See `casebook.md` §CP-15.
+
+**Revision History**
+- Confirmed — merged the coin-toss equipment briefing into a broader pregame briefing
+  structure, adding the sportsmanship handshake, ground rules reminders, and season-stage
+  enforcement reminders alongside it.
+- Confirmed — the coin-toss equipment briefing (mouthguards, flag hip position, third-flag
+  tucking) serves as the flag-guarding warning; pulling the third flag downs the runner and
+  draws a flag-guarding penalty.
+- v2024.1 — Lancaster 2024 established the third-flag/belt-slack concept as part of the pregame
+  flag-belt check (see Rule 1.2, `officials-manual.md` §OM-1); this rule adds the coin-toss timing
+  and the specific third-flag-pulled consequence, neither of which was previously specified.
+
+---
+
+#### 1.3.2 The Coin Toss
 
 **Rule** — Team captains meet at midfield for a coin toss before the game. The visiting team
 calls the toss. The winner picks **either** offense/defense **or** direction to attack — their choice
@@ -106,7 +149,7 @@ The same team that called the opening coin toss also calls the overtime coin tos
 goes to overtime — see Rule 13.1.
 
 **Officials Notes** — The primary official (in a two-official system) handles the coin toss. See
-`officials-manual.md` §OM-2. See also Rule 1.4 for the equipment briefing given at the coin toss.
+`officials-manual.md` §OM-2. See also Rule 1.3.1 for the pregame briefing given before the toss.
 
 **Revision History**
 - Corrected — the coin-toss winner picks *either* offense/defense *or* direction (their choice of
@@ -123,37 +166,7 @@ goes to overtime — see Rule 13.1.
 
 ---
 
-### 1.4 Coin Toss Equipment Briefing
-
-**Rule** — At the coin toss, the official explains to whoever is present (team captains) that:
-1. Mouthguards are required to take the field (see Rule 1.2).
-2. Flags must be worn on the hips.
-3. The "third flag" — the excess belt slack beyond the two live flags — must be tucked away and
-   not left hanging loose.
-
-This briefing **is** the flag-guarding warning — it satisfies the "teach then enforce" notice
-requirement for third-flag positioning (see `officials-manual.md`'s enforcement philosophy)
-before the game starts. No separate in-game warning for improperly tucked third-flag slack is
-required.
-
-**Consequence.** If a defender pulls a runner's third flag rather than a live flag, the runner is
-ruled down (same as any legal flag pull), **and** a flag guarding penalty is assessed against the
-offense — the loose third flag being available to pull is itself the flag-guarding violation (Rule
-7.4), since it created confusion about which flag was live.
-
-**Case Plays** — See `casebook.md` §CP-15.
-
-**Revision History**
-- Confirmed — the coin-toss equipment briefing (mouthguards, flag hip position, third-flag
-  tucking) serves as the flag-guarding warning; pulling the third flag downs the runner and
-  draws a flag-guarding penalty.
-- v2024.1 — Lancaster 2024 established the third-flag/belt-slack concept as part of the pregame
-  flag-belt check (see Rule 1.2, `officials-manual.md` §OM-1); this rule adds the coin-toss timing
-  and the specific third-flag-pulled consequence, neither of which was previously specified.
-
----
-
-### 1.5 Coaches on the Field
+### 1.4 Coaches on the Field
 
 > **Under discussion — not finalized.** The "no audibles" restriction below is sourced from the
 > USA Football baseline (coaches may not call in play changes once the huddle breaks) and
@@ -721,7 +734,7 @@ hand or arm, or covering the flags with the jersey. All jerseys must be tucked i
 begins; deliberately obstructed flags are flag guarding.
 
 An untucked "third flag" (belt slack) is also flag guarding if a defender pulls it instead of a live
-flag — see Rule 1.4, which is both the pregame warning for this and the rule for the resulting
+flag — see Rule 1.3.1, which is both the pregame warning for this and the rule for the resulting
 down/penalty.
 
 **Case Plays** — See `casebook.md` §CP-5 (flag guarding after the runner has already gained a
@@ -1197,7 +1210,7 @@ play from the 5-yard line to pass for a 1-point conversion.
   1-point pass attempts, and the process repeats (returning to the 10-yard line each
   subsequent round) until a winner emerges.
 
-**Coin toss.** The same team that called the opening coin toss (Rule 1.3 — the visiting team)
+**Coin toss.** The same team that called the opening coin toss (Rule 1.3.2 — the visiting team)
 also calls the overtime coin toss. There is **one toss, no re-toss**. The winner decides whether
 to attempt first or second — for the entire overtime, not re-decided round to round. This is a
 single up-front call, not the alternating offense/defense choice used at the start of regulation.
@@ -1238,7 +1251,7 @@ folded back into the relevant rule above with an updated Revision History entry 
 
 ### OI-9 — Coaches on the Field: "No Audibles" Restriction
 
-Rule 1.5's "coaches may not give additional instruction or call audibles once the huddle has
+Rule 1.4's "coaches may not give additional instruction or call audibles once the huddle has
 broken" is sourced entirely from the USA Football baseline (§8) — no Lancaster document
 confirms or contradicts it. Flagged during the Chapter 1 reorder/review; not yet confirmed as
 actual league practice. Discuss whether to keep, loosen, or drop this restriction.

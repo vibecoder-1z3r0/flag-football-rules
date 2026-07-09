@@ -138,7 +138,7 @@ All open issues from the initial consolidation (OI-1 through OI-7) are now resol
 
 **Sources:** direct decision from the user (league admin).
 
-- The team that called the opening coin toss (the visiting team, Rule 1.3) also calls the overtime
+- The team that called the opening coin toss (the visiting team, Rule 1.3.2) also calls the overtime
   coin toss. One toss, no re-toss.
 - The winner of the overtime coin toss picks first or second **for the entire overtime** — not
   re-decided round to round. (This is a narrower choice than the offense/defense choice at the
@@ -148,7 +148,7 @@ All open issues from the initial consolidation (OI-1 through OI-7) are now resol
 - Officials must explain the overtime format to both teams and to the fans at that end zone
   before the first attempt.
 
-See `rulebook.md` §1.3, §13.1; `officials-manual.md` §OM-2.
+See `rulebook.md` §1.3.2, §13.1; `officials-manual.md` §OM-2.
 
 ---
 
@@ -244,7 +244,7 @@ All items raised during the v2026.6 discussion are now resolved.
 
 ---
 
-## v2026.10 — Coin Toss Equipment Briefing (New Rule 1.4)
+## v2026.10 — Coin Toss Equipment Briefing (New Rule 1.3.1)
 
 **Sources:** direct decision from the user (league admin), resolving the mouthguard/flag-
 position item parked earlier for later discussion.
@@ -256,7 +256,7 @@ position item parked earlier for later discussion.
 - If a defender pulls a player's third flag instead of a live flag, the runner is ruled down **and**
   a flag guarding penalty is assessed against the offense.
 
-See `rulebook.md` §1.4, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.
+See `rulebook.md` §1.3.1, §7.4; `officials-manual.md` §OM-1, §OM-2; `casebook.md` CP-15.
 
 ---
 
@@ -372,7 +372,7 @@ Snap and Exchange Failure.
 
 ---
 
-## v2026.17 — Correction: Coin Toss Winner Picks Either Category (Rule 1.3)
+## v2026.17 — Correction: Coin Toss Winner Picks Either Category (Rule 1.3.2)
 
 **Sources:** direct correction from the user (league admin), found during the Chapter 1 rulebook
 review.
@@ -382,7 +382,7 @@ coin-toss winner always picks offense/defense, and the loser always picks direct
 confirmed actual league practice is more flexible: the **winner** picks *either* offense/defense
 *or* direction (whichever category they want), with no deferring to the second half, and the
 **loser** picks from whichever category is left over. This corrects both source documents, not
-just one. See `rulebook.md` §1.3; `officials-manual.md` §OM-2.
+just one. See `rulebook.md` §1.3.2; `officials-manual.md` §OM-2.
 
 ---
 
@@ -406,7 +406,7 @@ Pregame and Coin Toss, 1.4 Coin Toss Equipment Briefing, 1.5 Coaches on the Fiel
 cross-references throughout `rulebook.md`, `officials-manual.md`, `casebook.md`, and
 `glossary.md` updated to the new numbering.
 
-**Coaches on the Field (Rule 1.5):** the "no audibles" restriction is sourced entirely from the
+**Coaches on the Field (Rule 1.4):** the "no audibles" restriction is sourced entirely from the
 USA Football baseline, with no Lancaster document confirming it as actual practice. Flagged as
 **Open Issue OI-9** for discussion rather than treated as settled.
 
@@ -512,3 +512,23 @@ re-review.
 
 Removed the USA Football baseline's requirement that flag belts not match the player's shorts/
 pants color. Not enforced by this league. See `rulebook.md` §1.2.
+
+---
+
+## v2026.27 — Restructured 1.3/1.4 into Coin Toss Procedures with Pregame Briefing
+
+**Sources:** direct direction from the user (league admin).
+
+Merged the former Rule 1.3 (Pregame and Coin Toss) and Rule 1.4 (Coin Toss Equipment
+Briefing) into a single **Rule 1.3 — Coin Toss Procedures**, with two subsections:
+
+- **1.3.1 Pregame Briefing** — the equipment briefing (mouthguards, flag position, third flag)
+  plus three new items: a sportsmanship handshake (captains and coaches from both teams; any
+  player may serve as a captain for this purpose), ground rules reminders (standing procedural
+  items like the play clock, return-to-play whistle, and puck system, plus anything field-specific),
+  and season-stage rules reminders (enforcement is lax early season, tightens up later).
+- **1.3.2 The Coin Toss** — the toss mechanics themselves, unchanged in substance.
+
+Former Rule 1.5 (Coaches on the Field) renumbered to **Rule 1.4**. All cross-references
+throughout `rulebook.md`, `officials-manual.md`, `casebook.md`, `glossary.md`, and `CLAUDE.md`
+updated to match.
