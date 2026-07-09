@@ -47,8 +47,9 @@ document rather than silently decided.
 ### 1.1 Pregame and Coin Toss
 
 **Rule** — Team captains meet at midfield for a coin toss before the game. The visiting team
-calls the toss. The winner chooses offense or defense; the loser chooses direction. Deferring the
-choice to the second half is not permitted. Possession changes to start the second half, going to
+calls the toss. The winner picks **either** offense/defense **or** direction to attack — their choice
+of which category to pick from — with no deferring the choice to the second half. The loser then
+picks from whichever category is left over. Possession changes to start the second half, going to
 the team that started the game on defense; teams also change sides at halftime.
 
 The same team that called the opening coin toss also calls the overtime coin toss, if the game
@@ -58,11 +59,17 @@ goes to overtime — see Rule 13.1.
 `officials-manual.md` §OM-2. See also Rule 1.5 for the equipment briefing given at the coin toss.
 
 **Revision History**
+- Corrected — the coin-toss winner picks *either* offense/defense *or* direction (their choice of
+  category), and the loser picks from the remaining category — not a fixed
+  winner-always-gets-offense/defense structure. This corrects the source documents (both the
+  USA Football baseline and the 2026 Lancaster rules), which describe a fixed "winner picks
+  offense/defense, loser picks direction" structure; the user confirmed the flexible version is
+  actual league practice.
 - Confirmed — the visiting team's coin-toss-calling role carries over to overtime, if needed (see
   Rule 13.1).
 - v2026.1 — Lancaster 2026 General Rules explicitly prohibits deferral ("NO DEFERRALS").
-- v0 (baseline) — USA Football rulebook §1 gave the same coin-toss/possession structure
-  without addressing deferral.
+- v0 (baseline) — USA Football rulebook §1 gave the fixed winner-picks-offense/defense
+  structure without addressing deferral.
 
 ---
 

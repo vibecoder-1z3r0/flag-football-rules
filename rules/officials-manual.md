@@ -54,9 +54,9 @@ the infraction or change of possession.
 ## §OM-2 — Coin Toss and Pregame
 
 Handled by the primary official (in a two-official crew). Visiting team calls the toss; winner picks
-offense or defense (no deferral); loser picks direction. See `rulebook.md` §1.1. The official also
-delivers the equipment briefing (mouthguards, flag position, third flag) at this time — see §OM-1
-above and `rulebook.md` §1.5.
+either offense/defense or direction (their choice of category, no deferral); loser picks from the
+remaining category. See `rulebook.md` §1.1. The official also delivers the equipment briefing
+(mouthguards, flag position, third flag) at this time — see §OM-1 above and `rulebook.md` §1.5.
 
 If the game reaches overtime, the same visiting team calls that toss too — one toss, no re-toss.
 The official picks the end zone for overtime (not a coin-toss decision), and should explain the

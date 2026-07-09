@@ -369,3 +369,17 @@ See `rulebook.md` §10.1, §10.2.
 into one entry under **Rusher** (matching the USA Football baseline's original term), with
 **Blitzer** as a redirect — same pattern already used for Botched Exchange/Failed Snap →
 Snap and Exchange Failure.
+
+---
+
+## v2026.17 — Correction: Coin Toss Winner Picks Either Category (Rule 1.1)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 1 rulebook
+review.
+
+Both the USA Football baseline and the 2026 Lancaster rules describe a fixed structure: the
+coin-toss winner always picks offense/defense, and the loser always picks direction. The user
+confirmed actual league practice is more flexible: the **winner** picks *either* offense/defense
+*or* direction (whichever category they want), with no deferring to the second half, and the
+**loser** picks from whichever category is left over. This corrects both source documents, not
+just one. See `rulebook.md` §1.1; `officials-manual.md` §OM-2.
