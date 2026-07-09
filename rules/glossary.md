@@ -8,12 +8,7 @@ noted for contrast.
 ---
 
 **Blitzer** — Any defender rushing the passer from behind the rush line. Not limited to one player
-— any number of defenders may blitz on a given play, in every division. In divisions with
-restricted defensive alignment (Peewee, Freshman, Girls), non-blitzing defenders must stay 5
-yards back from the LOS pre-snap and, while the ball is still unreleased/unhanded-off, may not
-cross the LOS at all — only blitzing defenders may cross it in pursuit of the passer. Once the
-ball is handed off, this restriction lifts and any defender may cross the LOS. See Rule 7.1, Rule
-10.1, Rule 10.2.
+— any number of defenders may blitz on a given play, in every division. See Rule 10.1.
 
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
 of the end zone lines. Stepping on a boundary line is out of bounds.
@@ -67,6 +62,13 @@ penalties are enforced before a down is considered complete.
 
 **No-Run Zone** — The 5-yard zone before midfield and the 5-yard zone before each end zone.
 All plays in a no-run zone must be pass plays (a handoff followed by a run is not permitted).
+
+**Non-Blitzing Defender** — In divisions with restricted defensive alignment (Peewee, Freshman,
+Girls), any defender who isn't rushing on a given play. Must line up at least 5 yards back from
+the LOS pre-snap, may advance up to the LOS at the snap, but may not cross it while the ball is
+still unreleased/unhanded-off — only blitzing defenders may cross the LOS in pursuit of the
+passer during that window. Once the ball is handed off, this restriction lifts and any defender,
+blitzing or not, may cross the LOS. See Rule 7.1, Rule 10.2.
 
 **Offense** — The team in possession of the ball.
 
