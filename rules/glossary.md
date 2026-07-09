@@ -65,11 +65,11 @@ penalties are enforced before a down is considered complete.
 All plays in a no-run zone must be pass plays (a handoff followed by a run is not permitted).
 
 **Non-Blitzing Defender** — In divisions with restricted defensive alignment (Peewee, Freshman,
-Girls), any defender who isn't rushing on a given play. Must line up at least 5 yards back from
-the LOS pre-snap, may advance up to the LOS at the snap, but may not cross it while the ball is
-still unreleased/unhanded-off — only blitzing defenders may cross the LOS in pursuit of the
-passer during that window. Once the ball is handed off, this restriction lifts and any defender,
-blitzing or not, may cross the LOS. See Rule 7.1, Rule 10.2.
+Girls), any defender not positioned behind the rush line (i.e., not a rusher). Must line up at
+least 5 yards back from the LOS pre-snap, and may advance up to (but not cross) the LOS at the
+snap — crossing it is an Illegal Rush foul unless (1) the ball has been handed off, or (2) the
+defender is in pursuit of a ball carrier (e.g., a receiver after the catch) who has themselves gone
+behind the LOS trying to evade defenders. See Rule 7.1, Rule 10.2.
 
 **Offense** — The team in possession of the ball.
 

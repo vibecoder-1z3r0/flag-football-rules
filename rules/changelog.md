@@ -321,3 +321,20 @@ glossary review.
   to officiate consistently. Spinning is simply legal, full stop, with no "out of control" carve-out.
 - **Decision clock is specifically 5 seconds (Rule 5.3):** clarified that the 4th-down decision
   window is a 5-second window carried inside the 30-second play clock, not the full 30 seconds.
+
+---
+
+## v2026.14 — Non-Blitzing Defender: Redefined and New LOS-Crossing Exception (Rule 10.2)
+
+**Sources:** direct correction from the user (league admin), found during a glossary review.
+
+- **Redefined by position, not role:** a non-blitzing defender is any defender not positioned
+  behind the rush line — not merely "any defender who isn't rushing," which was ambiguous
+  about how to classify a defender's status mid-play.
+- **New crossing exception:** a non-blitzing defender may cross the LOS in pursuit of a ball
+  carrier (e.g., a receiver after a completed catch) who has themselves gone behind the LOS
+  trying to evade defenders — not just after a handoff. Previously only the handoff exception
+  (Rule 7.1) was captured; this was a real gap.
+- Crossing the LOS without a permitted trigger is enforced as Illegal Rush.
+
+See `rulebook.md` §10.2; `casebook.md` CP-16, CP-18.

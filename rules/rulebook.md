@@ -951,18 +951,30 @@ restriction applies to whichever defenders are actually rushing.
 
 ### 10.2 Defensive Alignment Restrictions
 
-**Rule** — In Peewee, Freshman, and Girls divisions, all non-blitzing defenders must line up at
-least 5 yards back from the line of scrimmage pre-snap. At the snap, they may advance up to the
-line of scrimmage but may not cross it — **while the ball hasn't yet been released or handed
-off, only blitzing defenders (any number of them, per Rule 10.1) may cross the line of scrimmage**
-in pursuit of the passer.
+**Rule** — In Peewee, Freshman, and Girls divisions, a **non-blitzing defender** is any defender
+not positioned behind the rush line (i.e., anyone other than the rushers — see Rule 10.1). A
+non-blitzing defender must line up at least 5 yards back from the line of scrimmage pre-snap,
+and may advance up to (but not cross) the line of scrimmage at the snap. Crossing it without a
+permitted trigger below is an Illegal Rush foul (see `penalty-matrix.md`).
 
-**Once the ball is handed off** (i.e., it's a run rather than a pass), this restriction lifts entirely —
-any defender, blitzing or not, may then cross the line of scrimmage to pursue the ball carrier.
+A non-blitzing defender **may** cross the line of scrimmage only when:
+1. **The ball has been handed off** — once it's a run rather than a pass, this restriction lifts
+   entirely and any defender, blitzing or not, may cross the LOS to pursue the ball carrier (Rule
+   7.1); or
+2. **In pursuit of a ball carrier who has themselves gone behind the LOS** — e.g., a receiver
+   who caught a completed pass beyond the LOS and then runs back behind it trying to evade
+   defenders. Once the ball carrier has crossed back behind the LOS, defenders may follow them
+   there to make the play.
 
 In JV and Varsity, defensive players may line up anywhere, with no such crossing restriction.
 
+**Case Plays** — See `casebook.md` §CP-16, §CP-18.
+
 **Revision History**
+- Corrected — redefined "non-blitzing defender" by position (not behind the rush line) rather
+  than by role, and added the second crossing exception: pursuit of a ball carrier (e.g., a
+  receiver after the catch) who has themselves retreated behind the LOS. Previously only the
+  handoff exception was captured.
 - Corrected — clarified that the LOS-crossing restriction is specific to passing plays that
   haven't yet resulted in a handoff. Once the ball is handed off, any defender may cross the LOS
   to pursue, not just the blitzers — see Rule 7.1, a baseline provision that had been missing

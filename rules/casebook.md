@@ -333,6 +333,26 @@ defender, blitzing or not, may cross the LOS to pursue the ball carrier (Rule 7.
 
 ---
 
+### CP-18 — Non-Blitzing Defender Pursuing a Receiver Back Behind the LOS
+
+**Play:** Freshman division. A receiver catches a completed pass 3 yards beyond the LOS, then,
+trying to evade a defender, retreats and crosses back behind the LOS while still looking for room
+to run. A non-blitzing defender (who never crossed the LOS before the catch) follows the receiver
+across the LOS to make the play.
+
+**Ruling:** Legal. Once the receiver becomes a ball carrier and crosses back behind the LOS
+themselves, defenders — blitzing or not — may follow them there to make the play. This is
+distinct from the handoff exception (Rule 7.1): here, no handoff occurred, but the ball carrier's
+own movement behind the LOS opens the door for pursuit.
+
+**Contrast:** If that same non-blitzing defender crosses the LOS *before* the catch — jumping
+the route while the ball is still in the air and no ball carrier has yet gone behind the LOS — that's
+still an Illegal Rush foul under the normal rule (see CP-16).
+
+**Reference:** `rulebook.md` §10.2.
+
+---
+
 ### CP-17 — Deflected Snap Treated as a Handoff
 
 **Play:** The snap is off-target and deflects off the intended QB's hands to a nearby offensive
