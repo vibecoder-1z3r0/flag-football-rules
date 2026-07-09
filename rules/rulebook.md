@@ -1263,6 +1263,15 @@ by this league. The user has real field dimensions but they aren't in hand yet. 
 update Rule 2.1 once available; note whether dimensions are uniform across all fields/divisions
 or vary.
 
+### OI-13 — No-Run Zones (Rule 2.2): Placement Under "The Field"
+
+The user flagged that Rule 2.2 (No-Run Zones) feels out of place in Chapter 2 ("The Field") — it's
+fundamentally a restriction on what offensive plays are allowed (pass-only) rather than a
+physical characteristic of the field itself, unlike Rule 2.1 (Field Dimensions). This is a narrower,
+separate question from OI-10's broader offense/defense chapter question — it's specifically
+about whether Rule 2.2 belongs somewhere else (e.g., folded into Chapter 5, Series of Downs, or
+Chapter 7, Running the Ball) rather than under "The Field." Discuss and relocate if warranted.
+
 ---
 
 ## Resolved Issues

@@ -84,6 +84,9 @@ See `rules/rulebook.md` Appendix A for full detail. Current open items:
   substitution rule exists in the rulebook at all right now; nothing to enforce.
 - **OI-12** — Rule 2.1's field dimensions (30 × 53⅓ yards) are the unconfirmed USA Football
   baseline; actual Lancaster field dimensions not yet in hand.
+- **OI-13** — Rule 2.2 (No-Run Zones) may not belong under "The Field" — it's an offensive
+  play-type restriction, not a field characteristic. Separate from OI-10's broader question;
+  consider relocating to Chapter 5 or 7.
 
 **Resolved:** OI-11 (scorekeeper/timekeeper — score sheet's printed instructions: not an
 official, clock management negotiated pregame with the referee, tracks/reports timeouts and

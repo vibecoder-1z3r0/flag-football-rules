@@ -461,3 +461,15 @@ Rule 2.1's field dimensions (30 × 53⅓ yards, two 10-yard end zones) are the U
 baseline figure — no Lancaster document confirms these are the actual dimensions used. The
 user has real field dimensions on hand but not readily available yet. Tracked as **Open Issue
 OI-12**; update Rule 2.1 once confirmed.
+
+---
+
+## v2026.23 — New Open Issue: No-Run Zones' Placement Under "The Field"
+
+**Sources:** raised by the user (league admin) during the Chapter 2 rulebook review.
+
+Rule 2.2 (No-Run Zones) may not belong under Chapter 2 ("The Field") — it's a restriction on
+what offensive plays are allowed (pass-only), not a physical characteristic of the field, unlike
+Rule 2.1. Distinct from OI-10's broader offense/defense chapter question — this is specifically
+about whether Rule 2.2 should relocate to Chapter 5 (Series of Downs) or Chapter 7 (Running the
+Ball). Tracked as **Open Issue OI-13**.
