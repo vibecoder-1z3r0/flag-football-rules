@@ -1263,25 +1263,16 @@ by this league. The user has real field dimensions but they aren't in hand yet. 
 update Rule 2.1 once available; note whether dimensions are uniform across all fields/divisions
 or vary.
 
-### OI-13 — No-Run Zones (Rule 2.2): Placement and Enforcement Details Feel Out of Place
+### OI-13 — No-Run Zones (Rule 2.2): Enforcement/Violation Details Feel Out of Place
 
-The user flagged Rule 2.2 (No-Run Zones) as out of place in Chapter 2 ("The Field") — two
-distinct things, confirmed by the user, both need to be addressed:
+The zone's basic definition (the 5-yard zones before midfield and before each end zone, and the
+pass-only requirement inside them) stays as-is in Chapter 2 — no placement question there.
 
-1. **The zone's basic definition** (the 5-yard zones before midfield and before each end zone,
-   and the pass-only requirement inside them) is fine as substance — the only question is
-   whether it belongs under "The Field" or somewhere else (e.g., Chapter 5, Series of Downs, or
-   Chapter 7, Running the Ball), since it's really an offensive play-type restriction, not a physical
-   field characteristic like Rule 2.1.
-2. **The enforcement/penalty mechanics bundled into the same rule** — loss of down, no
-   yardage, and the "sticky" behavior surviving an intervening penalty — feel out of place
-   specifically, independent of the placement question above. These read as penalty
-   administration detail more than a field-definition rule, and may belong broken out into
-   `penalty-matrix.md` and/or wherever Rule 2.2's core definition ends up relocating, rather than
-   living inline in the same rule as the zone's definition.
-
-This is a narrower, separate question from OI-10's broader offense/defense chapter question.
-Discuss and restructure once settled.
+What's flagged is narrower: the **enforcement/penalty mechanics bundled into the same rule** —
+loss of down, no yardage, and the "sticky" behavior surviving an intervening penalty — feel out
+of place inline with the zone's definition. These read as penalty administration detail and may
+belong broken out into `penalty-matrix.md` instead of living inside Rule 2.2 itself. Discuss and
+restructure once settled; separate from OI-10's broader offense/defense chapter question.
 
 ---
 

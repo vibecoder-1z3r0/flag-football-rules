@@ -474,9 +474,8 @@ Rule 2.1. Distinct from OI-10's broader offense/defense chapter question — thi
 about whether Rule 2.2 should relocate to Chapter 5 (Series of Downs) or Chapter 7 (Running the
 Ball). Tracked as **Open Issue OI-13**.
 
-**Sharpened:** the user confirmed the zone's basic definition (5-yard zones, pass-only
-requirement) is fine as substance — only its chapter placement is in question. Separately, the
-enforcement/penalty mechanics bundled into the same rule (loss of down, no yardage, the
-"sticky" behavior surviving an intervening penalty) feel out of place too, independent of the
-placement question — these read as penalty administration detail and may belong broken out
-into `penalty-matrix.md` and/or wherever the rule's core definition ends up relocating.
+**Narrowed:** the user clarified only the enforcement/penalty mechanics bundled into the rule
+(loss of down, no yardage, the "sticky" behavior surviving an intervening penalty) are flagged —
+not the zone's basic definition or its chapter placement, which stays in Chapter 2 as-is. The
+enforcement detail may belong broken out into `penalty-matrix.md` instead of living inline in
+Rule 2.2.
