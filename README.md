@@ -31,7 +31,8 @@ sources/                  Raw transcriptions of the original documents — prove
   league-rules/lancaster-ny/
     2024/                                  2024 league rules (superseded, kept for history)
     2026/                                  2026 league rules (general rules, cheat sheet,
-                                            penalty card, plus custom-additions.md for
+                                            penalty card, scorekeeper/timekeeper score-sheet
+                                            instructions, plus custom-additions.md for
                                             pending house rules)
 ```
 

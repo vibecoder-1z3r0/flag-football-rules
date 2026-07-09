@@ -429,3 +429,24 @@ role relates to game timing — `officials-manual.md` §OM-6 only covers the lin
 clock-keeping duty within a two-official crew. Tracked as **Open Issue OI-11**: whether there's a
 separate non-official scorekeeper, whether they also keep time, which time governs in a
 disagreement, and how officials decide pregame who's running the scoreboard/scorebook.
+
+---
+
+## v2026.21 — OI-11 Resolved: Scorekeeper/Timekeeper Instructions (New §OM-9)
+
+**Sources:** `sources/league-rules/lancaster-ny/2026/scorekeeper-timekeeper-instructions.md`
+(printed score sheet instructions)
+
+Added a new officials-manual section, **§OM-9**, transcribing the score sheet's printed
+instructions for the scorekeeper/timekeeper role:
+
+- The scorekeeper is not an official.
+- Clock management is negotiated pregame between the scorekeeper and referee — not fixed
+  league-wide. The scorekeeper announces clock time to the referee regularly regardless.
+- The scorekeeper tracks timeouts on the score card, reminds the referee how many a team has
+  left, and immediately flags the referee if a team calls a timeout with zero remaining — this is
+  what triggers the illegal-timeout enforcement in Rule 3.4.
+- The scorekeeper announces the score to the referee and both coaches after every score/
+  conversion attempt, and gives the finalized score sheet to the winning coach at game end.
+
+This resolves **Open Issue OI-11** — see `rulebook.md` Appendix A, Resolved Issues.

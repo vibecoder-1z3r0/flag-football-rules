@@ -304,7 +304,10 @@ triggered only when the game clock was under 2:00 remaining — 2026 supersedes 
 Resolved Issues, formerly OI-2).
 
 **Officials Notes** — See `officials-manual.md` §OM-4 for the rules-clarification-via-timeout
-procedure and how officials should apply discretion in refunding a timeout.
+procedure and how officials should apply discretion in refunding a timeout. See
+`officials-manual.md` §OM-9 for the scorekeeper's role in tracking timeouts on the score card
+and notifying the referee immediately if a team calls a timeout with zero remaining — this is
+what triggers the zero-timeouts scenario above.
 
 **Revision History**
 - v2026.1 — Lancaster 2026 General Rules confirms 2 timeouts/half, 30 seconds each, no
@@ -1247,27 +1250,23 @@ layers of open question:
    Ball). If adopted, this could be a significant reorganization affecting where several existing
    rules live, not just substitutions. Discuss before restructuring.
 
-### OI-11 — Scorekeeper and Timekeeper Roles
-
-No source document or existing rule addresses who keeps official score, or the relationship
-between a (non-official) scorekeeper and game timing. `officials-manual.md` §OM-6 already
-assigns the line judge to maintain the game clock internally in a two-official crew, but doesn't
-address:
-1. Is there a separate scorekeeper (not an official — e.g., a parent/volunteer running a
-   sideline scoreboard), and if so, do they also keep time, or is timing strictly the officials'
-   responsibility?
-2. If a non-official scorekeeper/scoreboard clock disagrees with the officials' own running time
-   (e.g., the line judge's watch/count), which governs? Is the scoreboard merely informational,
-   or can it be treated as authoritative?
-3. How do officials decide, pregame, who (if anyone outside the crew) is running the
-   scoreboard/scorebook, and what's expected of that person procedurally?
-
 ---
 
 ## Resolved Issues
 
 Formerly open, now settled by the user. Kept here (rather than deleted) so the reasoning behind
 the current rule text stays traceable.
+
+### OI-11 (Resolved) — Scorekeeper and Timekeeper Roles
+
+Was: no source document addressed who keeps official score or how a scorekeeper relates to
+game timing. **Resolution:** the score sheet itself carries printed instructions for this role — the
+scorekeeper is not an official; clock management is negotiated pregame between the scorekeeper
+and the referee (not fixed league-wide); the scorekeeper announces clock time to the referee
+regularly regardless of who's "managing" it; tracks timeouts on the score card and immediately
+flags the referee if a team calls a timeout with zero remaining; announces the score to the
+referee and both coaches after every score/conversion; and hands the finalized sheet to the
+winning coach at game end. See `officials-manual.md` §OM-9.
 
 ### OI-8 (Resolved) — Spot Foul on Offense After the Line to Gain Is Already Made
 

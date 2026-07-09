@@ -147,3 +147,27 @@ See `penalty-matrix.md` for the full enforcement table by foul.
 If a rules debate needs to occur beyond what a timeout-clarification (§OM-4) can resolve, it
 happens at midfield with the referee and both head coaches, plus a member of the Lancaster
 Flag Administration if one is available on-site.
+
+---
+
+## §OM-9 — Scorekeeper and Timekeeper Coordination
+
+The scorekeeper is **not an official** — a separate role working from a physical score sheet.
+Their responsibilities and how they coordinate with the officiating crew:
+
+- **Clock management is negotiated pregame.** The scorekeeper talks with the referee before
+  the game to determine who will manage the "actual game clock" — this isn't fixed league-wide;
+  it's decided crew-by-crew, game-by-game. Whichever way it's split, the scorekeeper announces
+  the clock time to the referee with regular frequency throughout the game, so the referee
+  always has a current reading even if the officials are keeping their own internal count.
+- **Timeouts.** When a team calls a timeout, the scorekeeper checks it off the score card and
+  reminds the referee how many timeouts that team has left. If a team calls a timeout with zero
+  remaining, the scorekeeper notifies the referee immediately — this is what triggers the
+  illegal-timeout enforcement in `rulebook.md` §3.4.
+- **Score announcements.** After every touchdown and every conversion attempt, the
+  scorekeeper announces the score to the referee and to both teams' coaches.
+- **End of game.** The finalized score sheet is given to the winning team's coach.
+- **Administrative fill-in.** The scorekeeper fills in each team's name in the first-half section of
+  the score sheet, and their own name plus the field number in the Score Keeper field.
+
+See `rulebook.md` §3.4.
