@@ -532,3 +532,14 @@ Briefing) into a single **Rule 1.3 — Coin Toss Procedures**, with two subsecti
 Former Rule 1.5 (Coaches on the Field) renumbered to **Rule 1.4**. All cross-references
 throughout `rulebook.md`, `officials-manual.md`, `casebook.md`, `glossary.md`, and `CLAUDE.md`
 updated to match.
+
+---
+
+## v2026.28 — Coaches Allowed on Field for First Two Weeks, All Divisions (Rule 1.4)
+
+**Sources:** direct decision from the user (league admin).
+
+For the first two weeks of the season, coaches at every division — including JV and Varsity,
+which otherwise get none — are allowed on the field. The normal division-specific coach-count
+table (Peewee 2, Freshman/Girls FR/Girls JV 1, JV/Varsity 0) applies starting week 3. See
+`rulebook.md` §1.4.

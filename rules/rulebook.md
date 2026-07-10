@@ -172,7 +172,9 @@ goes to overtime — see Rule 13.1.
 > USA Football baseline (coaches may not call in play changes once the huddle breaks) and
 > hasn't been confirmed as actual league practice. Revisit this rule before treating it as settled.
 
-**Rule** — The number of coaches permitted on the field and in the huddle is division-specific:
+**Rule** — For the **first two weeks of the season**, coaches at every division — including JV and
+Varsity — are allowed on the field. After that two-week window, the normal division-specific
+table applies:
 
 | Division | Coaches on field / in huddle |
 |---|---|
@@ -188,9 +190,13 @@ snap and out of the action. Coaches may assist with pre-snap alignment to keep t
 moving but may not give additional instruction or call audibles once the huddle has broken.
 
 **Rationale** — Younger/developmental divisions get more on-field coaching support; JV/Varsity
-play without it, consistent with increasing player independence.
+play without it, consistent with increasing player independence. The first-two-weeks exception
+gives every division a short adjustment period at the start of the season before that
+independence is expected.
 
 **Revision History**
+- Confirmed — coaches at all divisions (including JV/Varsity) are allowed on the field for the
+  first two weeks of the season; the division-specific table applies starting week 3.
 - Flagged for discussion — the "no audibles" clause is sourced from the USA Football baseline
   (§8) and hasn't been confirmed as reflecting actual league practice; revisit before finalizing.
 - v2026.1 — Lancaster 2026 introduced the division-specific coach counts (General Rules /
