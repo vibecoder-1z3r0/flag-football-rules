@@ -543,3 +543,32 @@ For the first two weeks of the season, coaches at every division — including J
 which otherwise get none — are allowed on the field. The normal division-specific coach-count
 table (Peewee 2, Freshman/Girls FR/Girls JV 1, JV/Varsity 0) applies starting week 3. See
 `rulebook.md` §1.4.
+
+---
+
+## v2026.29 — No-Run Zone Bans Handoffs Entirely; Nearly All Offensive Penalties Move to Loss of Down
+
+**Sources:** direct decisions from the user (league admin), found during the Chapter 2 full-text
+review.
+
+**No-run zone (Rule 2.2):** handoffs are now banned entirely inside the no-run zone — not just a
+handoff that results in a run. The ball must be thrown directly, no handoff first. The foul is
+renamed **Illegal Run**, and its enforcement changed from "no yardage, loss of down" to
+**-5 yards from LOS, loss of down**, matching Illegal Forward Pass's yardage.
+
+**Offensive penalty enforcement, sweeping change (`penalty-matrix.md`):** nearly every
+offensive foul is now loss-of-down enforcement, keeping its existing yardage. The only
+exceptions are **Offside** (stays -5 yards, replay of down) and **Delay of Game** (already loss of
+down). This flips previously-replay-of-down fouls to loss of down:
+- **False Start** — split out from the old bundled "False Start / Offside" line (which is itself
+  split: Offside stays replay of down, False Start becomes loss of down).
+- **Illegal Forward Pass**, **Illegal Motion**, **Impeding the Rusher**, **Illegal Procedure**,
+  **Pass Interference**, **Taunting** — all changed from replay of down to loss of down, same
+  yardage as before.
+- Fouls already loss-of-down (Flag Guarding, Screening/Blocking, Charging, Unsportsmanlike
+  Conduct, Unnecessary Roughness) are unchanged.
+
+Rule 7.1's deflected-snap "clean exchange" foul and `casebook.md` CP-12/CP-17 updated to match
+(loss of down instead of replay of down). Defensive fouls are unaffected by this change.
+
+See `rulebook.md` §2.2, §6.3, §7.1; `penalty-matrix.md`; `casebook.md` CP-9, CP-12, CP-17.

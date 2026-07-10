@@ -229,10 +229,11 @@ Stepping on a boundary line is out of bounds.
 ### 2.2 No-Run Zones
 
 **Rule** — A no-run zone exists 5 yards before midfield and 5 yards before each end zone. All
-plays run inside a no-run zone must be pass plays — a handoff followed by a run in the zone is
-not permitted, even if the handoff itself is legal (this includes an RPO where the ball ends up
-handed off/run rather than thrown). A no-run zone violation is a **loss of down** — see
-`penalty-matrix.md`. No yardage is assessed; the ball stays at the spot.
+plays run inside a no-run zone must be pass plays. **Handoffs are not permitted at all inside the
+no-run zone** — not just a handoff followed by a run; the ball must be thrown directly by the
+passer, with no handoff first (this includes an RPO where the ball ends up handed off/run rather
+than thrown, which is equally illegal). A violation is **Illegal Run**: -5 yards from the line of
+scrimmage, loss of down — see `penalty-matrix.md`.
 
 Each offensive drive encounters exactly two live no-run zones: one before midfield (to gain the
 first down) and one before the target end zone (to score). Once the offense's spot enters a
@@ -243,23 +244,26 @@ the zone's yard-line boundary. The restriction is tied to having entered the zon
 downs, not to the exact yard line of the current snap.
 
 **Rationale** — Prevents short-yardage power-running situations near the line-to-gain/goal line,
-keeping the game pass-oriented. The penalty for violating it is a loss of down specifically (rather
-than a replay-of-down penalty like Illegal Procedure) so a team can't deliberately eat a no-run-
-zone violation as a free do-over and simply try the run again on the next snap. The "sticky"
-treatment mirrors the existing PAT rule (Rule 4.2), where a penalty that moves the spot doesn't
-change a conversion attempt's already-declared type (1-point vs. 2-point) — here too, a penalty
-doesn't undo the fact that the drive is inside the no-run zone.
+keeping the game pass-oriented. Banning handoffs entirely (not just handoff-then-run) removes
+any ambiguity about whether a given handoff was going to result in a run. The "sticky" treatment
+mirrors the existing PAT rule (Rule 4.2), where a penalty that moves the spot doesn't change a
+conversion attempt's already-declared type (1-point vs. 2-point) — here too, a penalty doesn't
+undo the fact that the drive is inside the no-run zone.
 
 **Case Plays** — See `casebook.md` §CP-2 (change of possession spot when a drive stalls inside
 the no-run zone) and §CP-12 (no-run zone violation via RPO, and the zone's stickiness across
 downs and penalties).
 
 **Revision History**
-- Confirmed — no-run zone violation is its own foul: loss of down, no yardage. Previously the
-  penalty for this foul was undefined in `penalty-matrix.md` despite the rule requiring one.
-  Also confirmed the pass-only requirement is sticky for the set of downs once the zone is
-  entered — it survives an intervening penalty even if that penalty's yardage happens to move
-  the resulting spot outside the zone's yard-line boundary.
+- Confirmed — handoffs are banned entirely inside the no-run zone, not just a handoff followed
+  by a run. The foul is renamed **Illegal Run**, with enforcement changed from "no yardage,
+  loss of down" to **-5 yards from LOS, loss of down** — matching Illegal Forward Pass's
+  yardage, consistent with the broader move of nearly all offensive penalties to loss-of-down
+  enforcement (see `penalty-matrix.md`).
+- Confirmed — no-run zone violation is its own foul, previously undefined in `penalty-matrix.md`
+  despite the rule requiring one. Also confirmed the pass-only requirement is sticky for the set
+  of downs once the zone is entered — it survives an intervening penalty even if that penalty's
+  yardage happens to move the resulting spot outside the zone's yard-line boundary.
 - v2026.1 — Lancaster 2026 restates the same 5-yard zones (General Rules, Cheat Sheet).
 - v0 (baseline) — USA Football rulebook §4, §10.5. No material change; carried forward.
 
@@ -636,9 +640,12 @@ botched exchange — see Rule 7.5, which now covers both scenarios under one rul
 scrimmage, commits a false start. See `penalty-matrix.md`.
 
 **Revision History**
-- v2026.1 — Lancaster 2026 enforcement: -5 yards, replay of down (overrides baseline's loss of
-  down — see `penalty-matrix.md`).
-- v0 (baseline) — USA Football rulebook §15.2, §17.v.
+- Corrected — enforcement is -5 yards, **loss of down** (not replay of down), consistent with the
+  broader move of nearly all offensive penalties to loss-of-down enforcement, and now
+  distinct from Offside (which stays replay of down).
+- v2026.1 — Lancaster 2026 enforcement had been -5 yards, replay of down (overriding the
+  baseline's original loss-of-down treatment) — superseded above.
+- v0 (baseline) — USA Football rulebook §15.2, §17.v specified loss of down.
 
 ---
 
@@ -662,18 +669,16 @@ intended recipient — with no clean handoff having actually occurred — that p
 have received the snap directly, making them the quarterback for that play (see the Quarterback
 definition in the glossary: "the offensive player who receives the snap"). The quarterback cannot
 run the ball (Rule 6.1), so if that player runs with the deflected snap, it's an illegal play by the
-offense. Enforce as a standard -5-yards-from-LOS, replay-of-down foul — the 2026 Penalty
-Buddy card itself bundles "Illegal Forward Pass / Illegal Rush" as a single line item at this
-enforcement, alongside Illegal Procedure and similar offensive fouls (see `penalty-matrix.md`);
+offense. Enforce as a standard -5-yards-from-LOS, loss-of-down foul (see `penalty-matrix.md`) —
 the specific label used doesn't change the enforcement.
 
 **Case Plays** — See `casebook.md` §CP-17.
 
 **Revision History**
+- Corrected — enforcement updated to loss of down (from replay of down), consistent with the
+  broader move of nearly all offensive penalties to loss-of-down enforcement.
 - Confirmed — a deflected snap that lands with an unintended player is not a handoff; that
-  player is the quarterback by definition and cannot legally run. Enforced as a standard -5
-  yards/replay-of-down offensive foul, consistent with the 2026 Penalty Buddy card's own
-  "Illegal Forward Pass / Illegal Rush" bundled line item.
+  player is the quarterback by definition and cannot legally run.
 - Confirmed — this baseline provision had not been carried into the consolidated rulebook; now
   captured explicitly and cross-referenced from Rule 10.1/10.2 to close the gap.
 - v0 (baseline) — USA Football rulebook §10.7. Unchanged by any league document.

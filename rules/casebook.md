@@ -214,16 +214,16 @@ tiebreak for a simultaneous landing, distinct from the ordinary first-foot-down 
 
 ---
 
-### CP-12 — No-Run Zone Violation via RPO
+### CP-12 — Illegal Run via RPO
 
 **Play:** The offense is at the defense's 4-yard line — inside the no-run zone before the goal
 line. The QB runs an RPO; reading the defense, they hand the ball off, and the runner picks up 2
 yards before being flag-pulled.
 
-**Ruling:** No-run zone violation. Even though the handoff itself is a legal action generally
-(Rule 7.1), the play resulted in a run rather than a pass while spotted inside the no-run zone,
-which isn't permitted regardless of read/intent. Loss of down, no yardage — the ball returns to
-the 4-yard line for the next down.
+**Ruling:** Illegal Run. Handoffs are banned entirely inside the no-run zone (Rule 2.2) — not just
+a handoff that results in a run — so this is illegal regardless of read/intent, and regardless of
+the 2 yards gained. -5 yards from the line of scrimmage, loss of down — the ball moves back to
+the 9-yard line for the next down.
 
 **Contrast — persistence across downs:** Same situation, but instead this is 2nd down and the
 offense's previous play (1st down) was a short completed pass that gained 1 yard, still leaving
@@ -232,16 +232,15 @@ down snap is still inside the no-run zone and is still pass-only. The zone stays
 after down until the offense gets the first down, scores, or turns the ball over.
 
 **Contrast — delay of game inside the zone:** Same situation, but instead of an RPO, the
-offense commits delay of game at the 4-yard line. That's a replay of down, -5 yards (Rule 3.3;
-`penalty-matrix.md`) — the ball moves to the 9-yard line, which is actually **past** the no-run
-zone's 5-yard boundary. Even so, the pass-only requirement is sticky for this set of downs: since
-the offense already had a down spotted inside the no-run zone this series, the next play at the
-9-yard line is still pass-only, even though that spot alone wouldn't otherwise be inside the zone.
-This mirrors the PAT rule (Rule 4.2), where a penalty that moves the spot doesn't undo an
+offense commits delay of game at the 4-yard line. That's a loss of down, -5 yards, clock stoppage
+(Rule 3.3; `penalty-matrix.md`) — the ball moves to the 9-yard line, which is actually **past** the
+no-run zone's 5-yard boundary. Even so, the pass-only requirement is sticky for this set of downs:
+since the offense already had a down spotted inside the no-run zone this series, the next play at
+the 9-yard line is still pass-only, even though that spot alone wouldn't otherwise be inside the
+zone. This mirrors the PAT rule (Rule 4.2), where a penalty that moves the spot doesn't undo an
 already-declared 1-point-vs-2-point conversion type.
 
-**Reference:** `rulebook.md` §2.2, §3.3, §4.2; `penalty-matrix.md` (No-Run Zone Violation, Delay of
-Game).
+**Reference:** `rulebook.md` §2.2, §3.3, §4.2; `penalty-matrix.md` (Illegal Run, Delay of Game).
 
 ---
 
@@ -362,7 +361,7 @@ player, who scoops it up and takes off running, as if it had been a designed han
 deflected snap, not a controlled exchange from the quarterback. That player is deemed to have
 received the snap directly, making them the quarterback for the play by definition. Since the
 quarterback cannot run the ball, this is a foul on the offense: -5 yards from the line of
-scrimmage, replay of down (the same enforcement whether it's called illegal rush, illegal
+scrimmage, loss of down (the same enforcement whether it's called illegal rush, illegal
 procedure, or another label — see `penalty-matrix.md`).
 
 **Contrast:** If the same deflected snap is instead caught by the *intended* QB (just off-target,
