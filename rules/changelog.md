@@ -611,3 +611,25 @@ Retitled Rule 4.4 from "Mercy Rule / Running Score" to **"Running Score Cutoff"*
 isn't a mercy rule — the game doesn't end early or shorten once a team leads by 28+. It's purely
 a scorekeeping cutoff: score stops being tracked, but play, the clock, and the game format are
 otherwise unaffected. This league has no mercy rule.
+
+---
+
+## v2026.33 — Correction: Peewee Punting and the "Second Set of Downs" Confusion (Rule 5.3)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 5 full-text
+review.
+
+Two errors in Rule 5.3, both fixed:
+
+- **Peewee does have a punt option.** Rule 5.3 incorrectly said Peewee had "no punt election."
+  Rule 5.2 (punt on any down) applies to every division, Peewee included. Peewee is only exempt
+  from the **formal declaration procedure** — the 5-second decision clock and the requirement
+  to explicitly announce go/punt to the official before the snap. A Peewee coach can still call a
+  punt play on 4th down (or any down); there's just no declaration ritual or delay-of-game
+  consequence tied to it.
+- **There is no separate "second set of 4 downs" specific to Peewee.** That phrase was
+  confusing filler — every division already follows the same 4-then-4 down structure described
+  in Rule 5.1. Peewee doesn't get some different or additional down structure; it's the same
+  structure as everyone else, minus the formal 4th-down declaration procedure.
+
+Also corrected the matching language in OI-1's Resolved Issues entry and in `CLAUDE.md`.

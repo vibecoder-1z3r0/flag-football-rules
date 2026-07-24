@@ -95,7 +95,9 @@ scores, hands finalized sheet to the winning coach; see `officials-manual.md` §
 (4th-down decision clock: rides inside the existing 30-second play clock,
 starts at the official's "4th down" declaration; missed decision = delay of game at official
 discretion; official announces half time remaining when declaring 4th down; applies to
-Freshman/JV/Varsity, Peewee exempt), OI-2 (illegal-timeout clock runoff — 2026 supersedes
+Freshman/JV/Varsity, Peewee exempt from the formal declaration procedure only — Peewee
+still has the same punt option and 4-then-4 down structure as every division), OI-2
+(illegal-timeout clock runoff — 2026 supersedes
 2024 outright, no reconciliation needed), OI-3 (failed snap + botched exchange merged into one
 rule, Rule 7.5), OI-5 (2024 officiating mechanics confirmed still current), OI-6 (no roster
 min/max needed; 4-player minimum to play, otherwise forfeit), OI-7 (overtime applies to all
