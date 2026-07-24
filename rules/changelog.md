@@ -585,3 +585,17 @@ field and both teams are lined up and ready") — this implied a special injury-
 doesn't exist. An injury stoppage restarts the same way as any other clock stoppage: at the snap
 of the next timed down, per the general rule already stated. Rule retitled from "Clock Stoppage,
 Restart, and Injuries" to "Clock Stoppage and Restart." See `rulebook.md` §3.5.
+
+---
+
+## v2026.31 — Correction: Safety Trigger Is First Ground Contact, Not Resting Spot (Rule 4.3)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 4 full-text
+review.
+
+Rule 4.3 described the snap/exchange-failure safety trigger as the ball "coming to rest" in the
+offense's own end zone — inconsistent with Rule 7.5's own spotting rule, which uses the point
+where the ball **first touches the ground**, not wherever it subsequently rolls or bounces to.
+Corrected in both Rule 4.3 and Rule 7.5 (which had the same inconsistent phrasing) to match the
+already-correct CP-14 case play. No change in substance to the underlying rule — this was a
+wording bug, not a rule change.

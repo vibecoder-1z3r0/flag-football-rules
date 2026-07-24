@@ -437,14 +437,19 @@ on a conversion interception with no return.
 end zone (flag pulled, flag falls out, steps out of bounds, knee/arm touches the ground, or a
 snapped ball lands in or beyond the end zone).
 
-An **enforced** snap/exchange failure (Rule 7.5) that comes to rest in the offense's own end
-zone is also a safety — this applies whenever the failure results in an actual loss of down, not
-just for JV/Varsity: it's automatic for JV/Varsity (no free redos), and also applies to Peewee/
-Freshman/Girls Freshman once their 2-per-half do-over allowance is used up. A failure that's
-still within the do-over allowance is simply replayed from the original line of scrimmage and
-cannot produce a safety, since nothing is enforced.
+An **enforced** snap/exchange failure (Rule 7.5) whose ball **first makes contact with the
+ground** in the offense's own end zone is also a safety — not wherever the ball ultimately comes
+to rest, if it rolls or bounces further after that first contact (see Rule 7.5's general spotting
+principle). This applies whenever the failure results in an actual loss of down, not just for
+JV/Varsity: it's automatic for JV/Varsity (no free redos), and also applies to Peewee/Freshman/
+Girls Freshman once their 2-per-half do-over allowance is used up. A failure that's still within the
+do-over allowance is simply replayed from the original line of scrimmage and cannot produce a
+safety, since nothing is enforced.
 
 **Revision History**
+- Corrected — the safety trigger is where the ball *first touches the ground*, not wherever it
+  comes to rest after rolling or bouncing. This matches Rule 7.5's spotting rule and CP-14; the
+  earlier "comes to rest" phrasing here was inconsistent with that.
 - Confirmed — safety-on-end-zone-failure applies to any division once the snap/exchange
   failure is enforced (loss of down), not only JV/Varsity — it just happens to be automatic for
   JV/Varsity since they get no do-overs at all.
@@ -789,9 +794,10 @@ dead-ball spotting rule as any other bad snap (Rule 11.2) — not wherever it su
 or bounced to, and not reset back to the original line of scrimmage. "No loss of yardage" means
 no *additional* penalty yardage is subtracted on top of that natural spot.
 
-If an enforced snap/exchange failure comes to rest in the offense's own end zone under this
-spotting rule, it is a safety (see Rule 4.3) — this can happen even when the original line of
-scrimmage wasn't at the goal line, if the ball itself ends up there.
+If an enforced snap/exchange failure's ball first touches the ground in the offense's own end
+zone under this spotting rule, it is a safety (see Rule 4.3) — not wherever the ball subsequently
+rolls to. This can happen even when the original line of scrimmage wasn't at the goal line, if the
+first ground contact itself is there.
 
 **Officials Notes** — The "2 free redos per half" allowance applies only in the divisions where it
 has been declared to apply (Peewee, Freshman, Girls Freshman) — JV/Varsity get no free redos
@@ -800,6 +806,8 @@ for either a bad snap or a botched exchange, straight to loss of down.
 **Case Plays** — See `casebook.md` §CP-4, §CP-14.
 
 **Revision History**
+- Corrected — fixed wording that described the safety trigger as wherever the ball "comes to
+  rest" in the end zone; corrected to first ground contact, consistent with the spot rule itself.
 - Confirmed — spot for an enforced snap/exchange failure is the point where the ball first
   touched the ground (Rule 11.2's general dead-ball spotting rule), not the original line of
   scrimmage and not wherever the ball rolled to afterward. This is what allows a safety even
