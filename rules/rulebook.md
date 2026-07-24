@@ -459,12 +459,19 @@ safety, since nothing is enforced.
 
 ---
 
-### 4.4 Mercy Rule / Running Score
+### 4.4 Running Score Cutoff
 
 **Rule** — Once a team leads by 28 or more points, score is no longer kept for the remainder of
-the game, and no further PAT attempts occur. The game continues in scrimmage mode.
+the game, and no further PAT attempts occur. The game continues in scrimmage mode — play
+continues normally, only the score stops being tracked.
+
+This is not a mercy rule in the usual sense (the game doesn't end early or shorten) — it's purely
+a scorekeeping cutoff. The clock and game format are otherwise unaffected.
 
 **Revision History**
+- Corrected — retitled from "Mercy Rule / Running Score" to "Running Score Cutoff" and
+  clarified this doesn't end or shorten the game; it only stops score from being tracked. There is
+  no mercy rule (no early termination, no running-clock trigger, etc.) in this league.
 - v0 (baseline) — USA Football rulebook §7.4. Unchanged by any league document. (2024's
   condensed field-rules cross-check independently confirmed the same 28-point threshold.)
 

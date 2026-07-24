@@ -599,3 +599,15 @@ where the ball **first touches the ground**, not wherever it subsequently rolls 
 Corrected in both Rule 4.3 and Rule 7.5 (which had the same inconsistent phrasing) to match the
 already-correct CP-14 case play. No change in substance to the underlying rule — this was a
 wording bug, not a rule change.
+
+---
+
+## v2026.32 — Correction: Not a Mercy Rule (Rule 4.4)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 4 full-text
+review.
+
+Retitled Rule 4.4 from "Mercy Rule / Running Score" to **"Running Score Cutoff"** and clarified it
+isn't a mercy rule — the game doesn't end early or shorten once a team leads by 28+. It's purely
+a scorekeeping cutoff: score stops being tracked, but play, the clock, and the game format are
+otherwise unaffected. This league has no mercy rule.
