@@ -572,3 +572,16 @@ Rule 7.1's deflected-snap "clean exchange" foul and `casebook.md` CP-12/CP-17 up
 (loss of down instead of replay of down). Defensive fouls are unaffected by this change.
 
 See `rulebook.md` §2.2, §6.3, §7.1; `penalty-matrix.md`; `casebook.md` CP-9, CP-12, CP-17.
+
+---
+
+## v2026.30 — Correction: Injuries Are Not a Special Clock-Restart Case (Rule 3.5)
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 3 full-text
+review.
+
+Removed a standalone injury clock-restart clause ("restarts once the injured player has left the
+field and both teams are lined up and ready") — this implied a special injury-specific rule that
+doesn't exist. An injury stoppage restarts the same way as any other clock stoppage: at the snap
+of the next timed down, per the general rule already stated. Rule retitled from "Clock Stoppage,
+Restart, and Injuries" to "Clock Stoppage and Restart." See `rulebook.md` §3.5.

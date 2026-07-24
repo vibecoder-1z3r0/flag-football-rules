@@ -355,12 +355,15 @@ what triggers the zero-timeouts scenario above.
 
 ---
 
-### 3.5 Clock Stoppage, Restart, and Injuries
+### 3.5 Clock Stoppage and Restart
 
 **Rule** — If a timeout is called, the clock stops and restarts at the snap of the next timed down
 (a PAT/conversion attempt is an untimed down — if a coach calls timeout immediately after a
 touchdown, the conversion attempt does not run the clock). The same restart-at-next-snap
-principle applies to any other clock stoppage, and to the start of each half.
+principle applies to **any** clock stoppage — including an injury stoppage — and to the start of
+each half. An injury is not a special case with its own restart rule; it's just one more reason the
+clock might stop, governed by the same general restart-at-next-snap principle as everything
+else.
 
 If a timeout is called after a touchdown (making the PAT an untimed down), the next timed
 down is the receiving team's first offensive snap — described as **"1st and half way"**: a first
@@ -372,10 +375,11 @@ starts at that snap.
 
 The clock is not stopped for penalty enforcement unless a timeout was separately called.
 
-In the event of an injury, the clock stops and restarts once the injured player has left the field
-and both teams are lined up and ready.
-
 **Revision History**
+- Corrected — removed a separate injury-specific clock-restart clause ("restarts once the
+  injured player has left the field and both teams are lined up and ready"). This was misleading
+  as a standalone rule — an injury stoppage isn't a special case; it restarts the same way as any
+  other stoppage, at the snap of the next timed down.
 - Confirmed — "1st and half way": after a timeout following a touchdown, the clock starts at the
   snap of the receiving team's next possession, which is a first down with the line-to-gain at
   midfield regardless of the exact starting spot within their own half.
@@ -383,7 +387,8 @@ and both teams are lined up and ready.
   timeout.
 - v2024.1 — Lancaster 2024 established the stop/restart-at-next-snap mechanic and the penalty
   clock-stoppage rule.
-- v0 (baseline) — USA Football rulebook §6.5–6.6 (injury clock handling).
+- v0 (baseline) — USA Football rulebook §6.5–6.6 (injury clock handling — previously treated as
+  a special case; now folded into the general restart rule).
 
 ---
 
