@@ -633,3 +633,19 @@ Two errors in Rule 5.3, both fixed:
   structure as everyone else, minus the formal 4th-down declaration procedure.
 
 Also corrected the matching language in OI-1's Resolved Issues entry and in `CLAUDE.md`.
+
+---
+
+## v2026.34 — Simplification: Rule 5.4 Failure-to-Convert / Interception Spot Language
+
+**Sources:** direct correction from the user (league admin), found during the Chapter 5 full-text
+review.
+
+Rule 5.4's second paragraph ("all possession changes other than interceptions start on the new
+offense's 5-yard line if the change happens via a stalled drive that began from a
+kickoff-equivalent spot...") was confusing and redundant with the no-run-zone exception already
+stated in the rule's first paragraph. Replaced it with a single sentence pointing to Rule 9.3 for
+the interception spot rule: "If a change of possession occurs via an interception, the opponent
+starts their possession where the intercepting player is downed — see Rule 9.3 for the full
+interception-spot rule." Checked `casebook.md` §CP-2 and §CP-13 against the new wording — both
+already describe the correct outcome and needed no changes.

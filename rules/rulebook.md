@@ -577,14 +577,18 @@ the opponent at the spot where the ball was declared down — **except** when th
 within the no-run zone nearest the defending team's end zone, in which case the ball is instead
 placed at the 5-yard line before possession changes.
 
-All possession changes other than interceptions start on the new offense's 5-yard line if the
-change happens via a stalled drive that began from a kickoff-equivalent spot; where a specific
-failure-to-convert spot is defined above, that spot governs.
+If a change of possession occurs via an interception, the opponent starts their possession where
+the intercepting player is downed — see Rule 9.3 for the full interception-spot rule.
 
 **Case Plays** — See `casebook.md` §CP-2 and §CP-13 (contrast with the interception spot rule,
 Rule 9.3, which is never pushed out to the 5-yard line).
 
 **Revision History**
+- Corrected — simplified this rule's wording. The prior text's second paragraph ("all possession
+  changes other than interceptions start on the new offense's 5-yard line if the change happens
+  via a stalled drive that began from a kickoff-equivalent spot") was confusing and redundant
+  with the no-run-zone exception already stated above; replaced with a one-sentence pointer to
+  Rule 9.3 for interceptions, which is where that spot rule is actually defined in full.
 - v2026.1 / v2024.1 — Both Lancaster documents independently state the same "placed at the
   5-yard line if within the no-run zone" exception.
 - v0 (baseline) — USA Football rulebook §1.4–1.6 gives the general "all possession changes
