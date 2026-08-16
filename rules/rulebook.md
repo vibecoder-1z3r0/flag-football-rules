@@ -633,7 +633,17 @@ the moment of the snap; all others must be set. Motion must be parallel to the l
 scrimmage — no motion toward the line of scrimmage is permitted. A set player, or a player in
 motion who moves toward the line of scrimmage, commits a false start.
 
+The offense may call an audible at any point before the snap to change its formation, with no
+restriction on when or how many times. This is distinct from Rule 1.4's restriction on **coaches**
+calling audibles once the huddle has broken — that restriction, still unconfirmed (see OI-9),
+applies to coaches, not players. An audible does not exempt the offense from the false-start and
+motion rules above once the new formation is set.
+
 **Revision History**
+- Confirmed — the offense (players) may freely call an audible pre-snap to change formation, at
+  any point before the snap, with no restriction on timing or frequency. Added to distinguish this
+  from Rule 1.4's separate, still-unconfirmed restriction on coaches calling audibles from the
+  sideline/huddle.
 - v2026.1 — Lancaster 2026 restates the multiple-in-motion/one-at-snap rule.
 - v0 (baseline) — USA Football rulebook §15. Formation minimums/QB-off-line and the false
   start definition are unchanged.

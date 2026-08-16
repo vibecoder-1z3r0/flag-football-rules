@@ -649,3 +649,17 @@ the interception spot rule: "If a change of possession occurs via an interceptio
 starts their possession where the intercepting player is downed — see Rule 9.3 for the full
 interception-spot rule." Checked `casebook.md` §CP-2 and §CP-13 against the new wording — both
 already describe the correct outcome and needed no changes.
+
+---
+
+## v2026.35 — Addition: Player-Called Formation Audibles (Rule 6.1)
+
+**Sources:** direct confirmation from the user (league admin), found during the Chapter 6
+full-text review.
+
+Rule 6.1 was silent on whether the offense could audible into a different formation pre-snap.
+Confirmed: offensive players (not coaches) may call an audible to change formation at any point
+before the snap, with no restriction on timing or frequency — the false-start/motion rules still
+apply once the new formation is set. Added this to Rule 6.1, and added a new **Audible** glossary
+entry distinguishing it from Rule 1.4's separate, still-unconfirmed restriction on coaches calling
+audibles from the sideline/huddle (OI-9), which remains open and unrelated to this rule.

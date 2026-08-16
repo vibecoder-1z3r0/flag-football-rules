@@ -7,6 +7,11 @@ noted for contrast.
 
 ---
 
+**Audible** — A pre-snap change to the offense's formation, called by a player (not a coach). Any
+offensive player may call an audible at any point before the snap, with no restriction on timing or
+frequency. See Rule 6.1. Not to be confused with the separate, unconfirmed restriction on
+**coaches** calling audibles from the sideline/huddle once it has broken (Rule 1.4; see OI-9).
+
 **Blitzer** — See **Rusher**.
 
 **Boundary Lines** — The outer perimeter lines around the field, including sidelines and the back
