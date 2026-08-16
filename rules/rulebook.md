@@ -815,9 +815,10 @@ forward leap), and §CP-15 (third flag pulled).
 required) and a botched/fumbled handoff exchange. There are no live fumbles — the ball is dead
 the instant it hits the ground. Both scenarios are enforced identically:
 
-| Division | 1st–2nd occurrence per half | After cap | 
+| Division | Free redos per half | After cap |
 |---|---|---|
 | Peewee, Freshman, Girls Freshman | Do-over, no loss of down/yardage (up to 2 per team per half) | Loss of down, no yardage loss |
+| Girls JV | Do-over, no loss of down/yardage (up to 1 per team per half) | Loss of down, no yardage loss |
 | JV, Varsity | Loss of down, no yardage loss (no free redos) | — |
 
 **Spot.** A do-over (within the free-redo cap) is replayed from the original line of scrimmage —
@@ -833,13 +834,20 @@ zone under this spotting rule, it is a safety (see Rule 4.3) — not wherever th
 rolls to. This can happen even when the original line of scrimmage wasn't at the goal line, if the
 first ground contact itself is there.
 
-**Officials Notes** — The "2 free redos per half" allowance applies only in the divisions where it
-has been declared to apply (Peewee, Freshman, Girls Freshman) — JV/Varsity get no free redos
-for either a bad snap or a botched exchange, straight to loss of down.
+**Officials Notes** — The free-redo allowance is division-specific and not uniform: Peewee,
+Freshman, and Girls Freshman get up to 2 free redos per team per half; Girls JV gets up to 1;
+JV/Varsity get none, straight to loss of down for either a bad snap or a botched exchange.
 
 **Case Plays** — See `casebook.md` §CP-4, §CP-14.
 
 **Revision History**
+- Corrected — added the missing **Girls JV** row: 1 free redo per team per half (not 2, and not 0),
+  loss of down with no yardage loss after that. Girls JV had been omitted from both 2026 source
+  documents entirely, leaving it in an undefined gap between the Peewee/Freshman/Girls Freshman
+  bucket and the JV/Varsity bucket. Per an updated version of the 2026 General Rules &
+  Guidelines, Girls JV is its own bucket with a 1-redo cap; the updated source also makes the
+  end-zone safety consequence explicit for JV/Varsity (and, by the same logic already established
+  above, for Girls JV once its cap is exceeded).
 - Corrected — fixed wording that described the safety trigger as wherever the ball "comes to
   rest" in the end zone; corrected to first ground contact, consistent with the spot rule itself.
 - Confirmed — spot for an enforced snap/exchange failure is the point where the ball first
@@ -851,7 +859,7 @@ for either a bad snap or a botched exchange, straight to loss of down.
   snap or handoff), same division-based 2-per-half allowance, one rule going forward. Formerly
   tracked as Open Issue OI-3; see Resolved Issues.
 - v2026.1 — 2026 General Rules / Cheat Sheet introduced the "botched exchange" term and the
-  division-based do-over table.
+  division-based do-over table (later updated by the league to add the Girls JV row — see above).
 - v2024.1 — Lancaster 2024 introduced the "failed snap" term and penalty for a poorly-executed
   snap.
 

@@ -65,11 +65,19 @@ may side-snap as needed.
 
 ### Botched Snap / Exchange
 
-- **Peewee, Freshman, Girls Freshman**: any botched/fumbled exchange is a do-over, up to two
-  times per half, with no loss of down or yardage. After that, loss of down, no loss of yardage.
-- **JV, Varsity**: any botched/fumbled exchange results in loss of down but no loss of yardage.
-  If a botched snap occurs in the end zone, it results in a safety (opposing team gets 2 points
-  and the ball).
+*(Updated by the league; this section now reads as follows — supersedes the prior version's text,
+which lacked a Girls JV entry.)*
+
+- **Peewee, Freshman, Girls Freshman**: any botched/fumbled exchange will result in a do-over
+  two times per half with no loss of down or yardage. After that it is a loss of down, no loss of
+  yardage.
+- **Girls JV**: any botched/fumbled exchange will result in a do-over ONE time per half with no
+  loss of down or yardage. After that it is a loss of down, no loss of yardage. If a botched snap
+  occurs in the end zone, it will result in a safety awarding the opposing team 2 points and the
+  ball.
+- **JV, Varsity**: any botched/fumbled exchange will result in loss of down but no loss of
+  yardage. If a botched snap occurs in the end zone, it will result in a safety awarding the
+  opposing team 2 points and the ball.
 
 ### Passing / QB / Motion Rules
 

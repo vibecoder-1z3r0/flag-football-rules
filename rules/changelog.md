@@ -663,3 +663,25 @@ before the snap, with no restriction on timing or frequency — the false-start/
 apply once the new formation is set. Added this to Rule 6.1, and added a new **Audible** glossary
 entry distinguishing it from Rule 1.4's separate, still-unconfirmed restriction on coaches calling
 audibles from the sideline/huddle (OI-9), which remains open and unrelated to this rule.
+
+---
+
+## v2026.36 — Correction: Girls JV Added to Snap/Exchange Failure Table (Rule 7.5)
+
+**Sources:** updated 2026 General Rules & Guidelines from the league (Botched Snap/Exchange
+section), provided directly by the user, found during the Chapter 7 spot-check.
+
+Both existing 2026 source transcriptions (`2026-general-rules-and-guidelines.md`,
+`2026-coaches-cheat-sheet.md`) only covered two buckets for snap/exchange failures — Peewee/
+Freshman/Girls Freshman (2 free redos per half) and JV/Varsity (0 free redos) — leaving Girls JV
+in an undefined gap. The league's updated General Rules & Guidelines adds Girls JV as its own
+bucket: **1 free redo per team per half**, then loss of down with no yardage loss, same as the
+other buckets past their cap; the update also makes the end-zone safety consequence explicit for
+JV/Varsity (already captured via the general Rule 4.3 safety cross-reference).
+
+Updated `sources/league-rules/lancaster-ny/2026/2026-general-rules-and-guidelines.md`'s Botched
+Snap/Exchange section to the league's updated text, and updated Rule 7.5's table, Officials
+Notes, and Revision History accordingly. Checked `casebook.md` §CP-4 and §CP-14 — both use
+Peewee and JV as their example divisions respectively, neither misstates the Girls JV bucket, so
+no casebook changes were needed. Checked `penalty-matrix.md`, `glossary.md`, and
+`officials-manual.md` for stale two-bucket references — none found.
